@@ -1,0 +1,432 @@
+{
+    "fields": [
+        {
+            "key": "name",
+            "label": "name",
+            "sortable": "true"
+        },
+        {
+            "key": "21EMA*",
+            "label": "21EMA*",
+            "sortable": "true",
+            "sortByFormatted": false
+        },
+        {
+            "key": "50EMA*",
+            "label": "50EMA*",
+            "sortable": "true",
+            "sortByFormatted": false
+        },
+        {
+            "key": "200EMA*",
+            "label": "200EMA*",
+            "sortable": "true",
+            "sortByFormatted": false
+        },
+        {
+            "key": "Year gain (%)",
+            "label": "Year gain (%)",
+            "sortable": "true",
+            "sortByFormatted": false
+        },
+        {
+            "key": "USDXXX forex gain**",
+            "label": "USDXXX forex gain**",
+            "sortable": "true",
+            "sortByFormatted": false
+        },
+        {
+            "key": "Year gain USD adjusted (%)",
+            "label": "Year gain USD adjusted (%)",
+            "sortable": "true",
+            "sortByFormatted": false
+        },
+        {
+            "key": "tradetime",
+            "label": "tradetime",
+            "sortable": "true"
+        }
+    ],
+    "items": [
+        {
+            "21EMA*": -0.8,
+            "50EMA*": -5.74,
+            "200EMA*": -9.65,
+            "Year gain (%)": -13.15,
+            "USDXXX forex gain**": -0.66,
+            "Year gain USD adjusted (%)": -12.57,
+            "tradetime": "03-01-22 15:15",
+            "name": "China ChiNext Index"
+        },
+        {
+            "21EMA*": -5.14,
+            "50EMA*": -5.57,
+            "200EMA*": -9.9,
+            "Year gain (%)": -2.72,
+            "USDXXX forex gain**": 0.24,
+            "Year gain USD adjusted (%)": -2.95,
+            "tradetime": "03-01-22 17:08",
+            "name": "HongKong Hang Seng Index"
+        },
+        {
+            "21EMA*": -2.26,
+            "50EMA*": -0.43,
+            "200EMA*": 3.49,
+            "Year gain (%)": 4.9,
+            "USDXXX forex gain**": 0.32,
+            "Year gain USD adjusted (%)": 4.56,
+            "tradetime": "03-01-22 16:41",
+            "name": "Singapore Straits Times Index"
+        },
+        {
+            "21EMA*": -0.57,
+            "50EMA*": -2.5,
+            "200EMA*": -5.2,
+            "Year gain (%)": -6.49,
+            "USDXXX forex gain**": -0.66,
+            "Year gain USD adjusted (%)": -5.87,
+            "tradetime": "03-01-22 15:00",
+            "name": "China CSI 300 Index"
+        },
+        {
+            "21EMA*": 0.32,
+            "50EMA*": -0.79,
+            "200EMA*": -0.95,
+            "Year gain (%)": -4.15,
+            "USDXXX forex gain**": -0.66,
+            "Year gain USD adjusted (%)": -3.51,
+            "tradetime": "03-01-22 15:00",
+            "name": "Shanghai Composite Index"
+        },
+        {
+            "21EMA*": -0.35,
+            "50EMA*": -2.64,
+            "200EMA*": -2.66,
+            "Year gain (%)": -8.06,
+            "USDXXX forex gain**": -0.66,
+            "Year gain USD adjusted (%)": -7.45,
+            "tradetime": "03-01-22 16:29",
+            "name": "Shenzhen Composite index"
+        },
+        {
+            "21EMA*": -1.09,
+            "50EMA*": -1.92,
+            "200EMA*": -1.72,
+            "Year gain (%)": -4.68,
+            "USDXXX forex gain**": -0.25,
+            "Year gain USD adjusted (%)": -4.43,
+            "tradetime": "03-01-22 16:55",
+            "name": "Australia ASX200"
+        },
+        {
+            "21EMA*": -0.94,
+            "50EMA*": -2.89,
+            "200EMA*": -4.42,
+            "Year gain (%)": -6.76,
+            "USDXXX forex gain**": -0.06,
+            "Year gain USD adjusted (%)": -6.7,
+            "tradetime": "03-01-22 15:15",
+            "name": "Japan Nikkei 225"
+        },
+        {
+            "21EMA*": -1.41,
+            "50EMA*": -4.71,
+            "200EMA*": -4.08,
+            "Year gain (%)": -12.76,
+            "USDXXX forex gain**": 0.0,
+            "Year gain USD adjusted (%)": -12.76,
+            "tradetime": "02-28-22 17:15",
+            "name": "NASDAQ 100"
+        },
+        {
+            "21EMA*": -1.21,
+            "50EMA*": -2.96,
+            "200EMA*": -0.73,
+            "Year gain (%)": -8.23,
+            "USDXXX forex gain**": 0.0,
+            "Year gain USD adjusted (%)": -8.23,
+            "tradetime": "02-28-22 17:03",
+            "name": "S&P 500"
+        },
+        {
+            "21EMA*": -1.91,
+            "50EMA*": -3.22,
+            "200EMA*": -1.87,
+            "Year gain (%)": -6.73,
+            "USDXXX forex gain**": 0.0,
+            "Year gain USD adjusted (%)": -6.73,
+            "tradetime": "02-28-22 17:03",
+            "name": "Dow Jones Industrial Average"
+        },
+        {
+            "21EMA*": 0.63,
+            "50EMA*": -1.02,
+            "200EMA*": -0.48,
+            "Year gain (%)": -6.35,
+            "USDXXX forex gain**": 0.0,
+            "Year gain USD adjusted (%)": -6.35,
+            "tradetime": "02-28-22 16:04",
+            "name": "S&P 400 mid-cap"
+        },
+        {
+            "21EMA*": 1.04,
+            "50EMA*": -0.86,
+            "200EMA*": -0.74,
+            "Year gain (%)": -6.11,
+            "USDXXX forex gain**": 0.0,
+            "Year gain USD adjusted (%)": -6.11,
+            "tradetime": "02-28-22 17:03",
+            "name": "S&P 600 small-cap"
+        },
+        {
+            "21EMA*": -5.08,
+            "50EMA*": -6.76,
+            "200EMA*": -6.51,
+            "Year gain (%)": -9.71,
+            "USDXXX forex gain**": 1.32,
+            "Year gain USD adjusted (%)": -10.9,
+            "tradetime": "03-01-22 09:41",
+            "name": "German DAX"
+        },
+        {
+            "21EMA*": -4.0,
+            "50EMA*": -4.94,
+            "200EMA*": -2.17,
+            "Year gain (%)": -7.53,
+            "USDXXX forex gain**": 1.32,
+            "Year gain USD adjusted (%)": -8.75,
+            "tradetime": "03-01-22 09:41",
+            "name": "Italy MIB index"
+        },
+        {
+            "21EMA*": -0.36,
+            "50EMA*": 0.21,
+            "200EMA*": 3.78,
+            "Year gain (%)": 1.25,
+            "USDXXX forex gain**": 1.32,
+            "Year gain USD adjusted (%)": -0.09,
+            "tradetime": "03-01-22 08:41",
+            "name": "UK FTSE 100"
+        },
+        {
+            "21EMA*": -4.59,
+            "50EMA*": -6.15,
+            "200EMA*": -5.07,
+            "Year gain (%)": -9.29,
+            "USDXXX forex gain**": 1.32,
+            "Year gain USD adjusted (%)": -10.49,
+            "tradetime": "03-01-22 09:41",
+            "name": "EURO STOXX 50"
+        },
+        {
+            "21EMA*": -2.3,
+            "50EMA*": -3.31,
+            "200EMA*": 0.3,
+            "Year gain (%)": -3.44,
+            "USDXXX forex gain**": 1.13,
+            "Year gain USD adjusted (%)": -4.53,
+            "tradetime": "02-28-22 15:40",
+            "name": "India BSE SENSEX"
+        },
+        {
+            "21EMA*": 1.73,
+            "50EMA*": 2.85,
+            "200EMA*": 3.07,
+            "Year gain (%)": 1.86,
+            "USDXXX forex gain**": 0.65,
+            "Year gain USD adjusted (%)": 1.19,
+            "tradetime": "03-01-22 16:41",
+            "name": "Malaysia KLSE Composite index"
+        },
+        {
+            "21EMA*": -4.34,
+            "50EMA*": -5.19,
+            "200EMA*": -1.61,
+            "Year gain (%)": -7.53,
+            "USDXXX forex gain**": 1.32,
+            "Year gain USD adjusted (%)": -8.75,
+            "tradetime": "03-01-22 09:41",
+            "name": "French CAC 40"
+        },
+        {
+            "21EMA*": 0.75,
+            "50EMA*": 1.52,
+            "200EMA*": 5.05,
+            "Year gain (%)": 3.96,
+            "USDXXX forex gain**": 0.41,
+            "Year gain USD adjusted (%)": 3.53,
+            "tradetime": "03-01-22 14:50",
+            "name": "Philippine stock exchange index"
+        },
+        {
+            "21EMA*": 0.72,
+            "50EMA*": 1.69,
+            "200EMA*": 2.96,
+            "Year gain (%)": 2.14,
+            "USDXXX forex gain**": -1.99,
+            "Year gain USD adjusted (%)": 4.17,
+            "tradetime": "03-01-22 15:41",
+            "name": "Thailand SET Index"
+        },
+        {
+            "21EMA*": -2.05,
+            "50EMA*": -4.28,
+            "200EMA*": -6.63,
+            "Year gain (%)": -8.28,
+            "USDXXX forex gain**": 0.88,
+            "Year gain USD adjusted (%)": -9.09,
+            "tradetime": "02-28-22 18:01",
+            "name": "South Korea KOSPI 200"
+        },
+        {
+            "21EMA*": -1.27,
+            "50EMA*": -3.31,
+            "200EMA*": -7.32,
+            "Year gain (%)": -6.64,
+            "USDXXX forex gain**": -0.66,
+            "Year gain USD adjusted (%)": -6.02,
+            "tradetime": "03-01-22 16:29",
+            "name": "China A50 Index"
+        },
+        {
+            "21EMA*": -2.26,
+            "50EMA*": -3.24,
+            "200EMA*": 0.46,
+            "Year gain (%)": -3.23,
+            "USDXXX forex gain**": 1.13,
+            "Year gain USD adjusted (%)": -4.32,
+            "tradetime": "02-28-22 15:31",
+            "name": "India Nifty 50"
+        },
+        {
+            "21EMA*": -3.11,
+            "50EMA*": -4.35,
+            "200EMA*": -2.37,
+            "Year gain (%)": -7.23,
+            "USDXXX forex gain**": 1.32,
+            "Year gain USD adjusted (%)": -8.46,
+            "tradetime": "03-01-22 09:41",
+            "name": "EURONEXT 100"
+        },
+        {
+            "21EMA*": -1.25,
+            "50EMA*": -1.82,
+            "200EMA*": -2.1,
+            "Year gain (%)": -2.61,
+            "USDXXX forex gain**": 1.32,
+            "Year gain USD adjusted (%)": -3.9,
+            "tradetime": "03-01-22 09:41",
+            "name": "Spain IBEX 35"
+        },
+        {
+            "21EMA*": -1.27,
+            "50EMA*": -2.53,
+            "200EMA*": -0.67,
+            "Year gain (%)": -7.15,
+            "USDXXX forex gain**": 0.52,
+            "Year gain USD adjusted (%)": -7.63,
+            "tradetime": "03-01-22 09:41",
+            "name": "Swiss Market index"
+        },
+        {
+            "21EMA*": -25.77,
+            "50EMA*": -29.87,
+            "200EMA*": -33.34,
+            "Year gain (%)": -34.77,
+            "USDXXX forex gain**": 31.11,
+            "Year gain USD adjusted (%)": -55.06,
+            "tradetime": "02-25-22 18:51",
+            "name": "Russia MOEX index"
+        },
+        {
+            "21EMA*": -5.01,
+            "50EMA*": -6.97,
+            "200EMA*": -6.01,
+            "Year gain (%)": -12.34,
+            "USDXXX forex gain**": 4.82,
+            "Year gain USD adjusted (%)": -16.57,
+            "tradetime": "03-01-22 03:56",
+            "name": "Sweden OMX 30"
+        },
+        {
+            "21EMA*": -0.92,
+            "50EMA*": -2.91,
+            "200EMA*": -1.66,
+            "Year gain (%)": -8.45,
+            "USDXXX forex gain**": 0.0,
+            "Year gain USD adjusted (%)": -8.45,
+            "tradetime": "02-28-22 16:30",
+            "name": "Russell 3000 (overall U.S market)"
+        },
+        {
+            "21EMA*": 1.02,
+            "50EMA*": 2.54,
+            "200EMA*": 0.99,
+            "Year gain (%)": 7.94,
+            "USDXXX forex gain**": -7.47,
+            "Year gain USD adjusted (%)": 16.0,
+            "tradetime": "02-25-22 18:22",
+            "name": "Brazil Ibovespa index"
+        },
+        {
+            "21EMA*": 2.23,
+            "50EMA*": 2.35,
+            "200EMA*": 5.37,
+            "Year gain (%)": 0.24,
+            "USDXXX forex gain**": -0.51,
+            "Year gain USD adjusted (%)": 0.76,
+            "tradetime": "02-28-22 15:16",
+            "name": "Mexico IPC index"
+        },
+        {
+            "21EMA*": 3.7,
+            "50EMA*": 6.0,
+            "200EMA*": 13.37,
+            "Year gain (%)": 12.83,
+            "USDXXX forex gain**": 0.04,
+            "Year gain USD adjusted (%)": 12.78,
+            "tradetime": "03-01-22 11:41",
+            "name": "Saudi Tadawul All Shares Index"
+        },
+        {
+            "21EMA*": -4.95,
+            "50EMA*": -4.34,
+            "200EMA*": 2.59,
+            "Year gain (%)": -1.17,
+            "USDXXX forex gain**": 3.65,
+            "Year gain USD adjusted (%)": -4.78,
+            "tradetime": "03-01-22 10:41",
+            "name": "Israel TA-35 index"
+        },
+        {
+            "21EMA*": 0.06,
+            "50EMA*": -1.7,
+            "200EMA*": -3.53,
+            "Year gain (%)": -6.41,
+            "USDXXX forex gain**": 0.79,
+            "Year gain USD adjusted (%)": -7.16,
+            "tradetime": "03-01-22 17:58",
+            "name": "New Zealand S&P/NZX 50 Index"
+        },
+        {
+            "21EMA*": -0.75,
+            "50EMA*": -0.41,
+            "200EMA*": 4.1,
+            "Year gain (%)": -1.76,
+            "USDXXX forex gain**": 1.13,
+            "Year gain USD adjusted (%)": -2.87,
+            "tradetime": "03-01-22 17:58",
+            "name": "Taiwan TSEC weighted index"
+        },
+        {
+            "21EMA*": 1.74,
+            "50EMA*": 3.0,
+            "200EMA*": 7.85,
+            "Year gain (%)": 5.17,
+            "USDXXX forex gain**": 0.64,
+            "Year gain USD adjusted (%)": 4.49,
+            "tradetime": "03-01-22 13:33",
+            "name": "Indonesia Jakarta composite index"
+        }
+    ]
+}
