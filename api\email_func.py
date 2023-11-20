@@ -18,4 +18,4 @@ def send_gmail(recipient_email, subject_title, body_msg):
     sender_email = 'lightaiyee@gmail.com'
 
     smtp_server.sendmail(sender_email, recipient_email, 'Subject: ' + subject_title + '\n' + body_msg)
-    smtp_server.quit()  #123
+    smtp_server.quit()  # 123
