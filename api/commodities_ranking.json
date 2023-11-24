@@ -103,12 +103,12 @@
             "name": "Carbon (KRBN)"
         },
         {
-            "21EMA*": 2.31,
-            "50EMA*": 2.78,
-            "200EMA*": 1.14,
-            "PctBelow52wkHi": 9.3,
-            "PctAbove52wkLo": 9.0,
-            "YtdGain": 1.97,
+            "21EMA*": 2.33,
+            "50EMA*": 2.8,
+            "200EMA*": 1.16,
+            "PctBelow52wkHi": 9.28,
+            "PctAbove52wkLo": 9.03,
+            "YtdGain": 1.99,
             "tradetime": "11-22-23 00:00",
             "name": "Copper (CPER)"
         },
@@ -133,12 +133,12 @@
             "name": "Brent Oil (BNO)"
         },
         {
-            "21EMA*": -0.24,
-            "50EMA*": -0.83,
-            "200EMA*": -5.27,
-            "PctBelow52wkHi": 18.58,
-            "PctAbove52wkLo": 1.91,
-            "YtdGain": -17.77,
+            "21EMA*": -0.22,
+            "50EMA*": -0.81,
+            "200EMA*": -5.25,
+            "PctBelow52wkHi": 18.57,
+            "PctAbove52wkLo": 1.93,
+            "YtdGain": -17.75,
             "tradetime": "11-22-23 00:00",
             "name": "Corn (CORN)"
         },
@@ -163,12 +163,12 @@
             "name": "Dry bulk shipping (BDRY)"
         },
         {
-            "21EMA*": -0.97,
-            "50EMA*": -2.85,
-            "200EMA*": -12.84,
-            "PctBelow52wkHi": 33.55,
-            "PctAbove52wkLo": 2.26,
-            "YtdGain": -29.14,
+            "21EMA*": -0.89,
+            "50EMA*": -2.76,
+            "200EMA*": -12.77,
+            "PctBelow52wkHi": 33.49,
+            "PctAbove52wkLo": 2.35,
+            "YtdGain": -29.07,
             "tradetime": "11-22-23 00:00",
             "name": "Wheat (WEAT)"
         },
