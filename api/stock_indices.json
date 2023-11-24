@@ -53,9 +53,9 @@
     ],
     "items": [
         {
-            "21EMA*": 1.74,
-            "50EMA*": 2.11,
-            "200EMA*": 1.07,
+            "21EMA*": 1.58,
+            "50EMA*": 2.02,
+            "200EMA*": 1.05,
             "PctBelow52wkHi": 3.13,
             "PctAbove52wkLo": 7.36,
             "Year gain (%)": 3.77,
@@ -425,10 +425,10 @@
             "name": "Russell 3000 (overall U.S market)"
         },
         {
-            "21EMA*": 5.06,
-            "50EMA*": 7.09,
-            "200EMA*": 10.43,
-            "PctBelow52wkHi": -0.43,
+            "21EMA*": 4.58,
+            "50EMA*": 6.79,
+            "200EMA*": 10.32,
+            "PctBelow52wkHi": 0.0,
             "PctAbove52wkLo": 29.26,
             "Year gain (%)": 15.35,
             "FxGain": 7.73,
@@ -437,9 +437,9 @@
             "name": "Brazil Ibovespa "
         },
         {
-            "21EMA*": 3.36,
-            "50EMA*": 3.64,
-            "200EMA*": 1.86,
+            "21EMA*": 3.05,
+            "50EMA*": 3.49,
+            "200EMA*": 1.84,
             "PctBelow52wkHi": 4.46,
             "PctAbove52wkLo": 10.09,
             "Year gain (%)": 9.48,
