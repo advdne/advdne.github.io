@@ -41,9 +41,9 @@
             "PctAbv21MV": 63.3,
             "PctAbv50MV": 50.53,
             "PctAbv200MV": 31.66,
-            "NumNear52WkHigh": 104.0,
-            "NumNear52WkLow": 119.0,
-            "DateUpdated": "11-22-2023",
+            "NumNear52WkHigh": 112.0,
+            "NumNear52WkLow": 74.0,
+            "DateUpdated": "11-24-2023",
             "name": "Nasdaq Composite"
         },
         {
@@ -168,8 +168,8 @@
             "PctAbv50MV": 69.39,
             "PctAbv200MV": 46.46,
             "NumNear52WkHigh": 63.0,
-            "NumNear52WkLow": 44.0,
-            "DateUpdated": "11-23-2023",
+            "NumNear52WkLow": 30.0,
+            "DateUpdated": "11-24-2023",
             "name": "Canada (TSX)"
         },
         {
@@ -177,8 +177,8 @@
             "PctAbv50MV": 68.61,
             "PctAbv200MV": 46.62,
             "NumNear52WkHigh": 480.0,
-            "NumNear52WkLow": 159.0,
-            "DateUpdated": "11-22-2023",
+            "NumNear52WkLow": 115.0,
+            "DateUpdated": "11-24-2023",
             "name": "United States (NYSE, Nasdaq, AMEX)"
         },
         {
@@ -187,7 +187,7 @@
             "PctAbv200MV": 59.28,
             "NumNear52WkHigh": 57.0,
             "NumNear52WkLow": 12.0,
-            "DateUpdated": "11-23-2023",
+            "DateUpdated": "11-24-2023",
             "name": "Brazil"
         },
         {
@@ -195,8 +195,8 @@
             "PctAbv50MV": 51.85,
             "PctAbv200MV": 38.64,
             "NumNear52WkHigh": 25.0,
-            "NumNear52WkLow": 5.0,
-            "DateUpdated": "11-23-2023",
+            "NumNear52WkLow": 8.0,
+            "DateUpdated": "11-24-2023",
             "name": "Mexico"
         },
         {
@@ -205,7 +205,7 @@
             "PctAbv200MV": 54.66,
             "NumNear52WkHigh": 38.0,
             "NumNear52WkLow": 0.0,
-            "DateUpdated": "11-22-2023",
+            "DateUpdated": "11-24-2023",
             "name": "S&P 500 Index"
         },
         {
@@ -213,8 +213,8 @@
             "PctAbv50MV": 70.11,
             "PctAbv200MV": 52.13,
             "NumNear52WkHigh": 20.0,
-            "NumNear52WkLow": 0.0,
-            "DateUpdated": "11-22-2023",
+            "NumNear52WkLow": 1.0,
+            "DateUpdated": "11-24-2023",
             "name": "S&P 400 mid-cap index"
         },
         {
@@ -223,7 +223,7 @@
             "PctAbv200MV": 44.88,
             "NumNear52WkHigh": 25.0,
             "NumNear52WkLow": 2.0,
-            "DateUpdated": "11-22-2023",
+            "DateUpdated": "11-24-2023",
             "name": "S&P 600 small-cap index"
         },
         {
@@ -241,7 +241,7 @@
             "PctAbv200MV": 70.0,
             "NumNear52WkHigh": 2.0,
             "NumNear52WkLow": 0.0,
-            "DateUpdated": "11-22-2023",
+            "DateUpdated": "11-24-2023",
             "name": "Dow Jones Industrial Average"
         },
         {
@@ -250,7 +250,7 @@
             "PctAbv200MV": 69.31,
             "NumNear52WkHigh": 10.0,
             "NumNear52WkLow": 0.0,
-            "DateUpdated": "11-22-2023",
+            "DateUpdated": "11-24-2023",
             "name": "Nasdaq 100 index"
         },
         {
