@@ -149,9 +149,9 @@
             "name": "Japan Nikkei 225"
         },
         {
-            "21EMA*": 1.05,
-            "50EMA*": 3.17,
-            "200EMA*": 9.47,
+            "21EMA*": 0.95,
+            "50EMA*": 3.04,
+            "200EMA*": 9.37,
             "PctBelow52wkHi": 1.17,
             "PctAbove52wkLo": 48.32,
             "Year gain (%)": 44.79,
@@ -161,9 +161,9 @@
             "name": "Nasdaq 100"
         },
         {
-            "21EMA*": 2.09,
-            "50EMA*": 3.54,
-            "200EMA*": 6.18,
+            "21EMA*": 1.89,
+            "50EMA*": 3.4,
+            "200EMA*": 6.11,
             "PctBelow52wkHi": 0.54,
             "PctAbove52wkLo": 20.79,
             "Year gain (%)": 19.02,
@@ -173,9 +173,9 @@
             "name": "S&P 500"
         },
         {
-            "21EMA*": 3.91,
-            "50EMA*": 5.32,
-            "200EMA*": 6.65,
+            "21EMA*": 3.55,
+            "50EMA*": 5.1,
+            "200EMA*": 6.58,
             "PctBelow52wkHi": 0.11,
             "PctAbove52wkLo": 13.78,
             "Year gain (%)": 9.22,
@@ -197,9 +197,9 @@
             "name": "S&P 400 mid-cap"
         },
         {
-            "21EMA*": 5.69,
-            "50EMA*": 6.17,
-            "200EMA*": 3.78,
+            "21EMA*": 5.15,
+            "50EMA*": 5.91,
+            "200EMA*": 3.74,
             "PctBelow52wkHi": 7.26,
             "PctAbove52wkLo": 14.17,
             "Year gain (%)": 5.42,
@@ -425,9 +425,9 @@
             "name": "Russell 3000 (overall U.S market)"
         },
         {
-            "21EMA*": 2.67,
-            "50EMA*": 5.44,
-            "200EMA*": 9.86,
+            "21EMA*": 2.42,
+            "50EMA*": 5.22,
+            "200EMA*": 9.75,
             "PctBelow52wkHi": 1.08,
             "PctAbove52wkLo": 29.49,
             "Year gain (%)": 15.55,
@@ -437,9 +437,9 @@
             "name": "Brazil Ibovespa "
         },
         {
-            "21EMA*": 3.54,
-            "50EMA*": 4.64,
-            "200EMA*": 3.64,
+            "21EMA*": 3.21,
+            "50EMA*": 4.45,
+            "200EMA*": 3.6,
             "PctBelow52wkHi": 2.67,
             "PctAbove52wkLo": 12.15,
             "Year gain (%)": 11.53,
