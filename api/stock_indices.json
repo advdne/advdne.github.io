@@ -210,7 +210,7 @@
         },
         {
             "21EMA*": 4.65,
-            "50EMA*": 6.4,
+            "50EMA*": 6.13,
             "200EMA*": 7.7,
             "PctBelow52wkHi": -0.75,
             "PctAbove52wkLo": 19.96,
@@ -234,7 +234,7 @@
         },
         {
             "21EMA*": 0.64,
-            "50EMA*": 0.56,
+            "50EMA*": 0.54,
             "200EMA*": -0.05,
             "PctBelow52wkHi": 6.23,
             "PctAbove52wkLo": 3.56,
@@ -260,7 +260,7 @@
             "21EMA*": 4.36,
             "50EMA*": 5.5,
             "200EMA*": 8.85,
-            "PctBelow52wkHi": -0.52,
+            "PctBelow52wkHi": 0.0,
             "PctAbove52wkLo": 21.08,
             "Year gain (%)": 14.49,
             "FxGain": -0.73,
@@ -282,7 +282,7 @@
         },
         {
             "21EMA*": 2.88,
-            "50EMA*": 3.79,
+            "50EMA*": 3.64,
             "200EMA*": 4.35,
             "PctBelow52wkHi": 1.86,
             "PctAbove52wkLo": 15.28,
@@ -366,7 +366,7 @@
         },
         {
             "21EMA*": 4.35,
-            "50EMA*": 6.97,
+            "50EMA*": 6.68,
             "200EMA*": 10.46,
             "PctBelow52wkHi": -0.19,
             "PctAbove52wkLo": 26.45,
@@ -378,7 +378,7 @@
         },
         {
             "21EMA*": 2.0,
-            "50EMA*": 2.13,
+            "50EMA*": 2.04,
             "200EMA*": 0.29,
             "PctBelow52wkHi": 5.12,
             "PctAbove52wkLo": 6.57,
@@ -477,7 +477,7 @@
             "50EMA*": 2.68,
             "200EMA*": 5.81,
             "PctBelow52wkHi": 0.45,
-            "PctAbove52wkLo": 30.31,
+            "PctAbove52wkLo": 28.56,
             "Year gain (%)": 22.8,
             "FxGain": -2.89,
             "Year gain USD-adj (%)": 19.24,
