@@ -53,9 +53,9 @@
     ],
     "items": [
         {
-            "21EMA*": 1.16,
-            "50EMA*": 2.09,
-            "200EMA*": 1.72,
+            "21EMA*": 1.05,
+            "50EMA*": 2.01,
+            "200EMA*": 1.7,
             "PctBelow52wkHi": 2.37,
             "PctAbove52wkLo": 8.2,
             "Year gain (%)": 4.59,
@@ -185,9 +185,9 @@
             "name": "Dow Jones Industrial"
         },
         {
-            "21EMA*": 2.69,
-            "50EMA*": 3.75,
-            "200EMA*": 3.18,
+            "21EMA*": 2.44,
+            "50EMA*": 3.6,
+            "200EMA*": 3.15,
             "PctBelow52wkHi": 4.47,
             "PctAbove52wkLo": 12.01,
             "Year gain (%)": 7.24,
@@ -389,9 +389,9 @@
             "name": "Swiss Market index"
         },
         {
-            "21EMA*": 3.2,
-            "50EMA*": 4.08,
-            "200EMA*": 1.94,
+            "21EMA*": 2.9,
+            "50EMA*": 3.91,
+            "200EMA*": 1.92,
             "PctBelow52wkHi": 7.54,
             "PctAbove52wkLo": 13.14,
             "Year gain (%)": 5.16,
@@ -413,9 +413,9 @@
             "name": "Sweden OMX 30"
         },
         {
-            "21EMA*": 1.44,
-            "50EMA*": 2.98,
-            "200EMA*": 5.43,
+            "21EMA*": 1.31,
+            "50EMA*": 2.86,
+            "200EMA*": 5.38,
             "PctBelow52wkHi": 1.28,
             "PctAbove52wkLo": 19.58,
             "Year gain (%)": 17.71,
