@@ -333,7 +333,7 @@
             "name": "Peru peso USDPEN"
         },
         {
-            "21EMA*": -0.0,
+            "21EMA*": -0.02,
             "50EMA*": -0.0,
             "200EMA*": 2.13,
             "PctBelow52wkHi": 0.54,
@@ -343,7 +343,7 @@
             "name": "Egyptian pound USDEGP"
         },
         {
-            "21EMA*": -1.01,
+            "21EMA*": -1.02,
             "50EMA*": -2.45,
             "200EMA*": -0.82,
             "PctBelow52wkHi": 8.92,
@@ -363,7 +363,7 @@
             "name": "Polish zloty USDPLN"
         },
         {
-            "21EMA*": 1.89,
+            "21EMA*": 1.9,
             "50EMA*": 1.93,
             "200EMA*": 2.91,
             "PctBelow52wkHi": 3.4,
@@ -373,7 +373,7 @@
             "name": "South African Rand USDZAR"
         },
         {
-            "21EMA*": 0.91,
+            "21EMA*": 0.81,
             "50EMA*": 0.4,
             "200EMA*": 0.25,
             "PctBelow52wkHi": 2.57,
@@ -383,7 +383,7 @@
             "name": "Bulgarian Lev USDBGN"
         },
         {
-            "21EMA*": 0.37,
+            "21EMA*": 0.35,
             "50EMA*": -0.3,
             "200EMA*": 0.55,
             "PctBelow52wkHi": 3.71,
@@ -403,7 +403,7 @@
             "name": "Danish krone USDDKK"
         },
         {
-            "21EMA*": 0.91,
+            "21EMA*": 0.86,
             "50EMA*": 0.05,
             "200EMA*": -0.44,
             "PctBelow52wkHi": 5.41,
