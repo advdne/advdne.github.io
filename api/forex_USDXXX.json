@@ -64,7 +64,7 @@
         },
         {
             "21EMA*": -0.02,
-            "50EMA*": -0.09,
+            "50EMA*": -0.08,
             "200EMA*": -0.23,
             "PctBelow52wkHi": 0.56,
             "PctAbove52wkLo": 0.23,
@@ -84,7 +84,7 @@
         },
         {
             "21EMA*": 0.45,
-            "50EMA*": -0.02,
+            "50EMA*": -0.03,
             "200EMA*": -0.18,
             "PctBelow52wkHi": 2.83,
             "PctAbove52wkLo": 4.27,
@@ -93,7 +93,7 @@
             "name": "Euro USDEUR"
         },
         {
-            "21EMA*": -0.23,
+            "21EMA*": -0.24,
             "50EMA*": -0.92,
             "200EMA*": -1.13,
             "PctBelow52wkHi": 5.83,
@@ -103,7 +103,7 @@
             "name": "British pound USDGBP"
         },
         {
-            "21EMA*": -1.18,
+            "21EMA*": -1.17,
             "50EMA*": -1.49,
             "200EMA*": 1.6,
             "PctBelow52wkHi": 3.59,
@@ -113,7 +113,7 @@
             "name": "Japanese Yen USDJPY"
         },
         {
-            "21EMA*": 0.36,
+            "21EMA*": 0.37,
             "50EMA*": -0.25,
             "200EMA*": 0.39,
             "PctBelow52wkHi": 1.99,
@@ -133,8 +133,8 @@
             "name": "Renminbi (offshore) USDCNH"
         },
         {
-            "21EMA*": -0.18,
-            "50EMA*": -1.0,
+            "21EMA*": -0.17,
+            "50EMA*": -0.99,
             "200EMA*": -0.0,
             "PctBelow52wkHi": 4.04,
             "PctAbove52wkLo": 8.88,
@@ -143,8 +143,8 @@
             "name": "Aussie dollar USDAUD"
         },
         {
-            "21EMA*": -0.29,
-            "50EMA*": -0.4,
+            "21EMA*": -0.28,
+            "50EMA*": -0.39,
             "200EMA*": 0.45,
             "PctBelow52wkHi": 2.07,
             "PctAbove52wkLo": 3.65,
@@ -153,7 +153,7 @@
             "name": "Canadian Loonie USDCAD"
         },
         {
-            "21EMA*": -0.63,
+            "21EMA*": -0.62,
             "50EMA*": -1.67,
             "200EMA*": -0.87,
             "PctBelow52wkHi": 5.34,
@@ -183,7 +183,7 @@
             "name": "New Taiwan dollar USDTWD"
         },
         {
-            "21EMA*": -0.21,
+            "21EMA*": -0.2,
             "50EMA*": -0.98,
             "200EMA*": -2.13,
             "PctBelow52wkHi": 6.63,
@@ -193,9 +193,9 @@
             "name": "Swiss Franc USDCHF"
         },
         {
-            "21EMA*": -0.92,
-            "50EMA*": -2.44,
-            "200EMA*": 1.16,
+            "21EMA*": -1.03,
+            "50EMA*": -2.49,
+            "200EMA*": 1.15,
             "PctBelow52wkHi": 10.93,
             "PctAbove52wkLo": 1698.5,
             "YtdGain": 21.58,
@@ -203,8 +203,8 @@
             "name": "Russian Ruble USDRUB"
         },
         {
-            "21EMA*": 0.72,
-            "50EMA*": 2.24,
+            "21EMA*": 0.74,
+            "50EMA*": 2.25,
             "200EMA*": 13.67,
             "PctBelow52wkHi": 0.0,
             "PctAbove52wkLo": 54.14,
@@ -223,7 +223,7 @@
             "name": "Indonesian Rupiah USDIDR"
         },
         {
-            "21EMA*": 0.98,
+            "21EMA*": 0.97,
             "50EMA*": 0.3,
             "200EMA*": 1.07,
             "PctBelow52wkHi": 3.87,
@@ -233,8 +233,8 @@
             "name": "Thai Baht USDTHB"
         },
         {
-            "21EMA*": 0.28,
-            "50EMA*": -0.37,
+            "21EMA*": 0.3,
+            "50EMA*": -0.36,
             "200EMA*": -0.42,
             "PctBelow52wkHi": 2.76,
             "PctAbove52wkLo": 3.87,
@@ -243,8 +243,8 @@
             "name": "Philippine Peso USDPHP"
         },
         {
-            "21EMA*": -0.25,
-            "50EMA*": -0.32,
+            "21EMA*": -0.27,
+            "50EMA*": -0.33,
             "200EMA*": 0.87,
             "PctBelow52wkHi": 1.57,
             "PctAbove52wkLo": 4.12,
@@ -273,9 +273,9 @@
             "name": "Indian Rupee USDINR"
         },
         {
-            "21EMA*": -0.03,
-            "50EMA*": -0.46,
-            "200EMA*": -1.16,
+            "21EMA*": -0.08,
+            "50EMA*": -0.48,
+            "200EMA*": -1.17,
             "PctBelow52wkHi": 7.3,
             "PctAbove52wkLo": 3.95,
             "YtdGain": -7.11,
@@ -283,8 +283,8 @@
             "name": "Brazil Real USDBRL"
         },
         {
-            "21EMA*": -0.64,
-            "50EMA*": -2.19,
+            "21EMA*": -0.67,
+            "50EMA*": -2.2,
             "200EMA*": -2.18,
             "PctBelow52wkHi": 6.51,
             "PctAbove52wkLo": 2.84,
@@ -303,9 +303,9 @@
             "name": "Mexican Peso USDMXN"
         },
         {
-            "21EMA*": 1.45,
-            "50EMA*": 3.07,
-            "200EMA*": 19.95,
+            "21EMA*": 1.4,
+            "50EMA*": 3.04,
+            "200EMA*": 19.94,
             "PctBelow52wkHi": 0.06,
             "PctAbove52wkLo": 92.32,
             "YtdGain": 105.78,
@@ -313,9 +313,9 @@
             "name": "Argentina Peso USDARS"
         },
         {
-            "21EMA*": -0.58,
-            "50EMA*": -1.63,
-            "200EMA*": 0.85,
+            "21EMA*": -0.68,
+            "50EMA*": -1.67,
+            "200EMA*": 0.84,
             "PctBelow52wkHi": 7.95,
             "PctAbove52wkLo": 12.01,
             "YtdGain": 1.79,
@@ -323,8 +323,8 @@
             "name": "Chilean peso USDCLP"
         },
         {
-            "21EMA*": 0.78,
-            "50EMA*": 0.45,
+            "21EMA*": 0.74,
+            "50EMA*": 0.43,
             "200EMA*": 0.92,
             "PctBelow52wkHi": 3.0,
             "PctAbove52wkLo": 7.38,
@@ -334,7 +334,7 @@
         },
         {
             "21EMA*": -0.0,
-            "50EMA*": 0.0,
+            "50EMA*": -0.0,
             "200EMA*": 2.13,
             "PctBelow52wkHi": 0.54,
             "PctAbove52wkLo": 3.32,
@@ -364,8 +364,8 @@
         },
         {
             "21EMA*": 1.89,
-            "50EMA*": 1.92,
-            "200EMA*": 2.9,
+            "50EMA*": 1.93,
+            "200EMA*": 2.91,
             "PctBelow52wkHi": 3.4,
             "PctAbove52wkLo": 9.58,
             "YtdGain": 12.28,
@@ -374,7 +374,7 @@
         },
         {
             "21EMA*": 0.91,
-            "50EMA*": 0.43,
+            "50EMA*": 0.4,
             "200EMA*": 0.25,
             "PctBelow52wkHi": 2.57,
             "PctAbove52wkLo": 4.88,
@@ -384,7 +384,7 @@
         },
         {
             "21EMA*": 0.37,
-            "50EMA*": -0.29,
+            "50EMA*": -0.3,
             "200EMA*": 0.55,
             "PctBelow52wkHi": 3.71,
             "PctAbove52wkLo": 7.53,
@@ -404,8 +404,8 @@
         },
         {
             "21EMA*": 0.91,
-            "50EMA*": 0.07,
-            "200EMA*": -0.43,
+            "50EMA*": 0.05,
+            "200EMA*": -0.44,
             "PctBelow52wkHi": 5.41,
             "PctAbove52wkLo": 6.46,
             "YtdGain": -5.15,
@@ -414,7 +414,7 @@
         },
         {
             "21EMA*": 0.07,
-            "50EMA*": 0.04,
+            "50EMA*": 0.03,
             "200EMA*": 0.23,
             "PctBelow52wkHi": 0.36,
             "PctAbove52wkLo": 1.48,
@@ -464,8 +464,8 @@
         },
         {
             "21EMA*": 0.67,
-            "50EMA*": 0.56,
-            "200EMA*": 2.61,
+            "50EMA*": 0.55,
+            "200EMA*": 2.6,
             "PctBelow52wkHi": 2.62,
             "PctAbove52wkLo": 11.81,
             "YtdGain": 11.48,
