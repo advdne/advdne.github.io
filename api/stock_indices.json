@@ -152,7 +152,7 @@
             "21EMA*": 3.63,
             "50EMA*": 6.28,
             "200EMA*": 13.59,
-            "PctBelow52wkHi": 0.0,
+            "PctBelow52wkHi": -0.0,
             "PctAbove52wkLo": 55.66,
             "Year gain (%)": 51.95,
             "FxGain": 0.0,
@@ -221,9 +221,9 @@
             "name": "German DAX"
         },
         {
-            "21EMA*": 1.68,
-            "50EMA*": 3.82,
-            "200EMA*": 8.69,
+            "21EMA*": 1.73,
+            "50EMA*": 3.88,
+            "200EMA*": 8.75,
             "PctBelow52wkHi": 0.0,
             "PctAbove52wkLo": 17.77,
             "Year gain (%)": 17.35,
@@ -293,15 +293,15 @@
             "name": "French CAC 40"
         },
         {
-            "21EMA*": 2.2,
-            "50EMA*": 2.72,
-            "200EMA*": 0.64,
-            "PctBelow52wkHi": 9.65,
-            "PctAbove52wkLo": 7.52,
-            "Year gain (%)": -2.37,
+            "21EMA*": 3.28,
+            "50EMA*": 3.81,
+            "200EMA*": 1.7,
+            "PctBelow52wkHi": 8.69,
+            "PctAbove52wkLo": 8.66,
+            "Year gain (%)": -1.34,
             "FxGain": -0.13,
-            "Year gain USD-adj (%)": -2.5,
-            "tradetime": "12-14-23 00:00",
+            "Year gain USD-adj (%)": -1.46,
+            "tradetime": "12-15-23 00:00",
             "name": "Philippine stock exchange index"
         },
         {
@@ -509,15 +509,15 @@
             "name": "China ChiNext"
         },
         {
-            "21EMA*": -0.81,
-            "50EMA*": -0.54,
-            "200EMA*": 14.59,
-            "PctBelow52wkHi": 8.22,
-            "PctAbove52wkLo": 77.54,
-            "Year gain (%)": 41.82,
+            "21EMA*": 1.48,
+            "50EMA*": 1.76,
+            "200EMA*": 17.24,
+            "PctBelow52wkHi": 6.1,
+            "PctAbove52wkLo": 81.65,
+            "Year gain (%)": 45.1,
             "FxGain": -35.49,
-            "Year gain USD-adj (%)": -8.51,
-            "tradetime": "12-14-23 00:00",
+            "Year gain USD-adj (%)": -6.4,
+            "tradetime": "12-15-23 00:00",
             "name": "Turkey Borsa Istanbul 100"
         },
         {
