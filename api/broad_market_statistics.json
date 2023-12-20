@@ -164,7 +164,7 @@
             "name": "Indonesia"
         },
         {
-            "PctAbv21MV": 71.17,
+            "PctAbv21MV": 73.74,
             "PctAbv50MV": 73.95,
             "PctAbv200MV": 56.89,
             "NumNear52WkHigh": 111.0,
@@ -173,7 +173,7 @@
             "name": "Canada (TSX)"
         },
         {
-            "PctAbv21MV": 77.82,
+            "PctAbv21MV": 81.57,
             "PctAbv50MV": 76.17,
             "PctAbv200MV": 64.22,
             "NumNear52WkHigh": 887.0,
@@ -182,7 +182,7 @@
             "name": "United States (NYSE, Nasdaq, AMEX)"
         },
         {
-            "PctAbv21MV": 77.16,
+            "PctAbv21MV": 76.34,
             "PctAbv50MV": 74.62,
             "PctAbv200MV": 70.41,
             "NumNear52WkHigh": 102.0,
@@ -191,7 +191,7 @@
             "name": "Brazil"
         },
         {
-            "PctAbv21MV": 77.35,
+            "PctAbv21MV": 76.25,
             "PctAbv50MV": 70.1,
             "PctAbv200MV": 53.39,
             "NumNear52WkHigh": 74.0,
@@ -200,7 +200,7 @@
             "name": "Mexico"
         },
         {
-            "PctAbv21MV": 86.44,
+            "PctAbv21MV": 90.28,
             "PctAbv50MV": 87.45,
             "PctAbv200MV": 73.68,
             "NumNear52WkHigh": 35.0,
@@ -209,7 +209,7 @@
             "name": "S&P 500 Index"
         },
         {
-            "PctAbv21MV": 88.1,
+            "PctAbv21MV": 91.51,
             "PctAbv50MV": 86.51,
             "PctAbv200MV": 72.87,
             "NumNear52WkHigh": 27.0,
@@ -218,7 +218,7 @@
             "name": "S&P 400 mid-cap index"
         },
         {
-            "PctAbv21MV": 89.91,
+            "PctAbv21MV": 94.87,
             "PctAbv50MV": 87.26,
             "PctAbv200MV": 68.03,
             "NumNear52WkHigh": 38.0,
@@ -236,7 +236,7 @@
             "name": "Shenzhen Stock Exchange"
         },
         {
-            "PctAbv21MV": 90.0,
+            "PctAbv21MV": 93.33,
             "PctAbv50MV": 86.67,
             "PctAbv200MV": 80.0,
             "NumNear52WkHigh": 3.0,
@@ -245,7 +245,7 @@
             "name": "Dow Jones Industrial Average"
         },
         {
-            "PctAbv21MV": 92.0,
+            "PctAbv21MV": 93.0,
             "PctAbv50MV": 95.0,
             "PctAbv200MV": 79.0,
             "NumNear52WkHigh": 11.0,
