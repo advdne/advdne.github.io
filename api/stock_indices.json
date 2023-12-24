@@ -353,15 +353,15 @@
             "name": "India Nifty 50"
         },
         {
-            "21EMA*": 1.23,
-            "50EMA*": 2.88,
-            "200EMA*": 4.42,
-            "PctBelow52wkHi": 0.44,
-            "PctAbove52wkLo": 13.32,
-            "Year gain (%)": 13.32,
+            "21EMA*": 1.27,
+            "50EMA*": 2.93,
+            "200EMA*": 4.47,
+            "PctBelow52wkHi": 0.4,
+            "PctAbove52wkLo": 13.37,
+            "Year gain (%)": 13.37,
             "FxGain": 2.79,
-            "Year gain USD-adj (%)": 16.47,
-            "tradetime": "12-21-23 00:00",
+            "Year gain USD-adj (%)": 16.52,
+            "tradetime": "12-22-23 00:00",
             "name": "EURONEXT 100"
         },
         {
