@@ -389,9 +389,9 @@
             "name": "Swiss Market index"
         },
         {
-            "21EMA*": 6.02,
-            "50EMA*": 10.26,
-            "200EMA*": 12.03,
+            "21EMA*": 5.44,
+            "50EMA*": 9.82,
+            "200EMA*": 11.89,
             "PctBelow52wkHi": 0.38,
             "PctAbove52wkLo": 25.74,
             "Year gain (%)": 16.87,
@@ -413,10 +413,10 @@
             "name": "Sweden OMX 30"
         },
         {
-            "21EMA*": 2.96,
-            "50EMA*": 5.68,
-            "200EMA*": 10.1,
-            "PctBelow52wkHi": -0.01,
+            "21EMA*": 2.69,
+            "50EMA*": 5.44,
+            "200EMA*": 9.99,
+            "PctBelow52wkHi": 0.0,
             "PctAbove52wkLo": 26.45,
             "Year gain (%)": 24.47,
             "FxGain": 0.0,
