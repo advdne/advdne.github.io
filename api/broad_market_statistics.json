@@ -47,7 +47,7 @@
             "name": "Nasdaq Composite"
         },
         {
-            "PctAbv21MV": 69.59,
+            "PctAbv21MV": 69.44,
             "PctAbv50MV": 57.82,
             "PctAbv200MV": 31.86,
             "NumNear52WkHigh": 10.0,
@@ -56,7 +56,7 @@
             "name": "Singapore "
         },
         {
-            "PctAbv21MV": 56.65,
+            "PctAbv21MV": 56.64,
             "PctAbv50MV": 43.2,
             "PctAbv200MV": 26.44,
             "NumNear52WkHigh": 92.0,
@@ -65,7 +65,7 @@
             "name": "Hong Kong "
         },
         {
-            "PctAbv21MV": 54.48,
+            "PctAbv21MV": 54.49,
             "PctAbv50MV": 36.29,
             "PctAbv200MV": 32.68,
             "NumNear52WkHigh": 82.0,
@@ -74,7 +74,7 @@
             "name": "China (Shenzhen + Shanghai)"
         },
         {
-            "PctAbv21MV": 66.54,
+            "PctAbv21MV": 66.49,
             "PctAbv50MV": 60.99,
             "PctAbv200MV": 46.26,
             "NumNear52WkHigh": 82.0,
@@ -92,7 +92,7 @@
             "name": "Japan (TSE)"
         },
         {
-            "PctAbv21MV": 69.08,
+            "PctAbv21MV": 68.35,
             "PctAbv50MV": 77.23,
             "PctAbv200MV": 87.65,
             "NumNear52WkHigh": 215.0,
@@ -164,7 +164,7 @@
             "name": "Indonesia"
         },
         {
-            "PctAbv21MV": 73.64,
+            "PctAbv21MV": 74.4,
             "PctAbv50MV": 75.17,
             "PctAbv200MV": 59.19,
             "NumNear52WkHigh": 61.0,
@@ -173,7 +173,7 @@
             "name": "Canada (TSX)"
         },
         {
-            "PctAbv21MV": 81.55,
+            "PctAbv21MV": 77.6,
             "PctAbv50MV": 80.79,
             "PctAbv200MV": 68.49,
             "NumNear52WkHigh": 798.0,
@@ -182,7 +182,7 @@
             "name": "United States (NYSE, Nasdaq, AMEX)"
         },
         {
-            "PctAbv21MV": 80.83,
+            "PctAbv21MV": 81.2,
             "PctAbv50MV": 80.35,
             "PctAbv200MV": 73.41,
             "NumNear52WkHigh": 146.0,
@@ -191,7 +191,7 @@
             "name": "Brazil"
         },
         {
-            "PctAbv21MV": 75.24,
+            "PctAbv21MV": 74.6,
             "PctAbv50MV": 72.78,
             "PctAbv200MV": 55.71,
             "NumNear52WkHigh": 43.0,
@@ -200,7 +200,7 @@
             "name": "Mexico"
         },
         {
-            "PctAbv21MV": 88.06,
+            "PctAbv21MV": 86.84,
             "PctAbv50MV": 88.66,
             "PctAbv200MV": 77.33,
             "NumNear52WkHigh": 45.0,
