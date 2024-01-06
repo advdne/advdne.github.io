@@ -38,7 +38,7 @@
     ],
     "items": [
         {
-            "PctAbv21MV": 51.34,
+            "PctAbv21MV": 48.26,
             "PctAbv50MV": 61.57,
             "PctAbv200MV": 47.29,
             "NumNear52WkHigh": 88.0,
@@ -164,7 +164,7 @@
             "name": "Indonesia"
         },
         {
-            "PctAbv21MV": 68.72,
+            "PctAbv21MV": 68.73,
             "PctAbv50MV": 76.31,
             "PctAbv200MV": 64.41,
             "NumNear52WkHigh": 55.0,
@@ -173,7 +173,7 @@
             "name": "Canada (TSX)"
         },
         {
-            "PctAbv21MV": 55.11,
+            "PctAbv21MV": 51.64,
             "PctAbv50MV": 78.94,
             "PctAbv200MV": 73.7,
             "NumNear52WkHigh": 106.0,
@@ -182,7 +182,7 @@
             "name": "United States (NYSE, Nasdaq, AMEX)"
         },
         {
-            "PctAbv21MV": 64.48,
+            "PctAbv21MV": 65.69,
             "PctAbv50MV": 77.53,
             "PctAbv200MV": 71.17,
             "NumNear52WkHigh": 20.0,
@@ -191,7 +191,7 @@
             "name": "Brazil"
         },
         {
-            "PctAbv21MV": 43.58,
+            "PctAbv21MV": 40.8,
             "PctAbv50MV": 62.89,
             "PctAbv200MV": 50.58,
             "NumNear52WkHigh": 9.0,
@@ -200,7 +200,7 @@
             "name": "Mexico"
         },
         {
-            "PctAbv21MV": 67.25,
+            "PctAbv21MV": 60.73,
             "PctAbv50MV": 84.21,
             "PctAbv200MV": 76.02,
             "NumNear52WkHigh": 12.0,
@@ -209,7 +209,7 @@
             "name": "S&P 500 Index"
         },
         {
-            "PctAbv21MV": 54.94,
+            "PctAbv21MV": 50.4,
             "PctAbv50MV": 77.08,
             "PctAbv200MV": 74.5,
             "NumNear52WkHigh": 5.0,
@@ -218,7 +218,7 @@
             "name": "S&P 400 mid-cap index"
         },
         {
-            "PctAbv21MV": 40.6,
+            "PctAbv21MV": 38.5,
             "PctAbv50MV": 71.81,
             "PctAbv200MV": 68.01,
             "NumNear52WkHigh": 3.0,
@@ -236,7 +236,7 @@
             "name": "Shenzhen Stock Exchange"
         },
         {
-            "PctAbv21MV": 70.0,
+            "PctAbv21MV": 73.33,
             "PctAbv50MV": 90.0,
             "PctAbv200MV": 80.0,
             "NumNear52WkHigh": 1.0,
@@ -245,7 +245,7 @@
             "name": "Dow Jones Industrial Average"
         },
         {
-            "PctAbv21MV": 41.0,
+            "PctAbv21MV": 42.0,
             "PctAbv50MV": 71.0,
             "PctAbv200MV": 79.0,
             "NumNear52WkHigh": 3.0,
