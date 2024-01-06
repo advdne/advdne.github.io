@@ -39,11 +39,11 @@
     "items": [
         {
             "PctAbv21MV": 48.26,
-            "PctAbv50MV": 61.57,
-            "PctAbv200MV": 47.29,
-            "NumNear52WkHigh": 88.0,
-            "NumNear52WkLow": 83.0,
-            "DateUpdated": "01-04-2024",
+            "PctAbv50MV": 59.03,
+            "PctAbv200MV": 46.39,
+            "NumNear52WkHigh": 50.0,
+            "NumNear52WkLow": 87.0,
+            "DateUpdated": "01-05-2024",
             "name": "Nasdaq Composite"
         },
         {
@@ -165,8 +165,8 @@
         },
         {
             "PctAbv21MV": 68.73,
-            "PctAbv50MV": 76.31,
-            "PctAbv200MV": 64.41,
+            "PctAbv50MV": 76.54,
+            "PctAbv200MV": 64.54,
             "NumNear52WkHigh": 55.0,
             "NumNear52WkLow": 16.0,
             "DateUpdated": "01-05-2024",
@@ -174,55 +174,55 @@
         },
         {
             "PctAbv21MV": 51.64,
-            "PctAbv50MV": 78.94,
-            "PctAbv200MV": 73.7,
-            "NumNear52WkHigh": 106.0,
-            "NumNear52WkLow": 35.0,
+            "PctAbv50MV": 72.23,
+            "PctAbv200MV": 64.72,
+            "NumNear52WkHigh": 172.0,
+            "NumNear52WkLow": 134.0,
             "DateUpdated": "01-05-2024",
             "name": "United States (NYSE, Nasdaq, AMEX)"
         },
         {
             "PctAbv21MV": 65.69,
-            "PctAbv50MV": 77.53,
-            "PctAbv200MV": 71.17,
-            "NumNear52WkHigh": 20.0,
-            "NumNear52WkLow": 0.0,
+            "PctAbv50MV": 75.8,
+            "PctAbv200MV": 70.58,
+            "NumNear52WkHigh": 74.0,
+            "NumNear52WkLow": 7.0,
             "DateUpdated": "01-05-2024",
             "name": "Brazil"
         },
         {
             "PctAbv21MV": 40.8,
-            "PctAbv50MV": 62.89,
-            "PctAbv200MV": 50.58,
-            "NumNear52WkHigh": 9.0,
-            "NumNear52WkLow": 10.0,
-            "DateUpdated": "01-04-2024",
+            "PctAbv50MV": 59.48,
+            "PctAbv200MV": 50.29,
+            "NumNear52WkHigh": 12.0,
+            "NumNear52WkLow": 15.0,
+            "DateUpdated": "01-05-2024",
             "name": "Mexico"
         },
         {
             "PctAbv21MV": 60.73,
-            "PctAbv50MV": 84.21,
-            "PctAbv200MV": 76.02,
-            "NumNear52WkHigh": 12.0,
+            "PctAbv50MV": 81.38,
+            "PctAbv200MV": 75.91,
+            "NumNear52WkHigh": 14.0,
             "NumNear52WkLow": 0.0,
             "DateUpdated": "01-05-2024",
             "name": "S&P 500 Index"
         },
         {
             "PctAbv21MV": 50.4,
-            "PctAbv50MV": 77.08,
-            "PctAbv200MV": 74.5,
-            "NumNear52WkHigh": 5.0,
+            "PctAbv50MV": 73.47,
+            "PctAbv200MV": 72.0,
+            "NumNear52WkHigh": 6.0,
             "NumNear52WkLow": 1.0,
             "DateUpdated": "01-05-2024",
             "name": "S&P 400 mid-cap index"
         },
         {
             "PctAbv21MV": 38.5,
-            "PctAbv50MV": 71.81,
-            "PctAbv200MV": 68.01,
-            "NumNear52WkHigh": 3.0,
-            "NumNear52WkLow": 2.0,
+            "PctAbv50MV": 67.56,
+            "PctAbv200MV": 63.86,
+            "NumNear52WkHigh": 4.0,
+            "NumNear52WkLow": 5.0,
             "DateUpdated": "01-05-2024",
             "name": "S&P 600 small-cap index"
         },
@@ -237,20 +237,20 @@
         },
         {
             "PctAbv21MV": 73.33,
-            "PctAbv50MV": 90.0,
+            "PctAbv50MV": 83.33,
             "PctAbv200MV": 80.0,
-            "NumNear52WkHigh": 1.0,
+            "NumNear52WkHigh": 2.0,
             "NumNear52WkLow": 0.0,
-            "DateUpdated": "01-04-2024",
+            "DateUpdated": "01-05-2024",
             "name": "Dow Jones Industrial Average"
         },
         {
             "PctAbv21MV": 42.0,
             "PctAbv50MV": 71.0,
             "PctAbv200MV": 79.0,
-            "NumNear52WkHigh": 3.0,
+            "NumNear52WkHigh": 2.0,
             "NumNear52WkLow": 0.0,
-            "DateUpdated": "01-04-2024",
+            "DateUpdated": "01-05-2024",
             "name": "Nasdaq 100 index"
         },
         {
