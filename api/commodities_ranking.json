@@ -53,12 +53,12 @@
             "name": "Lithium (LIT)"
         },
         {
-            "21EMA*": 0.23,
-            "50EMA*": 1.62,
-            "200EMA*": 4.72,
-            "PctBelow52wkHi": 1.67,
-            "PctAbove52wkLo": 13.56,
-            "YtdGain": -0.94,
+            "21EMA*": 0.21,
+            "50EMA*": 1.61,
+            "200EMA*": 4.7,
+            "PctBelow52wkHi": 1.68,
+            "PctAbove52wkLo": 13.55,
+            "YtdGain": -0.95,
             "tradetime": "01-05-24 00:00",
             "name": "Gold (GLD)"
         },
@@ -83,12 +83,12 @@
             "name": "WTI Oil (USO)"
         },
         {
-            "21EMA*": -5.8,
-            "50EMA*": -6.17,
-            "200EMA*": -19.44,
+            "21EMA*": -5.79,
+            "50EMA*": -6.16,
+            "200EMA*": -19.43,
             "PctBelow52wkHi": 44.29,
-            "PctAbove52wkLo": 9.7,
-            "YtdGain": -6.21,
+            "PctAbove52wkLo": 9.71,
+            "YtdGain": -6.2,
             "tradetime": "01-05-24 00:00",
             "name": "Palladium (PALL)"
         },
@@ -133,12 +133,12 @@
             "name": "Brent Oil (BNO)"
         },
         {
-            "21EMA*": -2.13,
-            "50EMA*": -3.19,
-            "200EMA*": -7.62,
-            "PctBelow52wkHi": 21.97,
+            "21EMA*": -2.11,
+            "50EMA*": -3.17,
+            "200EMA*": -7.6,
+            "PctBelow52wkHi": 21.95,
             "PctAbove52wkLo": 0.0,
-            "YtdGain": -1.6,
+            "YtdGain": -1.58,
             "tradetime": "01-05-24 00:00",
             "name": "Corn (CORN)"
         },
@@ -183,11 +183,11 @@
             "name": "Soybean (SOYB)"
         },
         {
-            "21EMA*": -2.34,
-            "50EMA*": -7.44,
-            "200EMA*": -5.63,
-            "PctBelow52wkHi": 18.74,
-            "PctAbove52wkLo": 37.18,
+            "21EMA*": -2.33,
+            "50EMA*": -7.43,
+            "200EMA*": -5.62,
+            "PctBelow52wkHi": 18.73,
+            "PctAbove52wkLo": 37.19,
             "YtdGain": 1.49,
             "tradetime": "01-05-24 00:00",
             "name": "Sugar (CANE)"
