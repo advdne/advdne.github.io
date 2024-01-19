@@ -43,12 +43,12 @@
     ],
     "items": [
         {
-            "21EMA*": 0.57,
-            "50EMA*": 0.15,
-            "200EMA*": 10.34,
-            "PctBelow52wkHi": 11.76,
-            "PctAbove52wkLo": 39.21,
-            "YtdGain": 0.22,
+            "21EMA*": 0.54,
+            "50EMA*": 0.12,
+            "200EMA*": 10.31,
+            "PctBelow52wkHi": 11.78,
+            "PctAbove52wkLo": 39.17,
+            "YtdGain": 0.19,
             "tradetime": "01-17-24 00:00",
             "name": "OKB (OKB)"
         },
