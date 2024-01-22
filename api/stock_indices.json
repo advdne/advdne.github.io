@@ -257,15 +257,15 @@
             "name": "EURO STOXX 50"
         },
         {
-            "21EMA*": 0.27,
-            "50EMA*": 2.55,
-            "200EMA*": 8.75,
-            "PctBelow52wkHi": 2.24,
-            "PctAbove52wkLo": 24.61,
-            "Year gain (%)": -0.77,
+            "21EMA*": -0.09,
+            "50EMA*": 2.18,
+            "200EMA*": 8.36,
+            "PctBelow52wkHi": 2.6,
+            "PctAbove52wkLo": 24.16,
+            "Year gain (%)": -1.13,
             "FxGain": 0.13,
-            "Year gain USD-adj (%)": -0.65,
-            "tradetime": "01-19-24 00:00",
+            "Year gain USD-adj (%)": -1.01,
+            "tradetime": "01-20-24 00:00",
             "name": "India BSE SENSEX"
         },
         {
@@ -341,15 +341,15 @@
             "name": "China A50"
         },
         {
-            "21EMA*": 0.4,
-            "50EMA*": 2.92,
-            "200EMA*": 9.87,
-            "PctBelow52wkHi": 2.15,
-            "PctAbove52wkLo": 27.6,
-            "Year gain (%)": -0.5,
+            "21EMA*": 0.17,
+            "50EMA*": 2.68,
+            "200EMA*": 9.61,
+            "PctBelow52wkHi": 2.38,
+            "PctAbove52wkLo": 27.3,
+            "Year gain (%)": -0.73,
             "FxGain": 0.13,
-            "Year gain USD-adj (%)": -0.38,
-            "tradetime": "01-19-24 00:00",
+            "Year gain USD-adj (%)": -0.61,
+            "tradetime": "01-20-24 00:00",
             "name": "India Nifty 50"
         },
         {
