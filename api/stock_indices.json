@@ -149,11 +149,11 @@
             "name": "Japan Nikkei 225"
         },
         {
-            "21EMA*": 3.78,
-            "50EMA*": 6.36,
-            "200EMA*": 15.15,
-            "PctBelow52wkHi": -0.09,
-            "PctAbove52wkLo": 56.97,
+            "21EMA*": 3.42,
+            "50EMA*": 6.09,
+            "200EMA*": 14.97,
+            "PctBelow52wkHi": 0.0,
+            "PctAbove52wkLo": 56.01,
             "Year gain (%)": 3.0,
             "FxGain": 0.0,
             "Year gain USD-adj (%)": 3.0,
@@ -161,11 +161,11 @@
             "name": "Nasdaq 100"
         },
         {
-            "21EMA*": 2.27,
-            "50EMA*": 4.39,
-            "200EMA*": 9.78,
-            "PctBelow52wkHi": -0.22,
-            "PctAbove52wkLo": 27.37,
+            "21EMA*": 2.06,
+            "50EMA*": 4.21,
+            "200EMA*": 9.67,
+            "PctBelow52wkHi": 0.0,
+            "PctAbove52wkLo": 25.8,
             "Year gain (%)": 1.69,
             "FxGain": 0.0,
             "Year gain USD-adj (%)": 1.69,
@@ -173,10 +173,10 @@
             "name": "S&P 500"
         },
         {
-            "21EMA*": 1.73,
-            "50EMA*": 4.03,
-            "200EMA*": 9.03,
-            "PctBelow52wkHi": -0.36,
+            "21EMA*": 1.57,
+            "50EMA*": 3.87,
+            "200EMA*": 8.93,
+            "PctBelow52wkHi": 0.0,
             "PctAbove52wkLo": 19.43,
             "Year gain (%)": 0.83,
             "FxGain": 0.0,
@@ -197,9 +197,9 @@
             "name": "S&P 400 mid-cap"
         },
         {
-            "21EMA*": 1.89,
-            "50EMA*": 4.26,
-            "200EMA*": 7.62,
+            "21EMA*": 1.71,
+            "50EMA*": 4.09,
+            "200EMA*": 7.53,
             "PctBelow52wkHi": 3.36,
             "PctAbove52wkLo": 21.13,
             "Year gain (%)": -1.79,
@@ -425,9 +425,9 @@
             "name": "Russell 3000 (overall U.S market)"
         },
         {
-            "21EMA*": -2.6,
-            "50EMA*": -0.77,
-            "200EMA*": 5.95,
+            "21EMA*": -2.37,
+            "50EMA*": -0.74,
+            "200EMA*": 5.89,
             "PctBelow52wkHi": 5.66,
             "PctAbove52wkLo": 29.28,
             "Year gain (%)": -5.65,
@@ -437,9 +437,9 @@
             "name": "Brazil Ibovespa "
         },
         {
-            "21EMA*": -1.59,
-            "50EMA*": -0.23,
-            "200EMA*": 2.73,
+            "21EMA*": -1.45,
+            "50EMA*": -0.22,
+            "200EMA*": 2.71,
             "PctBelow52wkHi": 5.23,
             "PctAbove52wkLo": 13.54,
             "Year gain (%)": -4.64,
