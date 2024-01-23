@@ -71,7 +71,7 @@
             "NumNear52WkHigh": 18.0,
             "NumNear52WkLow": 1301.0,
             "DateUpdated": "01-23-2024",
-            "name": "China (Shenzhen + Shanghai)"
+            "name": "China (Shenzhen+Shanghai)"
         },
         {
             "PctAbv21MV": 42.81,
@@ -179,7 +179,7 @@
             "NumNear52WkHigh": 986.0,
             "NumNear52WkLow": 270.0,
             "DateUpdated": "01-22-2024",
-            "name": "United States (NYSE, Nasdaq, AMEX)"
+            "name": "United States (NYSE+Nasdaq+AMEX)"
         },
         {
             "PctAbv21MV": 54.14,
