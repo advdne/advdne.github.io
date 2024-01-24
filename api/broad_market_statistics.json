@@ -41,9 +41,9 @@
             "PctAbv21MV": 50.03,
             "PctAbv50MV": 55.79,
             "PctAbv200MV": 46.87,
-            "NumNear52WkHigh": 152.0,
-            "NumNear52WkLow": 121.0,
-            "DateUpdated": "01-22-2024",
+            "NumNear52WkHigh": 113.0,
+            "NumNear52WkLow": 95.0,
+            "DateUpdated": "01-23-2024",
             "name": "Nasdaq Composite"
         },
         {
@@ -167,27 +167,27 @@
             "PctAbv21MV": 65.74,
             "PctAbv50MV": 72.82,
             "PctAbv200MV": 66.45,
-            "NumNear52WkHigh": 233.0,
-            "NumNear52WkLow": 45.0,
-            "DateUpdated": "01-22-2024",
+            "NumNear52WkHigh": 192.0,
+            "NumNear52WkLow": 33.0,
+            "DateUpdated": "01-23-2024",
             "name": "Canada (TSX)"
         },
         {
             "PctAbv21MV": 55.27,
             "PctAbv50MV": 67.11,
             "PctAbv200MV": 63.25,
-            "NumNear52WkHigh": 986.0,
-            "NumNear52WkLow": 270.0,
-            "DateUpdated": "01-22-2024",
+            "NumNear52WkHigh": 775.0,
+            "NumNear52WkLow": 156.0,
+            "DateUpdated": "01-23-2024",
             "name": "United States (NYSE+Nasdaq+AMEX)"
         },
         {
             "PctAbv21MV": 57.87,
             "PctAbv50MV": 66.42,
             "PctAbv200MV": 69.01,
-            "NumNear52WkHigh": 132.0,
-            "NumNear52WkLow": 21.0,
-            "DateUpdated": "01-22-2024",
+            "NumNear52WkHigh": 54.0,
+            "NumNear52WkLow": 6.0,
+            "DateUpdated": "01-23-2024",
             "name": "Brazil"
         },
         {
@@ -203,27 +203,27 @@
             "PctAbv21MV": 63.56,
             "PctAbv50MV": 74.09,
             "PctAbv200MV": 70.24,
-            "NumNear52WkHigh": 71.0,
-            "NumNear52WkLow": 4.0,
-            "DateUpdated": "01-22-2024",
+            "NumNear52WkHigh": 49.0,
+            "NumNear52WkLow": 0.0,
+            "DateUpdated": "01-23-2024",
             "name": "S&P 500 Index"
         },
         {
             "PctAbv21MV": 61.44,
             "PctAbv50MV": 71.81,
             "PctAbv200MV": 72.53,
-            "NumNear52WkHigh": 38.0,
-            "NumNear52WkLow": 2.0,
-            "DateUpdated": "01-22-2024",
+            "NumNear52WkHigh": 9.0,
+            "NumNear52WkLow": 1.0,
+            "DateUpdated": "01-23-2024",
             "name": "S&P 400 mid-cap index"
         },
         {
             "PctAbv21MV": 57.19,
             "PctAbv50MV": 69.42,
             "PctAbv200MV": 65.16,
-            "NumNear52WkHigh": 36.0,
-            "NumNear52WkLow": 1.0,
-            "DateUpdated": "01-22-2024",
+            "NumNear52WkHigh": 6.0,
+            "NumNear52WkLow": 2.0,
+            "DateUpdated": "01-23-2024",
             "name": "S&P 600 small-cap index"
         },
         {
@@ -239,18 +239,18 @@
             "PctAbv21MV": 80.0,
             "PctAbv50MV": 80.0,
             "PctAbv200MV": 83.33,
-            "NumNear52WkHigh": 4.0,
+            "NumNear52WkHigh": 5.0,
             "NumNear52WkLow": 0.0,
-            "DateUpdated": "01-22-2024",
+            "DateUpdated": "01-23-2024",
             "name": "Dow Jones Industrial Average"
         },
         {
             "PctAbv21MV": 77.0,
             "PctAbv50MV": 80.0,
             "PctAbv200MV": 77.0,
-            "NumNear52WkHigh": 23.0,
-            "NumNear52WkLow": 1.0,
-            "DateUpdated": "01-22-2024",
+            "NumNear52WkHigh": 19.0,
+            "NumNear52WkLow": 0.0,
+            "DateUpdated": "01-23-2024",
             "name": "Nasdaq 100 index"
         },
         {
