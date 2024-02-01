@@ -389,7 +389,7 @@
             "name": "Swiss Market index"
         },
         {
-            "21EMA*": -0.91,
+            "21EMA*": -1.05,
             "50EMA*": 1.01,
             "200EMA*": 4.48,
             "PctBelow52wkHi": 5.75,
@@ -425,7 +425,7 @@
             "name": "Russell 3000 (overall U.S market)"
         },
         {
-            "21EMA*": -0.98,
+            "21EMA*": -0.9,
             "50EMA*": 0.05,
             "200EMA*": 6.34,
             "PctBelow52wkHi": 4.8,
@@ -437,7 +437,7 @@
             "name": "Brazil Ibovespa "
         },
         {
-            "21EMA*": 2.49,
+            "21EMA*": 2.26,
             "50EMA*": 3.78,
             "200EMA*": 7.23,
             "PctBelow52wkHi": 0.65,
