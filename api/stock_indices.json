@@ -125,15 +125,15 @@
             "name": "Shenzhen Composite "
         },
         {
-            "21EMA*": 2.09,
-            "50EMA*": 3.76,
-            "200EMA*": 6.19,
-            "PctBelow52wkHi": 0.0,
-            "PctAbove52wkLo": 13.4,
-            "Year gain (%)": 1.18,
+            "21EMA*": 0.86,
+            "50EMA*": 2.51,
+            "200EMA*": 4.91,
+            "PctBelow52wkHi": 1.2,
+            "PctAbove52wkLo": 12.04,
+            "Year gain (%)": -0.03,
             "FxGain": -3.49,
-            "Year gain USD-adj (%)": -2.34,
-            "tradetime": "01-31-24 00:00",
+            "Year gain USD-adj (%)": -3.52,
+            "tradetime": "02-01-24 00:00",
             "name": "Australia ASX200"
         },
         {
@@ -221,9 +221,9 @@
             "name": "German DAX"
         },
         {
-            "21EMA*": 1.24,
-            "50EMA*": 2.33,
-            "200EMA*": 7.58,
+            "21EMA*": 1.06,
+            "50EMA*": 2.15,
+            "200EMA*": 7.38,
             "PctBelow52wkHi": 1.16,
             "PctAbove52wkLo": 11.68,
             "Year gain (%)": 0.6,
@@ -240,7 +240,7 @@
             "PctAbove52wkLo": 5.03,
             "Year gain (%)": -1.44,
             "FxGain": 0.1,
-            "Year gain USD-adj (%)": -1.34,
+            "Year gain USD-adj (%)": -1.33,
             "tradetime": "02-01-24 00:00",
             "name": "UK FTSE 100"
         },
@@ -293,15 +293,15 @@
             "name": "French CAC 40"
         },
         {
-            "21EMA*": 0.41,
-            "50EMA*": 2.0,
-            "200EMA*": 3.04,
-            "PctBelow52wkHi": 6.66,
-            "PctAbove52wkLo": 11.07,
-            "Year gain (%)": 2.67,
+            "21EMA*": 0.43,
+            "50EMA*": 2.01,
+            "200EMA*": 3.06,
+            "PctBelow52wkHi": 6.65,
+            "PctAbove52wkLo": 11.09,
+            "Year gain (%)": 2.68,
             "FxGain": -1.22,
-            "Year gain USD-adj (%)": 1.42,
-            "tradetime": "01-30-24 00:00",
+            "Year gain USD-adj (%)": 1.43,
+            "tradetime": "02-01-24 00:00",
             "name": "Philippine stock exchange index"
         },
         {
@@ -449,27 +449,27 @@
             "name": "Mexico IPC "
         },
         {
-            "21EMA*": -0.38,
-            "50EMA*": 0.44,
-            "200EMA*": 1.54,
-            "PctBelow52wkHi": 3.71,
-            "PctAbove52wkLo": 14.31,
-            "Year gain (%)": -1.77,
+            "21EMA*": -0.77,
+            "50EMA*": 0.05,
+            "200EMA*": 1.14,
+            "PctBelow52wkHi": 4.09,
+            "PctAbove52wkLo": 13.86,
+            "Year gain (%)": -2.16,
             "FxGain": -1.14,
-            "Year gain USD-adj (%)": -2.89,
-            "tradetime": "01-31-24 00:00",
+            "Year gain USD-adj (%)": -3.27,
+            "tradetime": "02-01-24 00:00",
             "name": "Israel TA-35 "
         },
         {
-            "21EMA*": 0.52,
-            "50EMA*": 1.76,
-            "200EMA*": 2.4,
-            "PctBelow52wkHi": 2.9,
-            "PctAbove52wkLo": 10.26,
-            "Year gain (%)": 0.62,
+            "21EMA*": 1.34,
+            "50EMA*": 2.6,
+            "200EMA*": 3.23,
+            "PctBelow52wkHi": 2.1,
+            "PctAbove52wkLo": 11.16,
+            "Year gain (%)": 1.44,
             "FxGain": -2.74,
-            "Year gain USD-adj (%)": -2.14,
-            "tradetime": "01-31-24 00:00",
+            "Year gain USD-adj (%)": -1.34,
+            "tradetime": "02-01-24 00:00",
             "name": "New Zealand NZX 50"
         },
         {
@@ -509,15 +509,15 @@
             "name": "China ChiNext"
         },
         {
-            "21EMA*": 4.54,
-            "50EMA*": 6.87,
-            "200EMA*": 19.33,
-            "PctBelow52wkHi": 1.73,
-            "PctAbove52wkLo": 93.07,
-            "Year gain (%)": 13.74,
+            "21EMA*": 6.37,
+            "50EMA*": 8.75,
+            "200EMA*": 21.43,
+            "PctBelow52wkHi": 0.0,
+            "PctAbove52wkLo": 96.47,
+            "Year gain (%)": 15.74,
             "FxGain": -2.87,
-            "Year gain USD-adj (%)": 10.48,
-            "tradetime": "01-31-24 00:00",
+            "Year gain USD-adj (%)": 12.42,
+            "tradetime": "02-01-24 00:00",
             "name": "Turkey Borsa Istanbul 100"
         },
         {
