@@ -223,9 +223,9 @@
             "name": "Bitfinex Unus Sed (LEO)"
         },
         {
-            "21EMA*": -8.99,
-            "50EMA*": -12.59,
-            "200EMA*": -3.42,
+            "21EMA*": -8.27,
+            "50EMA*": -12.17,
+            "200EMA*": -3.39,
             "PctBelow52wkHi": 30.0,
             "PctAbove52wkLo": 66.1,
             "YtdGain": -23.31,
@@ -273,8 +273,8 @@
             "name": "Axie Infinity (AXS)"
         },
         {
-            "21EMA*": -6.41,
-            "50EMA*": -10.05,
+            "21EMA*": -5.9,
+            "50EMA*": -9.71,
             "200EMA*": -0.19,
             "PctBelow52wkHi": 33.84,
             "PctAbove52wkLo": 79.55,
@@ -283,9 +283,9 @@
             "name": "Algorand (ALGO)"
         },
         {
-            "21EMA*": -2.91,
-            "50EMA*": -3.62,
-            "200EMA*": 16.65,
+            "21EMA*": -2.59,
+            "50EMA*": -3.46,
+            "200EMA*": 16.46,
             "PctBelow52wkHi": 25.7,
             "PctAbove52wkLo": 104.32,
             "YtdGain": -17.89,
