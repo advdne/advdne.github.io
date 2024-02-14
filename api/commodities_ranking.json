@@ -113,11 +113,11 @@
             "name": "Copper (CPER)"
         },
         {
-            "21EMA*": 0.68,
-            "50EMA*": 31.86,
-            "200EMA*": 68.11,
-            "PctBelow52wkHi": 26.31,
-            "PctAbove52wkLo": 243.36,
+            "21EMA*": -18.59,
+            "50EMA*": -25.52,
+            "200EMA*": -45.8,
+            "PctBelow52wkHi": 60.73,
+            "PctAbove52wkLo": 0.0,
             "YtdGain": -23.47,
             "tradetime": "02-13-24 00:00",
             "name": "Natural Gas (UNG)"
