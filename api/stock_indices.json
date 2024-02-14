@@ -67,7 +67,7 @@
         {
             "21EMA*": -0.85,
             "50EMA*": -3.04,
-            "200EMA*": -11.07,
+            "200EMA*": -10.97,
             "PctBelow52wkHi": 30.6,
             "PctAbove52wkLo": 5.25,
             "Year gain (%)": -7.63,
@@ -77,9 +77,9 @@
             "name": "HongKong Hang Seng"
         },
         {
-            "21EMA*": -0.33,
+            "21EMA*": -0.26,
             "50EMA*": -0.25,
-            "200EMA*": -1.13,
+            "200EMA*": -1.11,
             "PctBelow52wkHi": 7.28,
             "PctAbove52wkLo": 2.9,
             "Year gain (%)": -3.04,
@@ -127,7 +127,7 @@
         {
             "21EMA*": 0.68,
             "50EMA*": 2.11,
-            "200EMA*": 5.0,
+            "200EMA*": 4.86,
             "PctBelow52wkHi": 1.1,
             "PctAbove52wkLo": 12.43,
             "Year gain (%)": 0.32,
@@ -139,7 +139,7 @@
         {
             "21EMA*": 6.09,
             "50EMA*": 8.26,
-            "200EMA*": 16.98,
+            "200EMA*": 16.44,
             "PctBelow52wkHi": -2.99,
             "PctAbove52wkLo": 42.97,
             "Year gain (%)": 13.45,
@@ -259,7 +259,7 @@
         {
             "21EMA*": -0.04,
             "50EMA*": 1.26,
-            "200EMA*": 7.44,
+            "200EMA*": 7.21,
             "PctBelow52wkHi": 2.42,
             "PctAbove52wkLo": 24.39,
             "Year gain (%)": -0.95,
@@ -270,8 +270,8 @@
         },
         {
             "21EMA*": 2.08,
-            "50EMA*": 3.29,
-            "200EMA*": 5.12,
+            "50EMA*": 3.08,
+            "200EMA*": 5.03,
             "PctBelow52wkHi": -0.98,
             "PctAbove52wkLo": 11.4,
             "Year gain (%)": 5.27,
@@ -294,8 +294,8 @@
         },
         {
             "21EMA*": 2.13,
-            "50EMA*": 4.03,
-            "200EMA*": 5.65,
+            "50EMA*": 3.7,
+            "200EMA*": 5.53,
             "PctBelow52wkHi": 4.05,
             "PctAbove52wkLo": 14.19,
             "Year gain (%)": 5.55,
@@ -307,7 +307,7 @@
         {
             "21EMA*": 0.36,
             "50EMA*": -0.3,
-            "200EMA*": -5.11,
+            "200EMA*": -4.96,
             "PctBelow52wkHi": 17.57,
             "PctAbove52wkLo": 2.59,
             "Year gain (%)": -1.7,
@@ -319,7 +319,7 @@
         {
             "21EMA*": 4.23,
             "50EMA*": 4.77,
-            "200EMA*": 6.95,
+            "200EMA*": 6.83,
             "PctBelow52wkHi": 0.88,
             "PctAbove52wkLo": 16.96,
             "Year gain (%)": -0.17,
@@ -343,7 +343,7 @@
         {
             "21EMA*": 0.39,
             "50EMA*": 1.94,
-            "200EMA*": 9.14,
+            "200EMA*": 8.85,
             "PctBelow52wkHi": 1.6,
             "PctAbove52wkLo": 28.32,
             "Year gain (%)": 0.05,
@@ -463,7 +463,7 @@
         {
             "21EMA*": -0.84,
             "50EMA*": 0.42,
-            "200EMA*": 1.27,
+            "200EMA*": 1.25,
             "PctBelow52wkHi": 3.85,
             "PctAbove52wkLo": 9.18,
             "Year gain (%)": -0.37,
@@ -487,7 +487,7 @@
         {
             "21EMA*": -0.08,
             "50EMA*": 0.5,
-            "200EMA*": 3.09,
+            "200EMA*": 3.02,
             "PctBelow52wkHi": 2.04,
             "PctAbove52wkLo": 9.81,
             "Year gain (%)": -0.87,
@@ -535,7 +535,7 @@
         {
             "21EMA*": -0.82,
             "50EMA*": -3.41,
-            "200EMA*": -12.04,
+            "200EMA*": -11.93,
             "PctBelow52wkHi": 31.73,
             "PctAbove52wkLo": 6.09,
             "Year gain (%)": -8.0,
