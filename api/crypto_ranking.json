@@ -44,8 +44,8 @@
     "items": [
         {
             "21EMA*": -1.87,
-            "50EMA*": -5.19,
-            "200EMA*": -0.93,
+            "50EMA*": -4.26,
+            "200EMA*": -0.91,
             "PctBelow52wkHi": 20.51,
             "PctAbove52wkLo": 25.4,
             "YtdGain": -9.72,
@@ -53,9 +53,9 @@
             "name": "OKB (OKB)"
         },
         {
-            "21EMA*": 15.33,
-            "50EMA*": 16.93,
-            "200EMA*": 35.63,
+            "21EMA*": 8.68,
+            "50EMA*": 13.2,
+            "200EMA*": 33.02,
             "PctBelow52wkHi": -5.37,
             "PctAbove52wkLo": 97.0,
             "YtdGain": 17.05,
@@ -63,9 +63,9 @@
             "name": "Bitcoin (BTC)"
         },
         {
-            "21EMA*": 12.37,
-            "50EMA*": 13.72,
-            "200EMA*": 27.87,
+            "21EMA*": 7.59,
+            "50EMA*": 11.05,
+            "200EMA*": 26.04,
             "PctBelow52wkHi": -0.59,
             "PctAbove52wkLo": 71.15,
             "YtdGain": 15.46,
@@ -73,9 +73,9 @@
             "name": "Ethereum (ETH)"
         },
         {
-            "21EMA*": 15.54,
-            "50EMA*": 21.51,
-            "200EMA*": 81.54,
+            "21EMA*": 8.88,
+            "50EMA*": 16.6,
+            "200EMA*": 73.59,
             "PctBelow52wkHi": 7.62,
             "PctAbove52wkLo": 672.53,
             "YtdGain": 10.06,
@@ -83,9 +83,9 @@
             "name": "Solana (SOL)"
         },
         {
-            "21EMA*": 6.48,
-            "50EMA*": 9.66,
-            "200EMA*": 21.76,
+            "21EMA*": 3.6,
+            "50EMA*": 7.47,
+            "200EMA*": 20.24,
             "PctBelow52wkHi": -0.35,
             "PctAbove52wkLo": 58.26,
             "YtdGain": 4.17,
@@ -93,9 +93,9 @@
             "name": "Binance Coin (BNB)"
         },
         {
-            "21EMA*": 0.1,
-            "50EMA*": -4.94,
-            "200EMA*": -6.56,
+            "21EMA*": -0.06,
+            "50EMA*": -3.98,
+            "200EMA*": -6.21,
             "PctBelow52wkHi": 36.0,
             "PctAbove52wkLo": 15.8,
             "YtdGain": -14.64,
@@ -103,9 +103,9 @@
             "name": "Ripple (XRP)"
         },
         {
-            "21EMA*": 14.22,
-            "50EMA*": 15.79,
-            "200EMA*": 58.57,
+            "21EMA*": 6.99,
+            "50EMA*": 11.74,
+            "200EMA*": 53.21,
             "PctBelow52wkHi": 18.17,
             "PctAbove52wkLo": 350.21,
             "YtdGain": 2.61,
@@ -113,9 +113,9 @@
             "name": "Avalanche (AVAX)"
         },
         {
-            "21EMA*": 6.14,
-            "50EMA*": 5.35,
-            "200EMA*": 20.47,
+            "21EMA*": 3.71,
+            "50EMA*": 4.35,
+            "200EMA*": 19.12,
             "PctBelow52wkHi": 20.68,
             "PctAbove52wkLo": 100.61,
             "YtdGain": -10.73,
@@ -123,9 +123,9 @@
             "name": "Polkadot (DOT)"
         },
         {
-            "21EMA*": 1.35,
-            "50EMA*": -0.89,
-            "200EMA*": 3.89,
+            "21EMA*": 0.42,
+            "50EMA*": -0.86,
+            "200EMA*": 3.61,
             "PctBelow52wkHi": 20.39,
             "PctAbove52wkLo": 39.96,
             "YtdGain": -9.05,
@@ -134,8 +134,8 @@
         },
         {
             "21EMA*": 5.54,
-            "50EMA*": 4.12,
-            "200EMA*": 9.03,
+            "50EMA*": 3.0,
+            "200EMA*": 8.4,
             "PctBelow52wkHi": 18.44,
             "PctAbove52wkLo": 68.43,
             "YtdGain": -12.68,
@@ -144,8 +144,8 @@
         },
         {
             "21EMA*": 7.05,
-            "50EMA*": 4.27,
-            "200EMA*": 17.63,
+            "50EMA*": 3.22,
+            "200EMA*": 16.39,
             "PctBelow52wkHi": 29.18,
             "PctAbove52wkLo": 124.13,
             "YtdGain": -16.75,
@@ -154,8 +154,8 @@
         },
         {
             "21EMA*": 0.68,
-            "50EMA*": -0.41,
-            "200EMA*": -4.59,
+            "50EMA*": -1.04,
+            "200EMA*": -4.51,
             "PctBelow52wkHi": 39.17,
             "PctAbove52wkLo": 17.05,
             "YtdGain": -5.44,
@@ -164,8 +164,8 @@
         },
         {
             "21EMA*": 12.74,
-            "50EMA*": 12.3,
-            "200EMA*": 20.24,
+            "50EMA*": 9.67,
+            "200EMA*": 18.94,
             "PctBelow52wkHi": 11.5,
             "PctAbove52wkLo": 165.16,
             "YtdGain": 4.01,
@@ -174,8 +174,8 @@
         },
         {
             "21EMA*": 8.6,
-            "50EMA*": 5.71,
-            "200EMA*": 9.2,
+            "50EMA*": 5.09,
+            "200EMA*": 8.81,
             "PctBelow52wkHi": 14.84,
             "PctAbove52wkLo": 63.82,
             "YtdGain": -3.19,
@@ -184,8 +184,8 @@
         },
         {
             "21EMA*": 7.89,
-            "50EMA*": 4.23,
-            "200EMA*": 13.47,
+            "50EMA*": 3.58,
+            "200EMA*": 12.68,
             "PctBelow52wkHi": 17.47,
             "PctAbove52wkLo": 83.09,
             "YtdGain": -9.29,
@@ -194,8 +194,8 @@
         },
         {
             "21EMA*": 9.91,
-            "50EMA*": 9.27,
-            "200EMA*": 40.51,
+            "50EMA*": 7.28,
+            "200EMA*": 37.35,
             "PctBelow52wkHi": 25.67,
             "PctAbove52wkLo": 224.48,
             "YtdGain": -12.25,
@@ -204,8 +204,8 @@
         },
         {
             "21EMA*": 19.09,
-            "50EMA*": 26.87,
-            "200EMA*": 61.58,
+            "50EMA*": 20.13,
+            "200EMA*": 56.07,
             "PctBelow52wkHi": -3.63,
             "PctAbove52wkLo": 287.3,
             "YtdGain": 32.74,
@@ -214,8 +214,8 @@
         },
         {
             "21EMA*": 3.22,
-            "50EMA*": 3.9,
-            "200EMA*": 6.23,
+            "50EMA*": 3.17,
+            "200EMA*": 5.88,
             "PctBelow52wkHi": 0.17,
             "PctAbove52wkLo": 18.76,
             "YtdGain": 4.91,
@@ -224,8 +224,8 @@
         },
         {
             "21EMA*": 0.17,
-            "50EMA*": -4.52,
-            "200EMA*": 3.82,
+            "50EMA*": -3.51,
+            "200EMA*": 3.61,
             "PctBelow52wkHi": 24.81,
             "PctAbove52wkLo": 78.4,
             "YtdGain": -17.63,
@@ -234,8 +234,8 @@
         },
         {
             "21EMA*": 10.18,
-            "50EMA*": 14.61,
-            "200EMA*": 30.81,
+            "50EMA*": 11.55,
+            "200EMA*": 28.66,
             "PctBelow52wkHi": -2.81,
             "PctAbove52wkLo": 82.42,
             "YtdGain": 17.79,
@@ -244,8 +244,8 @@
         },
         {
             "21EMA*": 3.57,
-            "50EMA*": 0.8,
-            "200EMA*": 4.16,
+            "50EMA*": 0.96,
+            "200EMA*": 4.02,
             "PctBelow52wkHi": 18.27,
             "PctAbove52wkLo": 83.57,
             "YtdGain": -6.55,
@@ -254,8 +254,8 @@
         },
         {
             "21EMA*": 2.42,
-            "50EMA*": -1.19,
-            "200EMA*": 1.89,
+            "50EMA*": -1.25,
+            "200EMA*": 1.69,
             "PctBelow52wkHi": 25.7,
             "PctAbove52wkLo": 65.56,
             "YtdGain": -21.86,
@@ -264,8 +264,8 @@
         },
         {
             "21EMA*": 4.2,
-            "50EMA*": 2.12,
-            "200EMA*": 9.93,
+            "50EMA*": 1.65,
+            "200EMA*": 9.3,
             "PctBelow52wkHi": 25.57,
             "PctAbove52wkLo": 83.76,
             "YtdGain": -14.38,
@@ -274,8 +274,8 @@
         },
         {
             "21EMA*": 4.97,
-            "50EMA*": 1.01,
-            "200EMA*": 10.83,
+            "50EMA*": 0.62,
+            "200EMA*": 10.08,
             "PctBelow52wkHi": 26.44,
             "PctAbove52wkLo": 99.65,
             "YtdGain": -20.73,
@@ -284,8 +284,8 @@
         },
         {
             "21EMA*": 6.97,
-            "50EMA*": 6.22,
-            "200EMA*": 27.34,
+            "50EMA*": 4.59,
+            "200EMA*": 25.25,
             "PctBelow52wkHi": 18.28,
             "PctAbove52wkLo": 124.73,
             "YtdGain": -9.69,
