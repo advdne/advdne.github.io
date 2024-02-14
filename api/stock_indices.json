@@ -53,9 +53,9 @@
     ],
     "items": [
         {
-            "21EMA*": -1.9,
-            "50EMA*": -0.88,
-            "200EMA*": 1.5,
+            "21EMA*": -1.73,
+            "50EMA*": -0.85,
+            "200EMA*": 1.48,
             "PctBelow52wkHi": 3.03,
             "PctAbove52wkLo": 9.86,
             "Year gain (%)": -1.78,
@@ -186,8 +186,8 @@
         },
         {
             "21EMA*": 0.04,
-            "50EMA*": 1.8,
-            "200EMA*": 6.06,
+            "50EMA*": 1.73,
+            "200EMA*": 5.99,
             "PctBelow52wkHi": 2.44,
             "PctAbove52wkLo": 18.84,
             "Year gain (%)": -0.59,
@@ -390,8 +390,8 @@
         },
         {
             "21EMA*": -0.53,
-            "50EMA*": 1.12,
-            "200EMA*": 4.85,
+            "50EMA*": 1.08,
+            "200EMA*": 4.8,
             "PctBelow52wkHi": 4.94,
             "PctAbove52wkLo": 19.99,
             "Year gain (%)": -3.1,
@@ -413,9 +413,9 @@
             "name": "Sweden OMX 30"
         },
         {
-            "21EMA*": 0.85,
-            "50EMA*": 3.36,
-            "200EMA*": 9.89,
+            "21EMA*": 0.78,
+            "50EMA*": 3.22,
+            "200EMA*": 9.78,
             "PctBelow52wkHi": 1.57,
             "PctAbove52wkLo": 27.43,
             "Year gain (%)": 3.19,
