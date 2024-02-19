@@ -183,12 +183,12 @@
             "name": "Soybean (SOYB)"
         },
         {
-            "21EMA*": -0.29,
-            "50EMA*": -0.09,
-            "200EMA*": 1.6,
-            "PctBelow52wkHi": 12.12,
-            "PctAbove52wkLo": 36.04,
-            "YtdGain": 9.75,
+            "21EMA*": -0.31,
+            "50EMA*": -0.12,
+            "200EMA*": 1.58,
+            "PctBelow52wkHi": 12.14,
+            "PctAbove52wkLo": 36.0,
+            "YtdGain": 9.72,
             "tradetime": "02-16-24 00:00",
             "name": "Sugar (CANE)"
         },
