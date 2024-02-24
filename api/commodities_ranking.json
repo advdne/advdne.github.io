@@ -109,7 +109,7 @@
             "PctBelow52wkHi": 4.85,
             "PctAbove52wkLo": 10.8,
             "YtdGain": 0.7,
-            "tradetime": "02-22-24 00:00",
+            "tradetime": "02-23-24 00:00",
             "name": "Copper (CPER)"
         },
         {
@@ -169,7 +169,7 @@
             "PctBelow52wkHi": 32.38,
             "PctAbove52wkLo": 3.44,
             "YtdGain": -9.38,
-            "tradetime": "02-22-24 00:00",
+            "tradetime": "02-23-24 00:00",
             "name": "Wheat (WEAT)"
         },
         {
@@ -209,7 +209,7 @@
             "PctBelow52wkHi": 20.25,
             "PctAbove52wkLo": 6.23,
             "YtdGain": -9.09,
-            "tradetime": "02-22-24 00:00",
+            "tradetime": "02-23-24 00:00",
             "name": "Platinum (PPLT)"
         }
     ]
