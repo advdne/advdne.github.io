@@ -223,9 +223,9 @@
             "name": "Bitfinex Unus Sed (LEO)"
         },
         {
-            "21EMA*": 8.98,
-            "50EMA*": 9.3,
-            "200EMA*": 17.55,
+            "21EMA*": 7.89,
+            "50EMA*": 8.81,
+            "200EMA*": 17.32,
             "PctBelow52wkHi": 13.63,
             "PctAbove52wkLo": 104.93,
             "YtdGain": -5.38,
