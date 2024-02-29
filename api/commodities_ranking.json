@@ -43,9 +43,9 @@
     ],
     "items": [
         {
-            "21EMA*": 1.55,
+            "21EMA*": 0.94,
             "50EMA*": -2.55,
-            "200EMA*": -17.2,
+            "200EMA*": -16.94,
             "PctBelow52wkHi": 36.94,
             "PctAbove52wkLo": 10.37,
             "YtdGain": -14.53,
@@ -53,7 +53,7 @@
             "name": "Lithium (LIT)"
         },
         {
-            "21EMA*": 0.39,
+            "21EMA*": 0.32,
             "50EMA*": 0.49,
             "200EMA*": 2.9,
             "PctBelow52wkHi": 2.28,
@@ -63,7 +63,7 @@
             "name": "Gold (GLD)"
         },
         {
-            "21EMA*": -1.06,
+            "21EMA*": -0.83,
             "50EMA*": -1.7,
             "200EMA*": -2.63,
             "PctBelow52wkHi": 13.87,
@@ -73,7 +73,7 @@
             "name": "Silver (SLV)"
         },
         {
-            "21EMA*": 1.69,
+            "21EMA*": 1.17,
             "50EMA*": 2.52,
             "200EMA*": 2.71,
             "PctBelow52wkHi": 12.2,
@@ -83,7 +83,7 @@
             "name": "WTI Oil (USO)"
         },
         {
-            "21EMA*": 0.5,
+            "21EMA*": 0.82,
             "50EMA*": -2.59,
             "200EMA*": -18.9,
             "PctBelow52wkHi": 41.44,
@@ -93,9 +93,9 @@
             "name": "Palladium (PALL)"
         },
         {
-            "21EMA*": -4.51,
+            "21EMA*": -4.17,
             "50EMA*": -9.11,
-            "200EMA*": -19.05,
+            "200EMA*": -18.77,
             "PctBelow52wkHi": 30.8,
             "PctAbove52wkLo": 0.74,
             "YtdGain": -21.18,
@@ -103,9 +103,9 @@
             "name": "Carbon (KRBN)"
         },
         {
-            "21EMA*": 0.39,
+            "21EMA*": 0.25,
             "50EMA*": 0.62,
-            "200EMA*": 1.4,
+            "200EMA*": 1.36,
             "PctBelow52wkHi": 6.77,
             "PctAbove52wkLo": 8.57,
             "YtdGain": -1.33,
@@ -113,9 +113,9 @@
             "name": "Copper (CPER)"
         },
         {
-            "21EMA*": -8.9,
+            "21EMA*": -8.27,
             "50EMA*": -18.37,
-            "200EMA*": -43.44,
+            "200EMA*": -42.99,
             "PctBelow52wkHi": 60.48,
             "PctAbove52wkLo": 5.75,
             "YtdGain": -22.98,
@@ -123,9 +123,9 @@
             "name": "Natural Gas (UNG)"
         },
         {
-            "21EMA*": 1.47,
+            "21EMA*": 1.09,
             "50EMA*": 2.53,
-            "200EMA*": 3.67,
+            "200EMA*": 3.58,
             "PctBelow52wkHi": 9.49,
             "PctAbove52wkLo": 23.32,
             "YtdGain": 8.64,
@@ -133,9 +133,9 @@
             "name": "Brent Oil (BNO)"
         },
         {
-            "21EMA*": -3.03,
+            "21EMA*": -2.75,
             "50EMA*": -5.88,
-            "200EMA*": -13.34,
+            "200EMA*": -13.13,
             "PctBelow52wkHi": 29.41,
             "PctAbove52wkLo": 1.59,
             "YtdGain": -10.99,
@@ -143,9 +143,9 @@
             "name": "Corn (CORN)"
         },
         {
-            "21EMA*": 1.33,
+            "21EMA*": 1.03,
             "50EMA*": 2.8,
-            "200EMA*": 3.95,
+            "200EMA*": 3.86,
             "PctBelow52wkHi": 12.27,
             "PctAbove52wkLo": 24.06,
             "YtdGain": 9.0,
@@ -153,29 +153,29 @@
             "name": "Gasoline (UGA)"
         },
         {
-            "21EMA*": 10.51,
+            "21EMA*": 7.03,
             "50EMA*": 20.64,
-            "200EMA*": 57.17,
-            "PctBelow52wkHi": 4.22,
+            "200EMA*": 55.06,
+            "PctBelow52wkHi": 8.63,
             "PctAbove52wkLo": 205.17,
             "YtdGain": 18.79,
             "tradetime": "02-28-24 00:00",
             "name": "Dry bulk shipping (BDRY)"
         },
         {
-            "21EMA*": -2.55,
+            "21EMA*": -2.35,
             "50EMA*": -4.55,
-            "200EMA*": -12.37,
-            "PctBelow52wkHi": 32.92,
+            "200EMA*": -12.17,
+            "PctBelow52wkHi": 31.46,
             "PctAbove52wkLo": 2.49,
             "YtdGain": -10.22,
             "tradetime": "02-28-24 00:00",
             "name": "Wheat (WEAT)"
         },
         {
-            "21EMA*": -3.37,
+            "21EMA*": -2.85,
             "50EMA*": -5.97,
-            "200EMA*": -10.36,
+            "200EMA*": -10.18,
             "PctBelow52wkHi": 18.0,
             "PctAbove52wkLo": 0.0,
             "YtdGain": -11.02,
@@ -183,9 +183,9 @@
             "name": "Soybean (SOYB)"
         },
         {
-            "21EMA*": -1.02,
+            "21EMA*": -1.18,
             "50EMA*": -1.25,
-            "200EMA*": 0.22,
+            "200EMA*": 0.17,
             "PctBelow52wkHi": 13.31,
             "PctAbove52wkLo": 32.22,
             "YtdGain": 8.27,
@@ -193,9 +193,9 @@
             "name": "Sugar (CANE)"
         },
         {
-            "21EMA*": -5.1,
+            "21EMA*": -4.37,
             "50EMA*": -4.86,
-            "200EMA*": 4.92,
+            "200EMA*": 4.8,
             "PctBelow52wkHi": 14.5,
             "PctAbove52wkLo": 47.51,
             "YtdGain": -0.54,
@@ -203,9 +203,9 @@
             "name": "Uranium (URA)"
         },
         {
-            "21EMA*": -2.01,
+            "21EMA*": -1.74,
             "50EMA*": -3.02,
-            "200EMA*": -5.69,
+            "200EMA*": -5.6,
             "PctBelow52wkHi": 21.99,
             "PctAbove52wkLo": 3.91,
             "YtdGain": -11.08,
