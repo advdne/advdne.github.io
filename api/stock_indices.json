@@ -341,15 +341,15 @@
             "name": "China A50"
         },
         {
-            "21EMA*": -0.01,
-            "50EMA*": 1.57,
-            "200EMA*": 8.65,
-            "PctBelow52wkHi": 1.59,
-            "PctAbove52wkLo": 29.73,
-            "Year gain (%)": 1.16,
+            "21EMA*": 1.79,
+            "50EMA*": 3.4,
+            "200EMA*": 10.6,
+            "PctBelow52wkHi": -0.18,
+            "PctAbove52wkLo": 32.06,
+            "Year gain (%)": 2.98,
             "FxGain": 0.31,
-            "Year gain USD-adj (%)": 1.47,
-            "tradetime": "02-29-24 00:00",
+            "Year gain USD-adj (%)": 3.3,
+            "tradetime": "03-02-24 00:00",
             "name": "India Nifty 50"
         },
         {
@@ -401,15 +401,15 @@
             "name": "Russell 2000 small-cap"
         },
         {
-            "21EMA*": 1.84,
-            "50EMA*": 3.68,
-            "200EMA*": 8.37,
-            "PctBelow52wkHi": 0.35,
-            "PctAbove52wkLo": 19.67,
-            "Year gain (%)": 2.37,
+            "21EMA*": 2.2,
+            "50EMA*": 4.05,
+            "200EMA*": 8.76,
+            "PctBelow52wkHi": -0.0,
+            "PctAbove52wkLo": 20.09,
+            "Year gain (%)": 2.73,
             "FxGain": -2.75,
-            "Year gain USD-adj (%)": -0.44,
-            "tradetime": "02-29-24 00:00",
+            "Year gain USD-adj (%)": -0.09,
+            "tradetime": "03-01-24 00:00",
             "name": "Sweden OMX 30"
         },
         {
@@ -473,15 +473,15 @@
             "name": "New Zealand NZX 50"
         },
         {
-            "21EMA*": 2.65,
-            "50EMA*": 5.24,
-            "200EMA*": 11.24,
-            "PctBelow52wkHi": -0.0,
-            "PctAbove52wkLo": 24.61,
-            "Year gain (%)": 5.78,
+            "21EMA*": 2.48,
+            "50EMA*": 5.07,
+            "200EMA*": 11.06,
+            "PctBelow52wkHi": 0.16,
+            "PctAbove52wkLo": 24.41,
+            "Year gain (%)": 5.61,
             "FxGain": -2.96,
-            "Year gain USD-adj (%)": 2.65,
-            "tradetime": "02-29-24 00:00",
+            "Year gain USD-adj (%)": 2.48,
+            "tradetime": "03-01-24 00:00",
             "name": "Taiwan TSEC weighted"
         },
         {
@@ -509,15 +509,15 @@
             "name": "China ChiNext"
         },
         {
-            "21EMA*": 1.81,
-            "50EMA*": 6.56,
-            "200EMA*": 22.6,
-            "PctBelow52wkHi": 1.93,
-            "PctAbove52wkLo": 108.91,
-            "Year gain (%)": 23.07,
+            "21EMA*": 0.74,
+            "50EMA*": 5.44,
+            "200EMA*": 21.31,
+            "PctBelow52wkHi": 2.95,
+            "PctAbove52wkLo": 106.72,
+            "Year gain (%)": 21.78,
             "FxGain": -5.49,
-            "Year gain USD-adj (%)": 16.32,
-            "tradetime": "02-29-24 00:00",
+            "Year gain USD-adj (%)": 15.1,
+            "tradetime": "03-01-24 00:00",
             "name": "Turkey Borsa Istanbul 100"
         },
         {
