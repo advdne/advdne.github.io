@@ -221,9 +221,9 @@
             "name": "German DAX"
         },
         {
-            "21EMA*": 3.08,
-            "50EMA*": 6.08,
-            "200EMA*": 13.71,
+            "21EMA*": 3.04,
+            "50EMA*": 6.03,
+            "200EMA*": 13.66,
             "PctBelow52wkHi": 0.0,
             "PctAbove52wkLo": 18.14,
             "Year gain (%)": 6.43,
@@ -293,15 +293,15 @@
             "name": "French CAC 40"
         },
         {
-            "21EMA*": -0.31,
-            "50EMA*": 1.56,
-            "200EMA*": 4.82,
-            "PctBelow52wkHi": 1.64,
-            "PctAbove52wkLo": 14.68,
-            "Year gain (%)": 6.0,
+            "21EMA*": 1.22,
+            "50EMA*": 3.11,
+            "200EMA*": 6.43,
+            "PctBelow52wkHi": 0.14,
+            "PctAbove52wkLo": 16.44,
+            "Year gain (%)": 7.63,
             "FxGain": -0.56,
-            "Year gain USD-adj (%)": 5.41,
-            "tradetime": "03-07-24 00:00",
+            "Year gain USD-adj (%)": 7.03,
+            "tradetime": "03-08-24 00:00",
             "name": "Philippine stock exchange index"
         },
         {
@@ -509,15 +509,15 @@
             "name": "China ChiNext"
         },
         {
-            "21EMA*": 0.57,
-            "50EMA*": 4.24,
-            "200EMA*": 19.61,
-            "PctBelow52wkHi": 3.41,
-            "PctAbove52wkLo": 105.74,
-            "Year gain (%)": 21.2,
+            "21EMA*": 1.69,
+            "50EMA*": 5.4,
+            "200EMA*": 20.95,
+            "PctBelow52wkHi": 2.34,
+            "PctAbove52wkLo": 108.04,
+            "Year gain (%)": 22.56,
             "FxGain": -7.42,
-            "Year gain USD-adj (%)": 12.21,
-            "tradetime": "03-07-24 00:00",
+            "Year gain USD-adj (%)": 13.46,
+            "tradetime": "03-08-24 00:00",
             "name": "Turkey Borsa Istanbul 100"
         },
         {
