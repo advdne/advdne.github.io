@@ -43,7 +43,7 @@
     ],
     "items": [
         {
-            "21EMA*": 4.75,
+            "21EMA*": 5.06,
             "50EMA*": 12.33,
             "200EMA*": 23.62,
             "PctBelow52wkHi": 10.95,
@@ -106,7 +106,7 @@
             "21EMA*": 23.02,
             "50EMA*": 39.58,
             "200EMA*": 96.17,
-            "PctBelow52wkHi": 0.0,
+            "PctBelow52wkHi": -1.48,
             "PctAbove52wkLo": 601.13,
             "YtdGain": 59.79,
             "tradetime": "03-18-24 00:00",
@@ -146,7 +146,7 @@
             "21EMA*": 25.44,
             "50EMA*": 54.98,
             "200EMA*": 123.02,
-            "PctBelow52wkHi": 0.07,
+            "PctBelow52wkHi": -1.44,
             "PctAbove52wkLo": 438.63,
             "YtdGain": 100.07,
             "tradetime": "03-18-24 00:00",
@@ -213,17 +213,17 @@
             "name": "Chainlink (LINK)"
         },
         {
-            "21EMA*": 12.0,
+            "21EMA*": 11.06,
             "50EMA*": 24.35,
             "200EMA*": 45.36,
-            "PctBelow52wkHi": 0.0,
+            "PctBelow52wkHi": -0.28,
             "PctAbove52wkLo": 70.02,
             "YtdGain": 56.4,
             "tradetime": "03-18-24 00:00",
             "name": "Bitfinex Unus Sed (LEO)"
         },
         {
-            "21EMA*": 2.05,
+            "21EMA*": 2.7,
             "50EMA*": 11.87,
             "200EMA*": 32.2,
             "PctBelow52wkHi": 12.57,
@@ -233,7 +233,7 @@
             "name": "Aave (AAVE)"
         },
         {
-            "21EMA*": -5.82,
+            "21EMA*": -4.99,
             "50EMA*": -3.46,
             "200EMA*": 13.74,
             "PctBelow52wkHi": 13.12,
@@ -243,7 +243,7 @@
             "name": "Tron (TRX)"
         },
         {
-            "21EMA*": 19.52,
+            "21EMA*": 17.56,
             "50EMA*": 37.62,
             "200EMA*": 67.72,
             "PctBelow52wkHi": 10.21,
@@ -253,7 +253,7 @@
             "name": "Toncoin (TON)"
         },
         {
-            "21EMA*": -6.29,
+            "21EMA*": -5.12,
             "50EMA*": 3.77,
             "200EMA*": 22.96,
             "PctBelow52wkHi": 21.41,
@@ -263,7 +263,7 @@
             "name": "Sandbox (SAND)"
         },
         {
-            "21EMA*": -3.84,
+            "21EMA*": -2.77,
             "50EMA*": 7.54,
             "200EMA*": 31.97,
             "PctBelow52wkHi": 18.62,
@@ -273,7 +273,7 @@
             "name": "Axie Infinity (AXS)"
         },
         {
-            "21EMA*": -3.47,
+            "21EMA*": -2.54,
             "50EMA*": 9.33,
             "200EMA*": 37.81,
             "PctBelow52wkHi": 20.51,
@@ -283,7 +283,7 @@
             "name": "Algorand (ALGO)"
         },
         {
-            "21EMA*": -4.67,
+            "21EMA*": -3.75,
             "50EMA*": 3.05,
             "200EMA*": 31.71,
             "PctBelow52wkHi": 14.22,
