@@ -243,13 +243,13 @@
             "name": "Tron (TRX)"
         },
         {
-            "21EMA*": 25.61,
-            "50EMA*": 49.06,
-            "200EMA*": 87.4,
-            "PctBelow52wkHi": 1.17,
-            "PctAbove52wkLo": 275.01,
-            "YtdGain": 90.9,
-            "tradetime": "03-22-24 00:00",
+            "21EMA*": 36.32,
+            "50EMA*": 61.77,
+            "200EMA*": 103.38,
+            "PctBelow52wkHi": -7.26,
+            "PctAbove52wkLo": 306.98,
+            "YtdGain": 107.17,
+            "tradetime": "03-23-24 00:00",
             "name": "Toncoin (TON)"
         },
         {
