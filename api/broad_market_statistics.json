@@ -47,7 +47,7 @@
             "name": "Nasdaq Composite"
         },
         {
-            "PctAbv21MV": 45.79,
+            "PctAbv21MV": 45.15,
             "PctAbv50MV": 40.05,
             "PctAbv200MV": 28.97,
             "NumNear52WkHigh": 6.0,
@@ -56,7 +56,7 @@
             "name": "Singapore "
         },
         {
-            "PctAbv21MV": 43.39,
+            "PctAbv21MV": 41.06,
             "PctAbv50MV": 44.02,
             "PctAbv200MV": 29.43,
             "NumNear52WkHigh": 71.0,
