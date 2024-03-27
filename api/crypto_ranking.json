@@ -246,7 +246,7 @@
             "21EMA*": 33.66,
             "50EMA*": 63.39,
             "200EMA*": 116.86,
-            "PctBelow52wkHi": 0.03,
+            "PctBelow52wkHi": -0.0,
             "PctAbove52wkLo": 353.08,
             "YtdGain": 130.64,
             "tradetime": "03-25-24 00:00",
