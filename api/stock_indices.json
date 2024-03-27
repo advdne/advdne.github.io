@@ -53,9 +53,9 @@
     ],
     "items": [
         {
-            "21EMA*": 0.83,
-            "50EMA*": 2.48,
-            "200EMA*": 6.32,
+            "21EMA*": 0.76,
+            "50EMA*": 2.38,
+            "200EMA*": 6.26,
             "PctBelow52wkHi": 0.79,
             "PctAbove52wkLo": 16.95,
             "Year gain (%)": 4.55,
@@ -149,11 +149,11 @@
             "name": "Japan Nikkei 225"
         },
         {
-            "21EMA*": 0.85,
-            "50EMA*": 2.97,
-            "200EMA*": 13.3,
+            "21EMA*": 0.77,
+            "50EMA*": 2.85,
+            "200EMA*": 13.15,
             "PctBelow52wkHi": 0.7,
-            "PctAbove52wkLo": 49.27,
+            "PctAbove52wkLo": 48.64,
             "Year gain (%)": 8.23,
             "FxGain": 0.0,
             "Year gain USD-adj (%)": 8.23,
@@ -161,11 +161,11 @@
             "name": "Nasdaq 100"
         },
         {
-            "21EMA*": 1.19,
-            "50EMA*": 3.6,
-            "200EMA*": 11.9,
+            "21EMA*": 1.08,
+            "50EMA*": 3.45,
+            "200EMA*": 11.76,
             "PctBelow52wkHi": 0.72,
-            "PctAbove52wkLo": 34.96,
+            "PctAbove52wkLo": 33.7,
             "Year gain (%)": 9.09,
             "FxGain": 0.0,
             "Year gain USD-adj (%)": 9.09,
@@ -173,9 +173,9 @@
             "name": "S&P 500"
         },
         {
-            "21EMA*": 0.64,
-            "50EMA*": 2.04,
-            "200EMA*": 8.3,
+            "21EMA*": 0.58,
+            "50EMA*": 1.95,
+            "200EMA*": 8.21,
             "PctBelow52wkHi": 1.25,
             "PctAbove52wkLo": 23.46,
             "Year gain (%)": 4.23,
@@ -197,9 +197,9 @@
             "name": "S&P 400 mid-cap"
         },
         {
-            "21EMA*": 0.37,
-            "50EMA*": 1.37,
-            "200EMA*": 5.65,
+            "21EMA*": 0.34,
+            "50EMA*": 1.31,
+            "200EMA*": 5.59,
             "PctBelow52wkHi": 2.51,
             "PctAbove52wkLo": 22.19,
             "Year gain (%)": -0.93,
@@ -425,9 +425,9 @@
             "name": "Russell 3000 (overall U.S market)"
         },
         {
-            "21EMA*": -0.8,
-            "50EMA*": -0.81,
-            "200EMA*": 3.91,
+            "21EMA*": -0.73,
+            "50EMA*": -0.78,
+            "200EMA*": 3.87,
             "PctBelow52wkHi": 5.46,
             "PctAbove52wkLo": 29.55,
             "Year gain (%)": -5.46,
@@ -437,9 +437,9 @@
             "name": "Brazil Ibovespa "
         },
         {
-            "21EMA*": 1.97,
-            "50EMA*": 2.1,
-            "200EMA*": 5.17,
+            "21EMA*": 1.78,
+            "50EMA*": 2.01,
+            "200EMA*": 5.12,
             "PctBelow52wkHi": 2.56,
             "PctAbove52wkLo": 18.7,
             "Year gain (%)": -0.31,
