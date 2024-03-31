@@ -509,15 +509,15 @@
             "name": "China ChiNext"
         },
         {
-            "21EMA*": 1.06,
-            "50EMA*": 3.0,
-            "200EMA*": 16.94,
-            "PctBelow52wkHi": 3.14,
-            "PctAbove52wkLo": 106.33,
-            "Year gain (%)": 21.55,
+            "21EMA*": 1.76,
+            "50EMA*": 3.71,
+            "200EMA*": 17.74,
+            "PctBelow52wkHi": 2.47,
+            "PctAbove52wkLo": 107.74,
+            "Year gain (%)": 22.38,
             "FxGain": -8.71,
-            "Year gain USD-adj (%)": 10.96,
-            "tradetime": "03-28-24 00:00",
+            "Year gain USD-adj (%)": 11.72,
+            "tradetime": "03-29-24 00:00",
             "name": "Turkey Borsa Istanbul 100"
         },
         {
