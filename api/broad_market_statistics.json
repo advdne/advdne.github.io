@@ -56,12 +56,12 @@
             "name": "Singapore "
         },
         {
-            "PctAbv21MV": 36.24,
-            "PctAbv50MV": 26.95,
-            "PctAbv200MV": 15.94,
-            "NumNear52WkHigh": 64.0,
-            "NumNear52WkLow": 312.0,
-            "DateUpdated": "04-01-2024",
+            "PctAbv21MV": 43.23,
+            "PctAbv50MV": 41.63,
+            "PctAbv200MV": 28.67,
+            "NumNear52WkHigh": 113.0,
+            "NumNear52WkLow": 283.0,
+            "DateUpdated": "04-02-2024",
             "name": "Hong Kong "
         },
         {
@@ -272,12 +272,12 @@
             "name": "Australia ASX 200 index"
         },
         {
-            "PctAbv21MV": 45.12,
-            "PctAbv50MV": 46.34,
-            "PctAbv200MV": 34.15,
-            "NumNear52WkHigh": 2.0,
-            "NumNear52WkLow": 3.0,
-            "DateUpdated": "03-28-2024",
+            "PctAbv21MV": 57.32,
+            "PctAbv50MV": 57.32,
+            "PctAbv200MV": 39.02,
+            "NumNear52WkHigh": 6.0,
+            "NumNear52WkLow": 2.0,
+            "DateUpdated": "04-02-2024",
             "name": "Hang Seng Index"
         },
         {
