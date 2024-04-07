@@ -56,7 +56,7 @@
             "21EMA*": 1.48,
             "50EMA*": 3.16,
             "200EMA*": 7.43,
-            "PctBelow52wkHi": 0.0,
+            "PctBelow52wkHi": -0.0,
             "PctAbove52wkLo": 18.82,
             "Year gain (%)": 6.23,
             "FxGain": -1.73,
@@ -221,9 +221,9 @@
             "name": "German DAX"
         },
         {
-            "21EMA*": 1.38,
-            "50EMA*": 4.64,
-            "200EMA*": 14.14,
+            "21EMA*": 0.08,
+            "50EMA*": 3.3,
+            "200EMA*": 12.67,
             "PctBelow52wkHi": 1.76,
             "PctAbove52wkLo": 18.63,
             "Year gain (%)": 6.87,
@@ -293,15 +293,15 @@
             "name": "French CAC 40"
         },
         {
-            "21EMA*": -0.68,
-            "50EMA*": 0.26,
-            "200EMA*": 3.71,
-            "PctBelow52wkHi": 2.19,
-            "PctAbove52wkLo": 14.51,
-            "Year gain (%)": 5.85,
+            "21EMA*": -1.87,
+            "50EMA*": -0.94,
+            "200EMA*": 2.47,
+            "PctBelow52wkHi": 3.36,
+            "PctAbove52wkLo": 13.14,
+            "Year gain (%)": 4.58,
             "FxGain": -1.97,
-            "Year gain USD-adj (%)": 3.76,
-            "tradetime": "04-04-24 00:00",
+            "Year gain USD-adj (%)": 2.52,
+            "tradetime": "04-05-24 00:00",
             "name": "Philippine stock exchange index"
         },
         {
@@ -509,15 +509,15 @@
             "name": "China ChiNext"
         },
         {
-            "21EMA*": 0.7,
-            "50EMA*": 2.77,
-            "200EMA*": 16.53,
-            "PctBelow52wkHi": 5.09,
-            "PctAbove52wkLo": 107.44,
-            "Year gain (%)": 22.21,
+            "21EMA*": 6.1,
+            "50EMA*": 8.29,
+            "200EMA*": 22.79,
+            "PctBelow52wkHi": 0.0,
+            "PctAbove52wkLo": 118.57,
+            "Year gain (%)": 28.76,
             "FxGain": -7.73,
-            "Year gain USD-adj (%)": 12.77,
-            "tradetime": "04-04-24 00:00",
+            "Year gain USD-adj (%)": 18.82,
+            "tradetime": "04-05-24 00:00",
             "name": "Turkey Borsa Istanbul 100"
         },
         {
