@@ -221,7 +221,7 @@
             "name": "German DAX"
         },
         {
-            "21EMA*": -0.18,
+            "21EMA*": -0.19,
             "50EMA*": 2.69,
             "200EMA*": 12.02,
             "PctBelow52wkHi": 1.96,
@@ -245,7 +245,7 @@
             "name": "UK FTSE 100"
         },
         {
-            "21EMA*": -0.08,
+            "21EMA*": -0.07,
             "50EMA*": 2.32,
             "200EMA*": 10.21,
             "PctBelow52wkHi": 1.62,
@@ -353,7 +353,7 @@
             "name": "India Nifty 50"
         },
         {
-            "21EMA*": 1.0,
+            "21EMA*": 0.91,
             "50EMA*": 3.08,
             "200EMA*": 8.88,
             "PctBelow52wkHi": 0.46,
@@ -401,7 +401,7 @@
             "name": "Russell 2000 small-cap"
         },
         {
-            "21EMA*": 0.48,
+            "21EMA*": 0.43,
             "50EMA*": 2.33,
             "200EMA*": 8.58,
             "PctBelow52wkHi": 1.23,
@@ -449,7 +449,7 @@
             "name": "Mexico IPC "
         },
         {
-            "21EMA*": 0.86,
+            "21EMA*": 0.84,
             "50EMA*": 2.77,
             "200EMA*": 7.0,
             "PctBelow52wkHi": 1.51,
@@ -512,7 +512,7 @@
             "21EMA*": 6.78,
             "50EMA*": 9.63,
             "200EMA*": 24.67,
-            "PctBelow52wkHi": -0.0,
+            "PctBelow52wkHi": 0.0,
             "PctAbove52wkLo": 123.01,
             "Year gain (%)": 31.38,
             "FxGain": -8.39,
@@ -521,7 +521,7 @@
             "name": "Turkey Borsa Istanbul 100"
         },
         {
-            "21EMA*": 1.82,
+            "21EMA*": 1.66,
             "50EMA*": 3.34,
             "200EMA*": 7.36,
             "PctBelow52wkHi": 0.75,
@@ -545,10 +545,10 @@
             "name": "Hang Seng China Enterprise"
         },
         {
-            "21EMA*": 1.64,
+            "21EMA*": 1.49,
             "50EMA*": 3.82,
             "200EMA*": 11.21,
-            "PctBelow52wkHi": -0.2,
+            "PctBelow52wkHi": 0.0,
             "PctAbove52wkLo": 24.17,
             "Year gain (%)": 12.69,
             "FxGain": -1.88,
@@ -557,7 +557,7 @@
             "name": "Netherlands AEX "
         },
         {
-            "21EMA*": 1.07,
+            "21EMA*": 0.97,
             "50EMA*": 2.47,
             "200EMA*": 4.41,
             "PctBelow52wkHi": 1.05,
