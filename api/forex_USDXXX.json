@@ -117,7 +117,7 @@
             "50EMA*": 0.48,
             "200EMA*": 0.99,
             "PctBelow52wkHi": 1.25,
-            "PctAbove52wkLo": 2.92,
+            "PctAbove52wkLo": 2.58,
             "YtdGain": 1.96,
             "tradetime": "04-16-24 00:00",
             "name": "Renminbi (onshore) USDCNY"
@@ -307,7 +307,7 @@
             "50EMA*": 3.57,
             "200EMA*": 38.36,
             "PctBelow52wkHi": 0.0,
-            "PctAbove52wkLo": 275.1,
+            "PctAbove52wkLo": 270.64,
             "YtdGain": 7.43,
             "tradetime": "04-16-24 00:00",
             "name": "Argentina Peso USDARS"
