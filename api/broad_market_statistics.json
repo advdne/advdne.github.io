@@ -65,30 +65,30 @@
             "name": "Hong Kong "
         },
         {
-            "PctAbv21MV": 14.47,
-            "PctAbv50MV": 19.02,
-            "PctAbv200MV": 15.63,
-            "NumNear52WkHigh": 51.0,
-            "NumNear52WkLow": 468.0,
-            "DateUpdated": "04-16-2024",
+            "PctAbv21MV": 24.38,
+            "PctAbv50MV": 27.24,
+            "PctAbv200MV": 19.82,
+            "NumNear52WkHigh": 169.0,
+            "NumNear52WkLow": 36.0,
+            "DateUpdated": "04-17-2024",
             "name": "China (Shenzhen+Shanghai)"
         },
         {
-            "PctAbv21MV": 35.03,
-            "PctAbv50MV": 41.39,
-            "PctAbv200MV": 44.8,
-            "NumNear52WkHigh": 37.0,
-            "NumNear52WkLow": 138.0,
-            "DateUpdated": "04-16-2024",
+            "PctAbv21MV": 36.17,
+            "PctAbv50MV": 41.64,
+            "PctAbv200MV": 45.35,
+            "NumNear52WkHigh": 49.0,
+            "NumNear52WkLow": 126.0,
+            "DateUpdated": "04-17-2024",
             "name": "Australia (ASX)"
         },
         {
-            "PctAbv21MV": 28.84,
-            "PctAbv50MV": 41.24,
-            "PctAbv200MV": 59.59,
-            "NumNear52WkHigh": 44.0,
-            "NumNear52WkLow": 188.0,
-            "DateUpdated": "04-16-2024",
+            "PctAbv21MV": 22.18,
+            "PctAbv50MV": 34.69,
+            "PctAbv200MV": 56.63,
+            "NumNear52WkHigh": 33.0,
+            "NumNear52WkLow": 235.0,
+            "DateUpdated": "04-17-2024",
             "name": "Japan (TSE)"
         },
         {
@@ -227,12 +227,12 @@
             "name": "S&P 600 small-cap index"
         },
         {
-            "PctAbv21MV": 11.16,
-            "PctAbv50MV": 14.34,
-            "PctAbv200MV": 12.4,
-            "NumNear52WkHigh": 25.0,
-            "NumNear52WkLow": 234.0,
-            "DateUpdated": "04-16-2024",
+            "PctAbv21MV": 19.77,
+            "PctAbv50MV": 22.88,
+            "PctAbv200MV": 16.34,
+            "NumNear52WkHigh": 59.0,
+            "NumNear52WkLow": 20.0,
+            "DateUpdated": "04-17-2024",
             "name": "Shenzhen Stock Exchange"
         },
         {
@@ -254,21 +254,21 @@
             "name": "Nasdaq 100 index"
         },
         {
-            "PctAbv21MV": 37.61,
-            "PctAbv50MV": 58.41,
-            "PctAbv200MV": 78.32,
-            "NumNear52WkHigh": 0.0,
-            "NumNear52WkLow": 1.0,
-            "DateUpdated": "04-16-2024",
+            "PctAbv21MV": 26.55,
+            "PctAbv50MV": 47.35,
+            "PctAbv200MV": 73.89,
+            "NumNear52WkHigh": 1.0,
+            "NumNear52WkLow": 10.0,
+            "DateUpdated": "04-17-2024",
             "name": "Japan Nikkei 225 index"
         },
         {
-            "PctAbv21MV": 18.09,
-            "PctAbv50MV": 31.66,
-            "PctAbv200MV": 54.82,
-            "NumNear52WkHigh": 2.0,
-            "NumNear52WkLow": 14.0,
-            "DateUpdated": "04-16-2024",
+            "PctAbv21MV": 22.61,
+            "PctAbv50MV": 33.67,
+            "PctAbv200MV": 55.84,
+            "NumNear52WkHigh": 6.0,
+            "NumNear52WkLow": 9.0,
+            "DateUpdated": "04-17-2024",
             "name": "Australia ASX 200 index"
         },
         {
@@ -281,12 +281,12 @@
             "name": "Hang Seng Index"
         },
         {
-            "PctAbv21MV": 18.18,
-            "PctAbv50MV": 24.27,
-            "PctAbv200MV": 19.25,
-            "NumNear52WkHigh": 26.0,
-            "NumNear52WkLow": 234.0,
-            "DateUpdated": "04-16-2024",
+            "PctAbv21MV": 29.63,
+            "PctAbv50MV": 32.19,
+            "PctAbv200MV": 23.76,
+            "NumNear52WkHigh": 110.0,
+            "NumNear52WkLow": 16.0,
+            "DateUpdated": "04-17-2024",
             "name": "Shanghai Composite Index"
         },
         {
