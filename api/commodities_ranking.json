@@ -53,12 +53,12 @@
             "name": "Lithium (LIT)"
         },
         {
-            "21EMA*": 3.61,
-            "50EMA*": 7.9,
-            "200EMA*": 15.72,
-            "PctBelow52wkHi": 0.74,
-            "PctAbove52wkLo": 30.07,
-            "YtdGain": 14.87,
+            "21EMA*": 3.96,
+            "50EMA*": 8.27,
+            "200EMA*": 16.12,
+            "PctBelow52wkHi": 0.4,
+            "PctAbove52wkLo": 30.51,
+            "YtdGain": 15.26,
             "tradetime": "04-18-24 00:00",
             "name": "Gold (GLD)"
         },
