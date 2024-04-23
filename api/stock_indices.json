@@ -149,7 +149,7 @@
             "name": "Japan Nikkei 225"
         },
         {
-            "21EMA*": -3.6,
+            "21EMA*": -3.29,
             "50EMA*": -3.16,
             "200EMA*": 5.01,
             "PctBelow52wkHi": 6.15,
@@ -161,7 +161,7 @@
             "name": "Nasdaq 100"
         },
         {
-            "21EMA*": -2.09,
+            "21EMA*": -1.9,
             "50EMA*": -1.32,
             "200EMA*": 5.82,
             "PctBelow52wkHi": 4.64,
@@ -173,7 +173,7 @@
             "name": "S&P 500"
         },
         {
-            "21EMA*": -0.63,
+            "21EMA*": -0.57,
             "50EMA*": -0.69,
             "200EMA*": 4.26,
             "PctBelow52wkHi": 3.94,
@@ -197,9 +197,9 @@
             "name": "S&P 400 mid-cap"
         },
         {
-            "21EMA*": -1.5,
+            "21EMA*": -1.37,
             "50EMA*": -1.78,
-            "200EMA*": 1.5,
+            "200EMA*": 1.48,
             "PctBelow52wkHi": 5.99,
             "PctAbove52wkLo": 18.27,
             "Year gain (%)": -4.11,
@@ -221,9 +221,9 @@
             "name": "German DAX"
         },
         {
-            "21EMA*": 0.14,
-            "50EMA*": 2.03,
-            "200EMA*": 10.97,
+            "21EMA*": -0.44,
+            "50EMA*": 1.43,
+            "200EMA*": 10.33,
             "PctBelow52wkHi": 2.02,
             "PctAbove52wkLo": 18.32,
             "Year gain (%)": 6.59,
@@ -233,7 +233,7 @@
             "name": "Italy MIB index"
         },
         {
-            "21EMA*": 1.62,
+            "21EMA*": 1.63,
             "50EMA*": 2.74,
             "200EMA*": 4.91,
             "PctBelow52wkHi": -0.0,
@@ -293,15 +293,15 @@
             "name": "French CAC 40"
         },
         {
-            "21EMA*": -3.42,
-            "50EMA*": -4.22,
-            "200EMA*": -2.07,
-            "PctBelow52wkHi": 7.69,
-            "PctAbove52wkLo": 8.07,
-            "Year gain (%)": -0.11,
+            "21EMA*": -3.41,
+            "50EMA*": -4.2,
+            "200EMA*": -2.05,
+            "PctBelow52wkHi": 7.68,
+            "PctAbove52wkLo": 8.09,
+            "Year gain (%)": -0.09,
             "FxGain": -3.66,
-            "Year gain USD-adj (%)": -3.76,
-            "tradetime": "04-19-24 00:00",
+            "Year gain USD-adj (%)": -3.75,
+            "tradetime": "04-22-24 00:00",
             "name": "Philippine stock exchange index"
         },
         {
@@ -389,7 +389,7 @@
             "name": "Swiss Market index"
         },
         {
-            "21EMA*": -2.55,
+            "21EMA*": -2.56,
             "50EMA*": -2.73,
             "200EMA*": 1.58,
             "PctBelow52wkHi": 7.39,
@@ -425,9 +425,9 @@
             "name": "Russell 3000 (overall U.S market)"
         },
         {
-            "21EMA*": -0.75,
+            "21EMA*": -0.68,
             "50EMA*": -1.23,
-            "200EMA*": 2.26,
+            "200EMA*": 2.23,
             "PctBelow52wkHi": 6.42,
             "PctAbove52wkLo": 28.23,
             "Year gain (%)": -6.42,
@@ -437,9 +437,9 @@
             "name": "Brazil Ibovespa "
         },
         {
-            "21EMA*": 0.11,
+            "21EMA*": 0.1,
             "50EMA*": 0.25,
-            "200EMA*": 3.22,
+            "200EMA*": 3.19,
             "PctBelow52wkHi": 3.68,
             "PctAbove52wkLo": 17.33,
             "Year gain (%)": -1.45,
@@ -509,15 +509,15 @@
             "name": "China ChiNext"
         },
         {
-            "21EMA*": 3.43,
-            "50EMA*": 6.62,
-            "200EMA*": 21.58,
-            "PctBelow52wkHi": 1.23,
-            "PctAbove52wkLo": 120.27,
-            "Year gain (%)": 29.76,
+            "21EMA*": 2.91,
+            "50EMA*": 6.09,
+            "200EMA*": 20.97,
+            "PctBelow52wkHi": 1.72,
+            "PctAbove52wkLo": 119.16,
+            "Year gain (%)": 29.11,
             "FxGain": -9.1,
-            "Year gain USD-adj (%)": 17.95,
-            "tradetime": "04-19-24 00:00",
+            "Year gain USD-adj (%)": 17.36,
+            "tradetime": "04-22-24 00:00",
             "name": "Turkey Borsa Istanbul 100"
         },
         {
