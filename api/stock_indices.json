@@ -150,8 +150,8 @@
         },
         {
             "21EMA*": -3.6,
-            "50EMA*": -3.28,
-            "200EMA*": 5.07,
+            "50EMA*": -3.16,
+            "200EMA*": 5.01,
             "PctBelow52wkHi": 6.15,
             "PctAbove52wkLo": 35.25,
             "Year gain (%)": 2.29,
@@ -162,8 +162,8 @@
         },
         {
             "21EMA*": -2.09,
-            "50EMA*": -1.37,
-            "200EMA*": 5.88,
+            "50EMA*": -1.32,
+            "200EMA*": 5.82,
             "PctBelow52wkHi": 4.64,
             "PctAbove52wkLo": 23.54,
             "Year gain (%)": 5.05,
@@ -174,8 +174,8 @@
         },
         {
             "21EMA*": -0.63,
-            "50EMA*": -0.71,
-            "200EMA*": 4.31,
+            "50EMA*": -0.69,
+            "200EMA*": 4.26,
             "PctBelow52wkHi": 3.94,
             "PctAbove52wkLo": 17.96,
             "Year gain (%)": 1.46,
@@ -198,7 +198,7 @@
         },
         {
             "21EMA*": -1.5,
-            "50EMA*": -1.86,
+            "50EMA*": -1.78,
             "200EMA*": 1.5,
             "PctBelow52wkHi": 5.99,
             "PctAbove52wkLo": 18.27,
@@ -236,7 +236,7 @@
             "21EMA*": 1.62,
             "50EMA*": 2.74,
             "200EMA*": 4.91,
-            "PctBelow52wkHi": -0.35,
+            "PctBelow52wkHi": -0.0,
             "PctAbove52wkLo": 10.57,
             "Year gain (%)": 3.76,
             "FxGain": -2.99,
@@ -426,7 +426,7 @@
         },
         {
             "21EMA*": -0.75,
-            "50EMA*": -1.28,
+            "50EMA*": -1.23,
             "200EMA*": 2.26,
             "PctBelow52wkHi": 6.42,
             "PctAbove52wkLo": 28.23,
@@ -438,7 +438,7 @@
         },
         {
             "21EMA*": 0.11,
-            "50EMA*": 0.26,
+            "50EMA*": 0.25,
             "200EMA*": 3.22,
             "PctBelow52wkHi": 3.68,
             "PctAbove52wkLo": 17.33,
@@ -449,7 +449,7 @@
             "name": "Mexico IPC "
         },
         {
-            "21EMA*": -0.44,
+            "21EMA*": -0.4,
             "50EMA*": 0.47,
             "200EMA*": 4.24,
             "PctBelow52wkHi": 3.8,
@@ -557,7 +557,7 @@
             "name": "Netherlands AEX "
         },
         {
-            "21EMA*": 1.41,
+            "21EMA*": 1.28,
             "50EMA*": 2.62,
             "200EMA*": 4.91,
             "PctBelow52wkHi": 0.24,
