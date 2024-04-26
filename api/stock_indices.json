@@ -53,9 +53,9 @@
     ],
     "items": [
         {
-            "21EMA*": -0.1,
-            "50EMA*": 0.77,
-            "200EMA*": 4.86,
+            "21EMA*": -0.09,
+            "50EMA*": 0.74,
+            "200EMA*": 4.81,
             "PctBelow52wkHi": 2.13,
             "PctAbove52wkLo": 16.8,
             "Year gain (%)": 4.42,
@@ -149,9 +149,9 @@
             "name": "Japan Nikkei 225"
         },
         {
-            "21EMA*": -1.77,
-            "50EMA*": -1.8,
-            "200EMA*": 6.21,
+            "21EMA*": -1.61,
+            "50EMA*": -1.73,
+            "200EMA*": 6.15,
             "PctBelow52wkHi": 4.96,
             "PctAbove52wkLo": 36.98,
             "Year gain (%)": 3.59,
@@ -161,9 +161,9 @@
             "name": "Nasdaq 100"
         },
         {
-            "21EMA*": -1.04,
-            "50EMA*": -0.57,
-            "200EMA*": 6.47,
+            "21EMA*": -0.94,
+            "50EMA*": -0.54,
+            "200EMA*": 6.4,
             "PctBelow52wkHi": 3.92,
             "PctAbove52wkLo": 24.47,
             "Year gain (%)": 5.84,
@@ -173,9 +173,9 @@
             "name": "S&P 500"
         },
         {
-            "21EMA*": -0.98,
-            "50EMA*": -1.08,
-            "200EMA*": 3.74,
+            "21EMA*": -0.89,
+            "50EMA*": -1.04,
+            "200EMA*": 3.7,
             "PctBelow52wkHi": 4.32,
             "PctAbove52wkLo": 17.48,
             "Year gain (%)": 1.05,
@@ -185,9 +185,9 @@
             "name": "Dow Jones Industrial"
         },
         {
-            "21EMA*": -0.8,
-            "50EMA*": -0.3,
-            "200EMA*": 5.71,
+            "21EMA*": -0.73,
+            "50EMA*": -0.29,
+            "200EMA*": 5.65,
             "PctBelow52wkHi": 5.23,
             "PctAbove52wkLo": 24.07,
             "Year gain (%)": 3.79,
@@ -197,9 +197,9 @@
             "name": "S&P 400 mid-cap"
         },
         {
-            "21EMA*": -0.64,
-            "50EMA*": -1.0,
-            "200EMA*": 2.23,
+            "21EMA*": -0.59,
+            "50EMA*": -0.96,
+            "200EMA*": 2.21,
             "PctBelow52wkHi": 5.24,
             "PctAbove52wkLo": 19.22,
             "Year gain (%)": -3.34,
@@ -221,7 +221,7 @@
             "name": "German DAX"
         },
         {
-            "21EMA*": 0.94,
+            "21EMA*": 0.95,
             "50EMA*": 2.75,
             "200EMA*": 11.72,
             "PctBelow52wkHi": 2.31,
@@ -236,7 +236,7 @@
             "21EMA*": 1.81,
             "50EMA*": 3.08,
             "200EMA*": 5.46,
-            "PctBelow52wkHi": -0.42,
+            "PctBelow52wkHi": 0.0,
             "PctAbove52wkLo": 11.33,
             "Year gain (%)": 4.47,
             "FxGain": -1.73,
@@ -389,9 +389,9 @@
             "name": "Swiss Market index"
         },
         {
-            "21EMA*": -1.52,
-            "50EMA*": -1.87,
-            "200EMA*": 2.2,
+            "21EMA*": -1.38,
+            "50EMA*": -1.8,
+            "200EMA*": 2.18,
             "PctBelow52wkHi": 6.75,
             "PctAbove52wkLo": 21.03,
             "Year gain (%)": -2.27,
@@ -401,7 +401,7 @@
             "name": "Russell 2000 small-cap"
         },
         {
-            "21EMA*": 0.44,
+            "21EMA*": 0.4,
             "50EMA*": 1.77,
             "200EMA*": 7.9,
             "PctBelow52wkHi": 0.98,
@@ -413,9 +413,9 @@
             "name": "Sweden OMX 30"
         },
         {
-            "21EMA*": -1.05,
-            "50EMA*": -0.65,
-            "200EMA*": 6.19,
+            "21EMA*": -0.96,
+            "50EMA*": -0.63,
+            "200EMA*": 6.13,
             "PctBelow52wkHi": 4.14,
             "PctAbove52wkLo": 24.16,
             "Year gain (%)": 5.09,
@@ -425,11 +425,11 @@
             "name": "Russell 3000 (overall U.S market)"
         },
         {
-            "21EMA*": -1.21,
-            "50EMA*": -1.83,
-            "200EMA*": 1.44,
+            "21EMA*": -1.1,
+            "50EMA*": -1.76,
+            "200EMA*": 1.43,
             "PctBelow52wkHi": 7.12,
-            "PctAbove52wkLo": 25.06,
+            "PctAbove52wkLo": 23.63,
             "Year gain (%)": -7.11,
             "FxGain": -5.85,
             "Year gain USD-adj (%)": -12.54,
@@ -437,9 +437,9 @@
             "name": "Brazil Ibovespa "
         },
         {
-            "21EMA*": 1.03,
-            "50EMA*": 1.18,
-            "200EMA*": 4.1,
+            "21EMA*": 0.94,
+            "50EMA*": 1.14,
+            "200EMA*": 4.06,
             "PctBelow52wkHi": 2.77,
             "PctAbove52wkLo": 18.44,
             "Year gain (%)": -0.52,
@@ -449,7 +449,7 @@
             "name": "Mexico IPC "
         },
         {
-            "21EMA*": -0.51,
+            "21EMA*": -0.4,
             "50EMA*": 0.33,
             "200EMA*": 4.03,
             "PctBelow52wkHi": 3.93,
@@ -509,7 +509,7 @@
             "name": "China ChiNext"
         },
         {
-            "21EMA*": 3.39,
+            "21EMA*": 3.07,
             "50EMA*": 6.37,
             "200EMA*": 21.41,
             "PctBelow52wkHi": 0.94,
@@ -521,7 +521,7 @@
             "name": "Turkey Borsa Istanbul 100"
         },
         {
-            "21EMA*": 0.86,
+            "21EMA*": 0.78,
             "50EMA*": 2.23,
             "200EMA*": 6.52,
             "PctBelow52wkHi": 0.83,
@@ -545,7 +545,7 @@
             "name": "Hang Seng China Enterprise"
         },
         {
-            "21EMA*": -0.28,
+            "21EMA*": -0.25,
             "50EMA*": 1.12,
             "200EMA*": 8.08,
             "PctBelow52wkHi": 1.85,
@@ -557,7 +557,7 @@
             "name": "Netherlands AEX "
         },
         {
-            "21EMA*": 0.81,
+            "21EMA*": 0.73,
             "50EMA*": 2.14,
             "200EMA*": 4.6,
             "PctBelow52wkHi": 0.84,
