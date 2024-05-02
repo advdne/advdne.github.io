@@ -173,12 +173,12 @@
             "name": "Bitcoin Cash (BCH)"
         },
         {
-            "21EMA*": -4.48,
-            "50EMA*": -13.74,
-            "200EMA*": -15.77,
-            "PctBelow52wkHi": 40.24,
-            "PctAbove52wkLo": 35.47,
-            "YtdGain": -19.95,
+            "21EMA*": -4.73,
+            "50EMA*": -13.97,
+            "200EMA*": -15.98,
+            "PctBelow52wkHi": 40.39,
+            "PctAbove52wkLo": 35.12,
+            "YtdGain": -20.15,
             "tradetime": "04-30-24 00:00",
             "name": "Cosmos (ATOM)"
         },
