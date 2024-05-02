@@ -99,7 +99,7 @@
             "PctBelow52wkHi": 20.98,
             "PctAbove52wkLo": 13.92,
             "YtdGain": -10.93,
-            "tradetime": "04-30-24 00:00",
+            "tradetime": "05-01-24 00:00",
             "name": "Carbon (KRBN)"
         },
         {
@@ -109,7 +109,7 @@
             "PctBelow52wkHi": 2.68,
             "PctAbove52wkLo": 29.03,
             "YtdGain": 17.27,
-            "tradetime": "04-30-24 00:00",
+            "tradetime": "05-01-24 00:00",
             "name": "Copper (CPER)"
         },
         {
@@ -159,7 +159,7 @@
             "PctBelow52wkHi": 24.52,
             "PctAbove52wkLo": 182.44,
             "YtdGain": 9.95,
-            "tradetime": "04-30-24 00:00",
+            "tradetime": "05-01-24 00:00",
             "name": "Dry bulk shipping (BDRY)"
         },
         {
@@ -169,7 +169,7 @@
             "PctBelow52wkHi": 23.11,
             "PctAbove52wkLo": 12.9,
             "YtdGain": -4.69,
-            "tradetime": "04-30-24 00:00",
+            "tradetime": "05-01-24 00:00",
             "name": "Wheat (WEAT)"
         },
         {
@@ -179,7 +179,7 @@
             "PctBelow52wkHi": 15.9,
             "PctAbove52wkLo": 2.84,
             "YtdGain": -8.74,
-            "tradetime": "04-30-24 00:00",
+            "tradetime": "05-01-24 00:00",
             "name": "Soybean (SOYB)"
         },
         {
@@ -209,7 +209,7 @@
             "PctBelow52wkHi": 17.14,
             "PctAbove52wkLo": 10.37,
             "YtdGain": -5.55,
-            "tradetime": "04-30-24 00:00",
+            "tradetime": "05-01-24 00:00",
             "name": "Platinum (PPLT)"
         }
     ]
