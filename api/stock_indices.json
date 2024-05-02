@@ -150,7 +150,7 @@
         },
         {
             "21EMA*": -2.28,
-            "50EMA*": -2.37,
+            "50EMA*": -2.31,
             "200EMA*": 5.3,
             "PctBelow52wkHi": 5.57,
             "PctAbove52wkLo": 36.1,
@@ -162,7 +162,7 @@
         },
         {
             "21EMA*": -1.57,
-            "50EMA*": -1.18,
+            "50EMA*": -1.15,
             "200EMA*": 5.61,
             "PctBelow52wkHi": 4.49,
             "PctAbove52wkLo": 23.73,
@@ -174,7 +174,7 @@
         },
         {
             "21EMA*": -1.32,
-            "50EMA*": -1.48,
+            "50EMA*": -1.41,
             "200EMA*": 3.12,
             "PctBelow52wkHi": 4.78,
             "PctAbove52wkLo": 16.92,
@@ -186,7 +186,7 @@
         },
         {
             "21EMA*": -1.48,
-            "50EMA*": -1.09,
+            "50EMA*": -1.04,
             "200EMA*": 4.7,
             "PctBelow52wkHi": 5.97,
             "PctAbove52wkLo": 23.1,
@@ -198,7 +198,7 @@
         },
         {
             "21EMA*": -0.82,
-            "50EMA*": -1.11,
+            "50EMA*": -1.05,
             "200EMA*": 1.99,
             "PctBelow52wkHi": 5.38,
             "PctAbove52wkLo": 19.05,
@@ -233,9 +233,9 @@
             "name": "Italy MIB index"
         },
         {
-            "21EMA*": 1.68,
-            "50EMA*": 3.16,
-            "200EMA*": 5.82,
+            "21EMA*": 1.52,
+            "50EMA*": 3.03,
+            "200EMA*": 5.76,
             "PctBelow52wkHi": 0.32,
             "PctAbove52wkLo": 11.91,
             "Year gain (%)": 5.02,
@@ -245,9 +245,9 @@
             "name": "UK FTSE 100"
         },
         {
-            "21EMA*": -0.98,
-            "50EMA*": 0.09,
-            "200EMA*": 7.17,
+            "21EMA*": -0.89,
+            "50EMA*": 0.08,
+            "200EMA*": 7.09,
             "PctBelow52wkHi": 3.19,
             "PctAbove52wkLo": 22.59,
             "Year gain (%)": 8.84,
@@ -390,7 +390,7 @@
         },
         {
             "21EMA*": -1.43,
-            "50EMA*": -1.81,
+            "50EMA*": -1.73,
             "200EMA*": 2.06,
             "PctBelow52wkHi": 6.79,
             "PctAbove52wkLo": 20.97,
@@ -414,7 +414,7 @@
         },
         {
             "21EMA*": -1.57,
-            "50EMA*": -1.24,
+            "50EMA*": -1.2,
             "200EMA*": 5.36,
             "PctBelow52wkHi": 4.7,
             "PctAbove52wkLo": 23.44,
@@ -426,7 +426,7 @@
         },
         {
             "21EMA*": -0.22,
-            "50EMA*": -0.76,
+            "50EMA*": -0.73,
             "200EMA*": 2.4,
             "PctBelow52wkHi": 6.16,
             "PctAbove52wkLo": 24.9,
@@ -438,7 +438,7 @@
         },
         {
             "21EMA*": -0.08,
-            "50EMA*": 0.31,
+            "50EMA*": 0.3,
             "200EMA*": 3.29,
             "PctBelow52wkHi": 3.38,
             "PctAbove52wkLo": 17.7,
@@ -449,9 +449,9 @@
             "name": "Mexico IPC "
         },
         {
-            "21EMA*": 0.52,
-            "50EMA*": 1.26,
-            "200EMA*": 5.0,
+            "21EMA*": 0.56,
+            "50EMA*": 1.25,
+            "200EMA*": 4.96,
             "PctBelow52wkHi": 2.98,
             "PctAbove52wkLo": 21.68,
             "Year gain (%)": 4.57,
