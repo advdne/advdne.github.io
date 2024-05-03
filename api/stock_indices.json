@@ -221,9 +221,9 @@
             "name": "German DAX"
         },
         {
-            "21EMA*": -0.63,
-            "50EMA*": 0.89,
-            "200EMA*": 9.55,
+            "21EMA*": -0.66,
+            "50EMA*": 0.86,
+            "200EMA*": 9.51,
             "PctBelow52wkHi": 3.55,
             "PctAbove52wkLo": 16.47,
             "Year gain (%)": 4.92,
@@ -377,14 +377,14 @@
             "name": "Spain IBEX 35"
         },
         {
-            "21EMA*": -1.45,
-            "50EMA*": -1.75,
-            "200EMA*": -0.19,
-            "PctBelow52wkHi": 4.93,
-            "PctAbove52wkLo": 8.58,
-            "Year gain (%)": 0.65,
+            "21EMA*": -1.03,
+            "50EMA*": -1.33,
+            "200EMA*": 0.24,
+            "PctBelow52wkHi": 4.52,
+            "PctAbove52wkLo": 9.05,
+            "Year gain (%)": 1.08,
             "FxGain": -7.58,
-            "Year gain USD-adj (%)": -6.99,
+            "Year gain USD-adj (%)": -6.59,
             "tradetime": "05-02-24 00:00",
             "name": "Swiss Market index"
         },
@@ -449,15 +449,15 @@
             "name": "Mexico IPC "
         },
         {
-            "21EMA*": -0.45,
-            "50EMA*": 0.21,
-            "200EMA*": 3.86,
-            "PctBelow52wkHi": 3.95,
-            "PctAbove52wkLo": 20.47,
-            "Year gain (%)": 3.52,
+            "21EMA*": 0.06,
+            "50EMA*": 0.73,
+            "200EMA*": 4.39,
+            "PctBelow52wkHi": 3.46,
+            "PctAbove52wkLo": 21.08,
+            "Year gain (%)": 4.05,
             "FxGain": -3.19,
-            "Year gain USD-adj (%)": 0.22,
-            "tradetime": "05-01-24 00:00",
+            "Year gain USD-adj (%)": 0.73,
+            "tradetime": "05-02-24 00:00",
             "name": "Israel TA-35 "
         },
         {
@@ -509,15 +509,15 @@
             "name": "China ChiNext"
         },
         {
-            "21EMA*": 4.26,
-            "50EMA*": 8.29,
-            "200EMA*": 24.2,
-            "PctBelow52wkHi": 1.6,
-            "PctAbove52wkLo": 128.27,
-            "Year gain (%)": 34.48,
+            "21EMA*": 5.95,
+            "50EMA*": 10.04,
+            "200EMA*": 26.21,
+            "PctBelow52wkHi": -0.0,
+            "PctAbove52wkLo": 131.97,
+            "Year gain (%)": 36.66,
             "FxGain": -8.74,
-            "Year gain USD-adj (%)": 22.72,
-            "tradetime": "04-30-24 00:00",
+            "Year gain USD-adj (%)": 24.71,
+            "tradetime": "05-02-24 00:00",
             "name": "Turkey Borsa Istanbul 100"
         },
         {
