@@ -47,7 +47,7 @@
             "name": "Nasdaq Composite"
         },
         {
-            "PctAbv21MV": 50.12,
+            "PctAbv21MV": 46.87,
             "PctAbv50MV": 47.88,
             "PctAbv200MV": 33.58,
             "NumNear52WkHigh": 14.0,
@@ -56,7 +56,7 @@
             "name": "Singapore "
         },
         {
-            "PctAbv21MV": 63.68,
+            "PctAbv21MV": 62.66,
             "PctAbv50MV": 55.74,
             "PctAbv200MV": 37.34,
             "NumNear52WkHigh": 146.0,
@@ -65,7 +65,7 @@
             "name": "Hong Kong "
         },
         {
-            "PctAbv21MV": 81.07,
+            "PctAbv21MV": 83.11,
             "PctAbv50MV": 65.43,
             "PctAbv200MV": 33.57,
             "NumNear52WkHigh": 170.0,
