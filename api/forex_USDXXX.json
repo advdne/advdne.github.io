@@ -107,7 +107,7 @@
             "50EMA*": 1.39,
             "200EMA*": 4.52,
             "PctBelow52wkHi": 2.23,
-            "PctAbove52wkLo": 13.39,
+            "PctAbove52wkLo": 12.41,
             "YtdGain": 9.71,
             "tradetime": "05-07-24 00:00",
             "name": "Japanese Yen USDJPY"
@@ -207,7 +207,7 @@
             "50EMA*": 0.65,
             "200EMA*": 9.57,
             "PctBelow52wkHi": 1.15,
-            "PctAbove52wkLo": 54.28,
+            "PctAbove52wkLo": 54.26,
             "YtdGain": 9.02,
             "tradetime": "05-07-24 00:00",
             "name": "Turkish lira USDTRY"
@@ -306,8 +306,8 @@
             "21EMA*": 1.05,
             "50EMA*": 3.02,
             "200EMA*": 33.0,
-            "PctBelow52wkHi": -0.06,
-            "PctAbove52wkLo": 261.53,
+            "PctBelow52wkHi": 0.0,
+            "PctAbove52wkLo": 260.26,
             "YtdGain": 8.91,
             "tradetime": "05-07-24 00:00",
             "name": "Argentina Peso USDARS"
@@ -423,7 +423,7 @@
             "name": "Kuwaiti dinar USDKWD"
         },
         {
-            "21EMA*": 0.12,
+            "21EMA*": 0.17,
             "50EMA*": 0.1,
             "200EMA*": -0.27,
             "PctBelow52wkHi": 9.43,
@@ -443,7 +443,7 @@
             "name": "Qatari riyal USDQAR"
         },
         {
-            "21EMA*": -0.17,
+            "21EMA*": -0.16,
             "50EMA*": 0.22,
             "200EMA*": 0.68,
             "PctBelow52wkHi": 2.57,
@@ -463,7 +463,7 @@
             "name": "UAE dirham USDAED"
         },
         {
-            "21EMA*": -0.17,
+            "21EMA*": -0.18,
             "50EMA*": 0.88,
             "200EMA*": 2.38,
             "PctBelow52wkHi": 2.81,
