@@ -221,9 +221,9 @@
             "name": "German DAX"
         },
         {
-            "21EMA*": 0.77,
-            "50EMA*": 2.12,
-            "200EMA*": 10.7,
+            "21EMA*": 0.5,
+            "50EMA*": 1.85,
+            "200EMA*": 10.41,
             "PctBelow52wkHi": 0.91,
             "PctAbove52wkLo": 19.66,
             "Year gain (%)": 7.8,
@@ -235,7 +235,7 @@
         {
             "21EMA*": 3.32,
             "50EMA*": 5.23,
-            "200EMA*": 8.46,
+            "200EMA*": 8.47,
             "PctBelow52wkHi": -0.0,
             "PctAbove52wkLo": 15.12,
             "Year gain (%)": 8.03,
@@ -449,15 +449,15 @@
             "name": "Mexico IPC "
         },
         {
-            "21EMA*": 1.11,
-            "50EMA*": 1.9,
-            "200EMA*": 5.67,
-            "PctBelow52wkHi": 2.07,
-            "PctAbove52wkLo": 22.65,
-            "Year gain (%)": 5.55,
+            "21EMA*": 1.82,
+            "50EMA*": 2.62,
+            "200EMA*": 6.42,
+            "PctBelow52wkHi": 1.38,
+            "PctAbove52wkLo": 23.52,
+            "Year gain (%)": 6.29,
             "FxGain": -2.79,
-            "Year gain USD-adj (%)": 2.6,
-            "tradetime": "05-07-24 00:00",
+            "Year gain USD-adj (%)": 3.33,
+            "tradetime": "05-08-24 00:00",
             "name": "Israel TA-35 "
         },
         {
@@ -509,15 +509,15 @@
             "name": "China ChiNext"
         },
         {
-            "21EMA*": 5.04,
-            "50EMA*": 9.67,
-            "200EMA*": 26.45,
-            "PctBelow52wkHi": 0.0,
-            "PctAbove52wkLo": 134.88,
-            "Year gain (%)": 38.37,
+            "21EMA*": 4.14,
+            "50EMA*": 8.72,
+            "200EMA*": 25.36,
+            "PctBelow52wkHi": 0.86,
+            "PctAbove52wkLo": 132.86,
+            "Year gain (%)": 37.18,
             "FxGain": -8.32,
-            "Year gain USD-adj (%)": 26.86,
-            "tradetime": "05-07-24 00:00",
+            "Year gain USD-adj (%)": 25.78,
+            "tradetime": "05-08-24 00:00",
             "name": "Turkey Borsa Istanbul 100"
         },
         {
