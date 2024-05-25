@@ -43,9 +43,9 @@
     ],
     "items": [
         {
-            "21EMA*": -2.76,
-            "50EMA*": -6.42,
-            "200EMA*": -7.32,
+            "21EMA*": -2.27,
+            "50EMA*": -5.95,
+            "200EMA*": -7.19,
             "PctBelow52wkHi": 32.09,
             "PctAbove52wkLo": 19.52,
             "YtdGain": -10.22,
@@ -53,9 +53,9 @@
             "name": "OKB (OKB)"
         },
         {
-            "21EMA*": 3.62,
-            "50EMA*": 5.21,
-            "200EMA*": 25.05,
+            "21EMA*": 2.88,
+            "50EMA*": 4.74,
+            "200EMA*": 24.42,
             "PctBelow52wkHi": 7.05,
             "PctAbove52wkLo": 169.96,
             "YtdGain": 60.65,
@@ -63,9 +63,9 @@
             "name": "Bitcoin (BTC)"
         },
         {
-            "21EMA*": 17.42,
-            "50EMA*": 18.3,
-            "200EMA*": 33.33,
+            "21EMA*": 14.18,
+            "50EMA*": 16.75,
+            "200EMA*": 32.49,
             "PctBelow52wkHi": 7.12,
             "PctAbove52wkLo": 145.32,
             "YtdGain": 65.49,
@@ -73,9 +73,9 @@
             "name": "Ethereum (ETH)"
         },
         {
-            "21EMA*": 9.76,
-            "50EMA*": 13.26,
-            "200EMA*": 45.92,
+            "21EMA*": 8.45,
+            "50EMA*": 12.36,
+            "200EMA*": 44.71,
             "PctBelow52wkHi": 13.25,
             "PctAbove52wkLo": 892.07,
             "YtdGain": 73.08,
@@ -83,9 +83,9 @@
             "name": "Solana (SOL)"
         },
         {
-            "21EMA*": 1.6,
-            "50EMA*": 4.33,
-            "200EMA*": 34.22,
+            "21EMA*": 1.29,
+            "50EMA*": 3.97,
+            "200EMA*": 33.31,
             "PctBelow52wkHi": 5.39,
             "PctAbove52wkLo": 191.71,
             "YtdGain": 92.0,
@@ -93,9 +93,9 @@
             "name": "Binance Coin (BNB)"
         },
         {
-            "21EMA*": 1.2,
-            "50EMA*": -1.4,
-            "200EMA*": -5.66,
+            "21EMA*": 0.87,
+            "50EMA*": -1.34,
+            "200EMA*": -5.57,
             "PctBelow52wkHi": 26.42,
             "PctAbove52wkLo": 11.36,
             "YtdGain": -14.15,
@@ -103,9 +103,9 @@
             "name": "Ripple (XRP)"
         },
         {
-            "21EMA*": 5.26,
-            "50EMA*": 0.94,
-            "200EMA*": 8.53,
+            "21EMA*": 4.45,
+            "50EMA*": 0.92,
+            "200EMA*": 8.37,
             "PctBelow52wkHi": 36.55,
             "PctAbove52wkLo": 338.21,
             "YtdGain": -0.13,
@@ -113,9 +113,9 @@
             "name": "Avalanche (AVAX)"
         },
         {
-            "21EMA*": 1.09,
-            "50EMA*": -2.45,
-            "200EMA*": -1.15,
+            "21EMA*": 0.85,
+            "50EMA*": -2.28,
+            "200EMA*": -1.14,
             "PctBelow52wkHi": 37.62,
             "PctAbove52wkLo": 97.34,
             "YtdGain": -12.19,
@@ -123,9 +123,9 @@
             "name": "Polkadot (DOT)"
         },
         {
-            "21EMA*": 3.19,
-            "50EMA*": 3.26,
-            "200EMA*": 26.5,
+            "21EMA*": 2.37,
+            "50EMA*": 2.9,
+            "200EMA*": 25.8,
             "PctBelow52wkHi": 27.48,
             "PctAbove52wkLo": 175.67,
             "YtdGain": 79.14,
@@ -133,9 +133,9 @@
             "name": "Dogecoin (DOGE)"
         },
         {
-            "21EMA*": 4.79,
-            "50EMA*": -1.72,
-            "200EMA*": -9.75,
+            "21EMA*": 4.17,
+            "50EMA*": -1.5,
+            "200EMA*": -9.56,
             "PctBelow52wkHi": 41.62,
             "PctAbove52wkLo": 47.44,
             "YtdGain": -23.56,
@@ -143,9 +143,9 @@
             "name": "Matic (MATIC)"
         },
         {
-            "21EMA*": 5.17,
-            "50EMA*": 7.66,
-            "200EMA*": 35.97,
+            "21EMA*": 4.44,
+            "50EMA*": 7.12,
+            "200EMA*": 35.04,
             "PctBelow52wkHi": 27.89,
             "PctAbove52wkLo": 366.72,
             "YtdGain": 73.36,
@@ -153,9 +153,9 @@
             "name": "Fantom (FTM)"
         },
         {
-            "21EMA*": 2.06,
-            "50EMA*": 1.25,
-            "200EMA*": 6.11,
+            "21EMA*": 1.77,
+            "50EMA*": 1.18,
+            "200EMA*": 5.99,
             "PctBelow52wkHi": 21.82,
             "PctAbove52wkLo": 45.17,
             "YtdGain": 17.27,
@@ -163,9 +163,9 @@
             "name": "Litecoin (LTC)"
         },
         {
-            "21EMA*": 3.58,
-            "50EMA*": 3.23,
-            "200EMA*": 29.47,
+            "21EMA*": 2.85,
+            "50EMA*": 2.94,
+            "200EMA*": 28.71,
             "PctBelow52wkHi": 29.38,
             "PctAbove52wkLo": 166.93,
             "YtdGain": 89.17,
@@ -173,9 +173,9 @@
             "name": "Bitcoin Cash (BCH)"
         },
         {
-            "21EMA*": -3.63,
-            "50EMA*": -8.76,
-            "200EMA*": -14.77,
+            "21EMA*": -3.11,
+            "50EMA*": -8.18,
+            "200EMA*": -14.53,
             "PctBelow52wkHi": 41.19,
             "PctAbove52wkLo": 33.3,
             "YtdGain": -21.23,
@@ -183,9 +183,9 @@
             "name": "Cosmos (ATOM)"
         },
         {
-            "21EMA*": -3.17,
-            "50EMA*": -4.95,
-            "200EMA*": 9.15,
+            "21EMA*": -2.54,
+            "50EMA*": -4.55,
+            "200EMA*": 8.96,
             "PctBelow52wkHi": 27.83,
             "PctAbove52wkLo": 149.49,
             "YtdGain": 23.61,
@@ -193,9 +193,9 @@
             "name": "Crypto.com Coin (CRO)"
         },
         {
-            "21EMA*": 2.76,
-            "50EMA*": 10.29,
-            "200EMA*": 55.59,
+            "21EMA*": 1.97,
+            "50EMA*": 9.27,
+            "200EMA*": 53.82,
             "PctBelow52wkHi": 13.42,
             "PctAbove52wkLo": 679.38,
             "YtdGain": 110.78,
@@ -203,9 +203,9 @@
             "name": "Near Protocol (NEAR)"
         },
         {
-            "21EMA*": 9.21,
-            "50EMA*": 7.6,
-            "200EMA*": 9.82,
+            "21EMA*": 7.11,
+            "50EMA*": 6.81,
+            "200EMA*": 9.57,
             "PctBelow52wkHi": 23.67,
             "PctAbove52wkLo": 185.13,
             "YtdGain": 11.18,
@@ -213,9 +213,9 @@
             "name": "Chainlink (LINK)"
         },
         {
-            "21EMA*": 1.33,
-            "50EMA*": 2.91,
-            "200EMA*": 19.14,
+            "21EMA*": 1.1,
+            "50EMA*": 2.68,
+            "200EMA*": 18.69,
             "PctBelow52wkHi": 2.86,
             "PctAbove52wkLo": 64.81,
             "YtdGain": 51.61,
@@ -223,9 +223,9 @@
             "name": "Bitfinex Unus Sed (LEO)"
         },
         {
-            "21EMA*": 9.12,
-            "50EMA*": 3.76,
-            "200EMA*": 1.56,
+            "21EMA*": 7.23,
+            "50EMA*": 3.39,
+            "200EMA*": 1.51,
             "PctBelow52wkHi": 31.53,
             "PctAbove52wkLo": 87.56,
             "YtdGain": -9.99,
@@ -233,9 +233,9 @@
             "name": "Aave (AAVE)"
         },
         {
-            "21EMA*": -6.16,
-            "50EMA*": -5.27,
-            "200EMA*": 0.93,
+            "21EMA*": -5.16,
+            "50EMA*": -4.89,
+            "200EMA*": 0.91,
             "PctBelow52wkHi": 19.37,
             "PctAbove52wkLo": 48.68,
             "YtdGain": 6.9,
@@ -243,9 +243,9 @@
             "name": "Tron (TRX)"
         },
         {
-            "21EMA*": -2.41,
-            "50EMA*": 5.7,
-            "200EMA*": 54.62,
+            "21EMA*": -2.26,
+            "50EMA*": 5.11,
+            "200EMA*": 52.89,
             "PctBelow52wkHi": 14.46,
             "PctAbove52wkLo": 277.82,
             "YtdGain": 166.63,
@@ -253,9 +253,9 @@
             "name": "Toncoin (TON)"
         },
         {
-            "21EMA*": -0.94,
-            "50EMA*": -7.63,
-            "200EMA*": -12.37,
+            "21EMA*": -0.87,
+            "50EMA*": -7.12,
+            "200EMA*": -12.16,
             "PctBelow52wkHi": 44.16,
             "PctAbove52wkLo": 57.23,
             "YtdGain": -25.79,
@@ -263,9 +263,9 @@
             "name": "Sandbox (SAND)"
         },
         {
-            "21EMA*": 3.07,
-            "50EMA*": -2.33,
-            "200EMA*": -4.13,
+            "21EMA*": 1.86,
+            "50EMA*": -2.42,
+            "200EMA*": -4.12,
             "PctBelow52wkHi": 39.76,
             "PctAbove52wkLo": 85.04,
             "YtdGain": -13.78,
@@ -273,9 +273,9 @@
             "name": "Axie Infinity (AXS)"
         },
         {
-            "21EMA*": -1.97,
-            "50EMA*": -7.28,
-            "200EMA*": -6.05,
+            "21EMA*": -2.0,
+            "50EMA*": -6.9,
+            "200EMA*": -5.97,
             "PctBelow52wkHi": 43.14,
             "PctAbove52wkLo": 104.91,
             "YtdGain": -18.64,
@@ -283,9 +283,9 @@
             "name": "Algorand (ALGO)"
         },
         {
-            "21EMA*": -1.07,
-            "50EMA*": -6.2,
-            "200EMA*": -8.08,
+            "21EMA*": -0.77,
+            "50EMA*": -5.7,
+            "200EMA*": -7.92,
             "PctBelow52wkHi": 39.9,
             "PctAbove52wkLo": 92.36,
             "YtdGain": -22.7,
