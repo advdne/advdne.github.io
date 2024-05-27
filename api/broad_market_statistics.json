@@ -56,7 +56,7 @@
             "name": "Singapore "
         },
         {
-            "PctAbv21MV": 50.21,
+            "PctAbv21MV": 53.77,
             "PctAbv50MV": 56.26,
             "PctAbv200MV": 40.49,
             "NumNear52WkHigh": 112.0,
@@ -65,7 +65,7 @@
             "name": "Hong Kong "
         },
         {
-            "PctAbv21MV": 25.12,
+            "PctAbv21MV": 32.54,
             "PctAbv50MV": 36.73,
             "PctAbv200MV": 27.04,
             "NumNear52WkHigh": 42.0,
@@ -74,7 +74,7 @@
             "name": "China (Shenzhen+Shanghai)"
         },
         {
-            "PctAbv21MV": 44.95,
+            "PctAbv21MV": 48.97,
             "PctAbv50MV": 46.83,
             "PctAbv200MV": 44.47,
             "NumNear52WkHigh": 52.0,
@@ -83,7 +83,7 @@
             "name": "Australia (ASX)"
         },
         {
-            "PctAbv21MV": 38.86,
+            "PctAbv21MV": 42.3,
             "PctAbv50MV": 40.9,
             "PctAbv200MV": 54.09,
             "NumNear52WkHigh": 90.0,
@@ -92,7 +92,7 @@
             "name": "Japan (TSE)"
         },
         {
-            "PctAbv21MV": 52.72,
+            "PctAbv21MV": 50.32,
             "PctAbv50MV": 55.47,
             "PctAbv200MV": 70.77,
             "NumNear52WkHigh": 161.0,
@@ -110,7 +110,7 @@
             "name": "Malaysia"
         },
         {
-            "PctAbv21MV": 58.55,
+            "PctAbv21MV": 52.61,
             "PctAbv50MV": 53.45,
             "PctAbv200MV": 45.05,
             "NumNear52WkHigh": 8.0,
@@ -128,7 +128,7 @@
             "name": "Thailand"
         },
         {
-            "PctAbv21MV": 47.21,
+            "PctAbv21MV": 54.19,
             "PctAbv50MV": 52.12,
             "PctAbv200MV": 54.34,
             "NumNear52WkHigh": 82.0,
@@ -137,7 +137,7 @@
             "name": "Korea "
         },
         {
-            "PctAbv21MV": 29.73,
+            "PctAbv21MV": 32.26,
             "PctAbv50MV": 30.41,
             "PctAbv200MV": 39.86,
             "NumNear52WkHigh": 3.0,
@@ -146,7 +146,7 @@
             "name": "New Zealand"
         },
         {
-            "PctAbv21MV": 53.02,
+            "PctAbv21MV": 59.38,
             "PctAbv50MV": 62.98,
             "PctAbv200MV": 69.11,
             "NumNear52WkHigh": 56.0,
@@ -227,7 +227,7 @@
             "name": "S&P 600 small-cap index"
         },
         {
-            "PctAbv21MV": 25.41,
+            "PctAbv21MV": 31.8,
             "PctAbv50MV": 34.8,
             "PctAbv200MV": 23.31,
             "NumNear52WkHigh": 21.0,
