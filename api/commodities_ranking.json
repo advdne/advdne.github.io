@@ -49,7 +49,7 @@
             "PctBelow52wkHi": 35.66,
             "PctAbove52wkLo": 12.27,
             "YtdGain": -13.05,
-            "tradetime": "05-28-24 00:00",
+            "tradetime": "05-29-24 00:00",
             "name": "Lithium (LIT)"
         },
         {
@@ -59,7 +59,7 @@
             "PctBelow52wkHi": 3.85,
             "PctAbove52wkLo": 27.89,
             "YtdGain": 12.95,
-            "tradetime": "05-28-24 00:00",
+            "tradetime": "05-29-24 00:00",
             "name": "Gold (GLD)"
         },
         {
@@ -69,7 +69,7 @@
             "PctBelow52wkHi": 5.23,
             "PctAbove52wkLo": 44.1,
             "YtdGain": 27.36,
-            "tradetime": "05-28-24 00:00",
+            "tradetime": "05-29-24 00:00",
             "name": "Silver (SLV)"
         },
         {
@@ -79,7 +79,7 @@
             "PctBelow52wkHi": 9.11,
             "PctAbove52wkLo": 25.08,
             "YtdGain": 13.05,
-            "tradetime": "05-28-24 00:00",
+            "tradetime": "05-29-24 00:00",
             "name": "WTI Oil (USO)"
         },
         {
@@ -89,7 +89,7 @@
             "PctBelow52wkHi": 36.9,
             "PctAbove52wkLo": 11.73,
             "YtdGain": -12.01,
-            "tradetime": "05-28-24 00:00",
+            "tradetime": "05-29-24 00:00",
             "name": "Palladium (PALL)"
         },
         {
@@ -99,7 +99,7 @@
             "PctBelow52wkHi": 13.23,
             "PctAbove52wkLo": 25.1,
             "YtdGain": -2.19,
-            "tradetime": "05-28-24 00:00",
+            "tradetime": "05-29-24 00:00",
             "name": "Carbon (KRBN)"
         },
         {
@@ -109,7 +109,7 @@
             "PctBelow52wkHi": 6.85,
             "PctAbove52wkLo": 33.23,
             "YtdGain": 21.09,
-            "tradetime": "05-28-24 00:00",
+            "tradetime": "05-29-24 00:00",
             "name": "Copper (CPER)"
         },
         {
@@ -119,7 +119,7 @@
             "PctBelow52wkHi": 40.34,
             "PctAbove52wkLo": 35.28,
             "YtdGain": -6.21,
-            "tradetime": "05-28-24 00:00",
+            "tradetime": "05-29-24 00:00",
             "name": "Natural Gas (UNG)"
         },
         {
@@ -129,7 +129,7 @@
             "PctBelow52wkHi": 8.44,
             "PctAbove52wkLo": 26.28,
             "YtdGain": 12.08,
-            "tradetime": "05-28-24 00:00",
+            "tradetime": "05-29-24 00:00",
             "name": "Brent Oil (BNO)"
         },
         {
@@ -139,7 +139,7 @@
             "PctBelow52wkHi": 23.82,
             "PctAbove52wkLo": 9.63,
             "YtdGain": -3.94,
-            "tradetime": "05-28-24 00:00",
+            "tradetime": "05-29-24 00:00",
             "name": "Corn (CORN)"
         },
         {
@@ -149,7 +149,7 @@
             "PctBelow52wkHi": 12.19,
             "PctAbove52wkLo": 15.97,
             "YtdGain": 9.09,
-            "tradetime": "05-28-24 00:00",
+            "tradetime": "05-29-24 00:00",
             "name": "Gasoline (UGA)"
         },
         {
@@ -159,7 +159,7 @@
             "PctBelow52wkHi": 27.2,
             "PctAbove52wkLo": 172.44,
             "YtdGain": 6.06,
-            "tradetime": "05-28-24 00:00",
+            "tradetime": "05-29-24 00:00",
             "name": "Dry bulk shipping (BDRY)"
         },
         {
@@ -169,7 +169,7 @@
             "PctBelow52wkHi": 13.24,
             "PctAbove52wkLo": 27.38,
             "YtdGain": 7.54,
-            "tradetime": "05-28-24 00:00",
+            "tradetime": "05-29-24 00:00",
             "name": "Wheat (WEAT)"
         },
         {
@@ -179,7 +179,7 @@
             "PctBelow52wkHi": 11.77,
             "PctAbove52wkLo": 7.88,
             "YtdGain": -4.26,
-            "tradetime": "05-28-24 00:00",
+            "tradetime": "05-29-24 00:00",
             "name": "Soybean (SOYB)"
         },
         {
@@ -189,7 +189,7 @@
             "PctBelow52wkHi": 26.27,
             "PctAbove52wkLo": 1.63,
             "YtdGain": -7.92,
-            "tradetime": "05-28-24 00:00",
+            "tradetime": "05-29-24 00:00",
             "name": "Sugar (CANE)"
         },
         {
@@ -199,7 +199,7 @@
             "PctBelow52wkHi": 3.64,
             "PctAbove52wkLo": 65.98,
             "YtdGain": 15.57,
-            "tradetime": "05-28-24 00:00",
+            "tradetime": "05-29-24 00:00",
             "name": "Uranium (URA)"
         },
         {
@@ -209,7 +209,7 @@
             "PctBelow52wkHi": 5.25,
             "PctAbove52wkLo": 21.22,
             "YtdGain": 3.73,
-            "tradetime": "05-28-24 00:00",
+            "tradetime": "05-29-24 00:00",
             "name": "Platinum (PPLT)"
         }
     ]
