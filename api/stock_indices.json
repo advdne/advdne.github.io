@@ -197,7 +197,7 @@
             "name": "S&P 400 mid-cap"
         },
         {
-            "21EMA*": 0.52,
+            "21EMA*": 0.47,
             "50EMA*": 1.26,
             "200EMA*": 4.85,
             "PctBelow52wkHi": 1.62,
@@ -389,7 +389,7 @@
             "name": "Swiss Market index"
         },
         {
-            "21EMA*": -0.05,
+            "21EMA*": -0.04,
             "50EMA*": 0.66,
             "200EMA*": 4.75,
             "PctBelow52wkHi": 3.05,
@@ -413,7 +413,7 @@
             "name": "Sweden OMX 30"
         },
         {
-            "21EMA*": 0.53,
+            "21EMA*": 0.49,
             "50EMA*": 1.62,
             "200EMA*": 8.22,
             "PctBelow52wkHi": 1.0,
@@ -425,11 +425,11 @@
             "name": "Russell 3000 (overall U.S market)"
         },
         {
-            "21EMA*": -2.94,
+            "21EMA*": -2.68,
             "50EMA*": -3.44,
             "200EMA*": -1.33,
             "PctBelow52wkHi": 9.06,
-            "PctAbove52wkLo": 19.44,
+            "PctAbove52wkLo": 16.06,
             "Year gain (%)": -9.06,
             "FxGain": -7.57,
             "Year gain USD-adj (%)": -15.94,
@@ -437,7 +437,7 @@
             "name": "Brazil Ibovespa "
         },
         {
-            "21EMA*": -7.91,
+            "21EMA*": -7.25,
             "50EMA*": -8.02,
             "200EMA*": -6.21,
             "PctBelow52wkHi": 11.76,
