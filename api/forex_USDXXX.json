@@ -417,7 +417,7 @@
             "50EMA*": -0.13,
             "200EMA*": -0.27,
             "PctBelow52wkHi": 1.0,
-            "PctAbove52wkLo": 0.2,
+            "PctAbove52wkLo": 0.16,
             "YtdGain": -0.33,
             "tradetime": "06-13-24 00:00",
             "name": "Kuwaiti dinar USDKWD"
@@ -427,7 +427,7 @@
             "50EMA*": 0.26,
             "200EMA*": -0.02,
             "PctBelow52wkHi": 9.3,
-            "PctAbove52wkLo": 2.78,
+            "PctAbove52wkLo": 2.41,
             "YtdGain": -1.18,
             "tradetime": "06-13-24 00:00",
             "name": "Pakistani rupee USDPKR"
@@ -437,7 +437,7 @@
             "50EMA*": 0.19,
             "200EMA*": 0.08,
             "PctBelow52wkHi": 0.14,
-            "PctAbove52wkLo": 2.82,
+            "PctAbove52wkLo": 3.88,
             "YtdGain": 0.0,
             "tradetime": "06-13-24 00:00",
             "name": "Qatari riyal USDQAR"
