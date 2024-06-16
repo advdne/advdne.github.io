@@ -119,12 +119,12 @@
             "name": "Philippines"
         },
         {
-            "PctAbv21MV": 20.02,
-            "PctAbv50MV": 22.6,
-            "PctAbv200MV": 19.35,
-            "NumNear52WkHigh": 5.0,
-            "NumNear52WkLow": 180.0,
-            "DateUpdated": "06-13-2024",
+            "PctAbv21MV": 16.25,
+            "PctAbv50MV": 18.3,
+            "PctAbv200MV": 18.46,
+            "NumNear52WkHigh": 3.0,
+            "NumNear52WkLow": 200.0,
+            "DateUpdated": "06-14-2024",
             "name": "Thailand"
         },
         {
