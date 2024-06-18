@@ -127,7 +127,7 @@
             "50EMA*": 0.33,
             "200EMA*": 0.96,
             "PctBelow52wkHi": 1.28,
-            "PctAbove52wkLo": 5.07,
+            "PctAbove52wkLo": 5.03,
             "YtdGain": 2.09,
             "tradetime": "06-17-24 00:00",
             "name": "Renminbi (offshore) USDCNH"
@@ -197,7 +197,7 @@
             "50EMA*": -2.26,
             "200EMA*": -2.35,
             "PctBelow52wkHi": 12.39,
-            "PctAbove52wkLo": 0.57,
+            "PctAbove52wkLo": 0.66,
             "YtdGain": -1.01,
             "tradetime": "06-17-24 00:00",
             "name": "Russian Ruble USDRUB"
@@ -257,7 +257,7 @@
             "50EMA*": -1.48,
             "200EMA*": 0.07,
             "PctBelow52wkHi": 24.87,
-            "PctAbove52wkLo": 1.62,
+            "PctAbove52wkLo": 1.52,
             "YtdGain": 0.0,
             "tradetime": "06-17-24 00:00",
             "name": "Myanmar Kyat USDMMK"
@@ -307,7 +307,7 @@
             "50EMA*": 2.15,
             "200EMA*": 24.7,
             "PctBelow52wkHi": 0.56,
-            "PctAbove52wkLo": 241.38,
+            "PctAbove52wkLo": 240.49,
             "YtdGain": 11.63,
             "tradetime": "06-17-24 00:00",
             "name": "Argentina Peso USDARS"
