@@ -47,7 +47,7 @@
             "50EMA*": -6.66,
             "200EMA*": -15.72,
             "PctBelow52wkHi": 41.66,
-            "PctAbove52wkLo": 1.8,
+            "PctAbove52wkLo": 3.03,
             "YtdGain": -21.16,
             "tradetime": "06-26-24 00:00",
             "name": "Lithium (LIT)"
@@ -77,7 +77,7 @@
             "50EMA*": 2.87,
             "200EMA*": 5.97,
             "PctBelow52wkHi": 5.01,
-            "PctAbove52wkLo": 30.73,
+            "PctAbove52wkLo": 28.47,
             "YtdGain": 18.15,
             "tradetime": "06-26-24 00:00",
             "name": "WTI Oil (USO)"
@@ -127,7 +127,7 @@
             "50EMA*": 2.42,
             "200EMA*": 5.74,
             "PctBelow52wkHi": 4.67,
-            "PctAbove52wkLo": 31.48,
+            "PctAbove52wkLo": 29.98,
             "YtdGain": 16.7,
             "tradetime": "06-26-24 00:00",
             "name": "Brent Oil (BNO)"
@@ -137,7 +137,7 @@
             "50EMA*": -5.98,
             "200EMA*": -10.33,
             "PctBelow52wkHi": 30.99,
-            "PctAbove52wkLo": -0.69,
+            "PctAbove52wkLo": 0.0,
             "YtdGain": -12.98,
             "tradetime": "06-26-24 00:00",
             "name": "Corn (CORN)"
@@ -177,7 +177,7 @@
             "50EMA*": -4.76,
             "200EMA*": -8.16,
             "PctBelow52wkHi": 19.31,
-            "PctAbove52wkLo": -1.29,
+            "PctAbove52wkLo": 0.0,
             "YtdGain": -12.44,
             "tradetime": "06-26-24 00:00",
             "name": "Soybean (SOYB)"
