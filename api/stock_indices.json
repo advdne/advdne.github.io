@@ -221,9 +221,9 @@
             "name": "German DAX"
         },
         {
-            "21EMA*": 1.08,
-            "50EMA*": 1.12,
-            "200EMA*": 6.81,
+            "21EMA*": 1.85,
+            "50EMA*": 1.89,
+            "200EMA*": 7.63,
             "PctBelow52wkHi": 6.26,
             "PctAbove52wkLo": 13.67,
             "Year gain (%)": 2.4,
@@ -235,9 +235,9 @@
         {
             "21EMA*": 0.56,
             "50EMA*": 0.86,
-            "200EMA*": 4.41,
+            "200EMA*": 4.4,
             "PctBelow52wkHi": 2.28,
-            "PctAbove52wkLo": 13.73,
+            "PctAbove52wkLo": 13.72,
             "Year gain (%)": 6.72,
             "FxGain": 2.03,
             "Year gain USD-adj (%)": 8.88,
@@ -293,15 +293,15 @@
             "name": "French CAC 40"
         },
         {
-            "21EMA*": 2.07,
-            "50EMA*": 1.66,
-            "200EMA*": 0.99,
-            "PctBelow52wkHi": 5.31,
-            "PctAbove52wkLo": 10.86,
-            "Year gain (%)": 2.47,
+            "21EMA*": 2.67,
+            "50EMA*": 2.26,
+            "200EMA*": 1.59,
+            "PctBelow52wkHi": 4.75,
+            "PctAbove52wkLo": 11.51,
+            "Year gain (%)": 3.07,
             "FxGain": -5.16,
-            "Year gain USD-adj (%)": -2.82,
-            "tradetime": "07-11-24 00:00",
+            "Year gain USD-adj (%)": -2.24,
+            "tradetime": "07-12-24 00:00",
             "name": "Philippine stock exchange index"
         },
         {
@@ -509,15 +509,15 @@
             "name": "China ChiNext"
         },
         {
-            "21EMA*": 3.1,
-            "50EMA*": 5.94,
-            "200EMA*": 22.19,
-            "PctBelow52wkHi": 0.37,
-            "PctAbove52wkLo": 83.62,
-            "Year gain (%)": 47.58,
+            "21EMA*": 3.48,
+            "50EMA*": 6.33,
+            "200EMA*": 22.64,
+            "PctBelow52wkHi": -0.0,
+            "PctAbove52wkLo": 84.3,
+            "Year gain (%)": 48.12,
             "FxGain": -10.47,
-            "Year gain USD-adj (%)": 32.12,
-            "tradetime": "07-11-24 00:00",
+            "Year gain USD-adj (%)": 32.61,
+            "tradetime": "07-12-24 00:00",
             "name": "Turkey Borsa Istanbul 100"
         },
         {
