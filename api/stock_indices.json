@@ -221,9 +221,9 @@
             "name": "German DAX"
         },
         {
-            "21EMA*": -2.71,
-            "50EMA*": -3.08,
-            "200EMA*": 1.47,
+            "21EMA*": -5.19,
+            "50EMA*": -5.56,
+            "200EMA*": -1.12,
             "PctBelow52wkHi": 11.99,
             "PctAbove52wkLo": 6.72,
             "Year gain (%)": -3.86,
@@ -293,15 +293,15 @@
             "name": "French CAC 40"
         },
         {
-            "21EMA*": 1.1,
-            "50EMA*": 1.77,
-            "200EMA*": 2.0,
-            "PctBelow52wkHi": 4.1,
-            "PctAbove52wkLo": 12.28,
-            "Year gain (%)": 3.78,
+            "21EMA*": -0.24,
+            "50EMA*": 0.42,
+            "200EMA*": 0.66,
+            "PctBelow52wkHi": 5.37,
+            "PctAbove52wkLo": 10.79,
+            "Year gain (%)": 2.41,
             "FxGain": -4.39,
-            "Year gain USD-adj (%)": -0.77,
-            "tradetime": "08-01-24 00:00",
+            "Year gain USD-adj (%)": -2.09,
+            "tradetime": "08-02-24 00:00",
             "name": "Philippine stock exchange index"
         },
         {
@@ -414,7 +414,7 @@
         },
         {
             "21EMA*": -2.56,
-            "50EMA*": -1.64,
+            "50EMA*": -1.65,
             "200EMA*": 5.06,
             "PctBelow52wkHi": 5.78,
             "PctAbove52wkLo": 29.45,
@@ -509,15 +509,15 @@
             "name": "China ChiNext"
         },
         {
-            "21EMA*": -0.06,
-            "50EMA*": 1.74,
-            "200EMA*": 16.49,
-            "PctBelow52wkHi": 3.35,
-            "PctAbove52wkLo": 63.48,
-            "Year gain (%)": 44.55,
+            "21EMA*": -3.06,
+            "50EMA*": -1.32,
+            "200EMA*": 12.99,
+            "PctBelow52wkHi": 6.26,
+            "PctAbove52wkLo": 58.57,
+            "Year gain (%)": 40.2,
             "FxGain": -10.87,
-            "Year gain USD-adj (%)": 28.84,
-            "tradetime": "08-01-24 00:00",
+            "Year gain USD-adj (%)": 24.96,
+            "tradetime": "08-02-24 00:00",
             "name": "Turkey Borsa Istanbul 100"
         },
         {
