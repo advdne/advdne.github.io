@@ -449,9 +449,9 @@
             "name": "Mexico IPC "
         },
         {
-            "21EMA*": 2.86,
-            "50EMA*": 3.12,
-            "200EMA*": 7.01,
+            "21EMA*": 2.6,
+            "50EMA*": 3.0,
+            "200EMA*": 6.94,
             "PctBelow52wkHi": 0.48,
             "PctAbove52wkLo": 28.69,
             "Year gain (%)": 10.74,
