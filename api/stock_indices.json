@@ -221,9 +221,9 @@
             "name": "German DAX"
         },
         {
-            "21EMA*": 1.0,
-            "50EMA*": -0.01,
-            "200EMA*": 2.85,
+            "21EMA*": 2.03,
+            "50EMA*": 1.01,
+            "200EMA*": 3.89,
             "PctBelow52wkHi": 8.05,
             "PctAbove52wkLo": 11.5,
             "Year gain (%)": 0.45,
@@ -509,15 +509,15 @@
             "name": "China ChiNext"
         },
         {
-            "21EMA*": -1.93,
-            "50EMA*": -3.64,
-            "200EMA*": 6.01,
-            "PctBelow52wkHi": 11.2,
-            "PctAbove52wkLo": 36.65,
-            "Year gain (%)": 32.81,
+            "21EMA*": -4.44,
+            "50EMA*": -6.1,
+            "200EMA*": 3.3,
+            "PctBelow52wkHi": 13.47,
+            "PctAbove52wkLo": 33.16,
+            "Year gain (%)": 29.42,
             "FxGain": -12.95,
-            "Year gain USD-adj (%)": 15.62,
-            "tradetime": "08-22-24 00:00",
+            "Year gain USD-adj (%)": 12.67,
+            "tradetime": "08-23-24 00:00",
             "name": "Turkey Borsa Istanbul 100"
         },
         {
