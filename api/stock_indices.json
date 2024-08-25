@@ -56,7 +56,7 @@
             "21EMA*": 2.2,
             "50EMA*": 3.35,
             "200EMA*": 7.22,
-            "PctBelow52wkHi": 0.0,
+            "PctBelow52wkHi": -0.0,
             "PctAbove52wkLo": 24.28,
             "Year gain (%)": 11.11,
             "FxGain": 0.09,
