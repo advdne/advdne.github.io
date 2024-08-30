@@ -109,7 +109,7 @@
             "PctBelow52wkHi": 14.53,
             "PctAbove52wkLo": 21.58,
             "YtdGain": 11.1,
-            "tradetime": "08-28-24 00:00",
+            "tradetime": "08-29-24 00:00",
             "name": "Copper (CPER)"
         },
         {
@@ -159,7 +159,7 @@
             "PctBelow52wkHi": 36.52,
             "PctAbove52wkLo": 122.71,
             "YtdGain": -7.53,
-            "tradetime": "08-28-24 00:00",
+            "tradetime": "08-29-24 00:00",
             "name": "Dry bulk shipping (BDRY)"
         },
         {
@@ -169,7 +169,7 @@
             "PctBelow52wkHi": 25.04,
             "PctAbove52wkLo": 1.9,
             "YtdGain": -19.26,
-            "tradetime": "08-28-24 00:00",
+            "tradetime": "08-29-24 00:00",
             "name": "Wheat (WEAT)"
         },
         {
@@ -209,7 +209,7 @@
             "PctBelow52wkHi": 11.64,
             "PctAbove52wkLo": 13.04,
             "YtdGain": -3.27,
-            "tradetime": "08-28-24 00:00",
+            "tradetime": "08-29-24 00:00",
             "name": "Platinum (PPLT)"
         }
     ]
