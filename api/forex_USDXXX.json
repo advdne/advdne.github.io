@@ -367,7 +367,7 @@
             "50EMA*": -2.23,
             "200EMA*": -4.32,
             "PctBelow52wkHi": 9.21,
-            "PctAbove52wkLo": -0.26,
+            "PctAbove52wkLo": 0.0,
             "YtdGain": -4.07,
             "tradetime": "09-18-24 00:00",
             "name": "South African Rand USDZAR"
