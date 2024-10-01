@@ -52,7 +52,7 @@
             "PctAbv200MV": 57.79,
             "NumNear52WkHigh": 32.0,
             "NumNear52WkLow": 11.0,
-            "DateUpdated": "09-30-2024",
+            "DateUpdated": "10-01-2024",
             "name": "Singapore "
         },
         {
@@ -78,8 +78,8 @@
             "PctAbv50MV": 59.98,
             "PctAbv200MV": 50.16,
             "NumNear52WkHigh": 77.0,
-            "NumNear52WkLow": 92.0,
-            "DateUpdated": "09-30-2024",
+            "NumNear52WkLow": 72.0,
+            "DateUpdated": "10-01-2024",
             "name": "Australia (ASX)"
         },
         {
@@ -87,8 +87,8 @@
             "PctAbv50MV": 47.86,
             "PctAbv200MV": 44.76,
             "NumNear52WkHigh": 85.0,
-            "NumNear52WkLow": 36.0,
-            "DateUpdated": "09-30-2024",
+            "NumNear52WkLow": 23.0,
+            "DateUpdated": "10-01-2024",
             "name": "Japan (TSE)"
         },
         {
@@ -96,8 +96,8 @@
             "PctAbv50MV": 61.17,
             "PctAbv200MV": 78.76,
             "NumNear52WkHigh": 134.0,
-            "NumNear52WkLow": 36.0,
-            "DateUpdated": "09-30-2024",
+            "NumNear52WkLow": 19.0,
+            "DateUpdated": "10-01-2024",
             "name": "India (NSE)"
         },
         {
@@ -105,8 +105,8 @@
             "PctAbv50MV": 31.65,
             "PctAbv200MV": 38.47,
             "NumNear52WkHigh": 18.0,
-            "NumNear52WkLow": 72.0,
-            "DateUpdated": "09-30-2024",
+            "NumNear52WkLow": 44.0,
+            "DateUpdated": "10-01-2024",
             "name": "Malaysia"
         },
         {
@@ -114,8 +114,8 @@
             "PctAbv50MV": 59.2,
             "PctAbv200MV": 48.16,
             "NumNear52WkHigh": 9.0,
-            "NumNear52WkLow": 8.0,
-            "DateUpdated": "09-30-2024",
+            "NumNear52WkLow": 5.0,
+            "DateUpdated": "10-01-2024",
             "name": "Philippines"
         },
         {
@@ -123,8 +123,8 @@
             "PctAbv50MV": 79.01,
             "PctAbv200MV": 44.5,
             "NumNear52WkHigh": 22.0,
-            "NumNear52WkLow": 7.0,
-            "DateUpdated": "09-27-2024",
+            "NumNear52WkLow": 9.0,
+            "DateUpdated": "10-01-2024",
             "name": "Thailand"
         },
         {
@@ -141,8 +141,8 @@
             "PctAbv50MV": 54.11,
             "PctAbv200MV": 56.85,
             "NumNear52WkHigh": 4.0,
-            "NumNear52WkLow": 4.0,
-            "DateUpdated": "09-30-2024",
+            "NumNear52WkLow": 7.0,
+            "DateUpdated": "10-01-2024",
             "name": "New Zealand"
         },
         {
@@ -150,17 +150,17 @@
             "PctAbv50MV": 54.14,
             "PctAbv200MV": 57.32,
             "NumNear52WkHigh": 31.0,
-            "NumNear52WkLow": 13.0,
-            "DateUpdated": "09-30-2024",
+            "NumNear52WkLow": 6.0,
+            "DateUpdated": "10-01-2024",
             "name": "Taiwan"
         },
         {
             "PctAbv21MV": 47.59,
             "PctAbv50MV": 59.81,
             "PctAbv200MV": 47.04,
-            "NumNear52WkHigh": 14.0,
-            "NumNear52WkLow": 32.0,
-            "DateUpdated": "09-30-2024",
+            "NumNear52WkHigh": 20.0,
+            "NumNear52WkLow": 30.0,
+            "DateUpdated": "10-01-2024",
             "name": "Indonesia"
         },
         {
@@ -230,7 +230,7 @@
             "PctAbv21MV": 99.1,
             "PctAbv50MV": 99.23,
             "PctAbv200MV": 84.87,
-            "NumNear52WkHigh": 359.0,
+            "NumNear52WkHigh": 360.0,
             "NumNear52WkLow": 0.0,
             "DateUpdated": "09-30-2024",
             "name": "Shenzhen Stock Exchange"
@@ -257,18 +257,18 @@
             "PctAbv21MV": 64.13,
             "PctAbv50MV": 55.61,
             "PctAbv200MV": 53.36,
-            "NumNear52WkHigh": 1.0,
+            "NumNear52WkHigh": 6.0,
             "NumNear52WkLow": 0.0,
-            "DateUpdated": "09-30-2024",
+            "DateUpdated": "10-01-2024",
             "name": "Japan Nikkei 225 index"
         },
         {
             "PctAbv21MV": 67.2,
             "PctAbv50MV": 68.78,
             "PctAbv200MV": 65.96,
-            "NumNear52WkHigh": 10.0,
+            "NumNear52WkHigh": 11.0,
             "NumNear52WkLow": 1.0,
-            "DateUpdated": "09-30-2024",
+            "DateUpdated": "10-01-2024",
             "name": "Australia ASX 200 index"
         },
         {
@@ -293,9 +293,9 @@
             "PctAbv21MV": 64.29,
             "PctAbv50MV": 60.71,
             "PctAbv200MV": 50.0,
-            "NumNear52WkHigh": 0.0,
+            "NumNear52WkHigh": 1.0,
             "NumNear52WkLow": 0.0,
-            "DateUpdated": "09-30-2024",
+            "DateUpdated": "10-01-2024",
             "name": "Malaysia KLSE Composite"
         },
         {
@@ -320,18 +320,18 @@
             "PctAbv21MV": 77.55,
             "PctAbv50MV": 85.71,
             "PctAbv200MV": 97.96,
-            "NumNear52WkHigh": 5.0,
+            "NumNear52WkHigh": 2.0,
             "NumNear52WkLow": 0.0,
-            "DateUpdated": "09-30-2024",
+            "DateUpdated": "10-01-2024",
             "name": "India Nifty 50"
         },
         {
             "PctAbv21MV": 82.76,
             "PctAbv50MV": 82.76,
             "PctAbv200MV": 96.55,
-            "NumNear52WkHigh": 1.0,
+            "NumNear52WkHigh": 0.0,
             "NumNear52WkLow": 0.0,
-            "DateUpdated": "09-30-2024",
+            "DateUpdated": "10-01-2024",
             "name": "India Sensex"
         }
     ]
