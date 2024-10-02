@@ -61,7 +61,7 @@
             "Year gain (%)": 14.51,
             "FxGain": -2.08,
             "Year gain USD-adj (%)": 12.14,
-            "tradetime": "09-30-24 00:00",
+            "tradetime": "10-01-24 00:00",
             "name": "Canada TSX Composite"
         },
         {
@@ -157,7 +157,7 @@
             "Year gain (%)": 19.22,
             "FxGain": 0.0,
             "Year gain USD-adj (%)": 19.22,
-            "tradetime": "09-30-24 00:00",
+            "tradetime": "10-01-24 00:00",
             "name": "Nasdaq 100"
         },
         {
@@ -169,7 +169,7 @@
             "Year gain (%)": 20.81,
             "FxGain": 0.0,
             "Year gain USD-adj (%)": 20.81,
-            "tradetime": "09-30-24 00:00",
+            "tradetime": "10-01-24 00:00",
             "name": "S&P 500"
         },
         {
@@ -181,7 +181,7 @@
             "Year gain (%)": 12.31,
             "FxGain": 0.0,
             "Year gain USD-adj (%)": 12.31,
-            "tradetime": "09-30-24 00:00",
+            "tradetime": "10-01-24 00:00",
             "name": "Dow Jones Industrial"
         },
         {
@@ -193,7 +193,7 @@
             "Year gain (%)": 12.24,
             "FxGain": 0.0,
             "Year gain USD-adj (%)": 12.24,
-            "tradetime": "09-30-24 00:00",
+            "tradetime": "10-01-24 00:00",
             "name": "S&P 400 mid-cap"
         },
         {
@@ -205,7 +205,7 @@
             "Year gain (%)": 7.88,
             "FxGain": 0.0,
             "Year gain USD-adj (%)": 7.88,
-            "tradetime": "09-30-24 00:00",
+            "tradetime": "10-01-24 00:00",
             "name": "S&P 600 small-cap"
         },
         {
@@ -217,7 +217,7 @@
             "Year gain (%)": 15.36,
             "FxGain": 0.9,
             "Year gain USD-adj (%)": 16.4,
-            "tradetime": "09-30-24 00:00",
+            "tradetime": "10-01-24 00:00",
             "name": "German DAX"
         },
         {
@@ -229,7 +229,7 @@
             "Year gain (%)": 1.23,
             "FxGain": 0.9,
             "Year gain USD-adj (%)": 2.14,
-            "tradetime": "09-30-24 00:00",
+            "tradetime": "10-01-24 00:00",
             "name": "Italy MIB index"
         },
         {
@@ -241,7 +241,7 @@
             "Year gain (%)": 6.51,
             "FxGain": 5.06,
             "Year gain USD-adj (%)": 11.9,
-            "tradetime": "09-30-24 00:00",
+            "tradetime": "10-01-24 00:00",
             "name": "UK FTSE 100"
         },
         {
@@ -253,7 +253,7 @@
             "Year gain (%)": 10.59,
             "FxGain": 0.9,
             "Year gain USD-adj (%)": 11.59,
-            "tradetime": "09-30-24 00:00",
+            "tradetime": "10-01-24 00:00",
             "name": "EURO STOXX 50"
         },
         {
@@ -289,7 +289,7 @@
             "Year gain (%)": 1.23,
             "FxGain": 0.9,
             "Year gain USD-adj (%)": 2.14,
-            "tradetime": "09-30-24 00:00",
+            "tradetime": "10-01-24 00:00",
             "name": "French CAC 40"
         },
         {
@@ -349,7 +349,7 @@
             "Year gain (%)": 6.39,
             "FxGain": -0.7,
             "Year gain USD-adj (%)": 5.65,
-            "tradetime": "09-30-24 00:00",
+            "tradetime": "10-01-24 00:00",
             "name": "EURONEXT 100"
         },
         {
@@ -361,7 +361,7 @@
             "Year gain (%)": 17.57,
             "FxGain": 0.9,
             "Year gain USD-adj (%)": 18.63,
-            "tradetime": "09-30-24 00:00",
+            "tradetime": "10-01-24 00:00",
             "name": "Spain IBEX 35"
         },
         {
@@ -373,7 +373,7 @@
             "Year gain (%)": 9.26,
             "FxGain": -0.51,
             "Year gain USD-adj (%)": 8.7,
-            "tradetime": "09-30-24 00:00",
+            "tradetime": "10-01-24 00:00",
             "name": "Swiss Market index"
         },
         {
@@ -385,7 +385,7 @@
             "Year gain (%)": 10.01,
             "FxGain": 0.0,
             "Year gain USD-adj (%)": 10.01,
-            "tradetime": "09-30-24 00:00",
+            "tradetime": "10-01-24 00:00",
             "name": "Russell 2000 small-cap"
         },
         {
@@ -397,7 +397,7 @@
             "Year gain (%)": 9.61,
             "FxGain": -0.7,
             "Year gain USD-adj (%)": 8.85,
-            "tradetime": "09-30-24 00:00",
+            "tradetime": "10-01-24 00:00",
             "name": "Sweden OMX 30"
         },
         {
@@ -409,7 +409,7 @@
             "Year gain (%)": 19.4,
             "FxGain": 0.0,
             "Year gain USD-adj (%)": 19.4,
-            "tradetime": "09-30-24 00:00",
+            "tradetime": "10-01-24 00:00",
             "name": "Russell 3000 (overall U.S market)"
         },
         {
@@ -421,7 +421,7 @@
             "Year gain (%)": -1.77,
             "FxGain": -10.96,
             "Year gain USD-adj (%)": -12.53,
-            "tradetime": "09-30-24 00:00",
+            "tradetime": "10-01-24 00:00",
             "name": "Brazil Ibovespa "
         },
         {
@@ -481,7 +481,7 @@
             "Year gain (%)": 29.39,
             "FxGain": -13.53,
             "Year gain USD-adj (%)": 11.88,
-            "tradetime": "09-30-24 00:00",
+            "tradetime": "10-01-24 00:00",
             "name": "Turkey Borsa Istanbul 100"
         },
         {
@@ -493,7 +493,7 @@
             "Year gain (%)": 6.41,
             "FxGain": 0.9,
             "Year gain USD-adj (%)": 7.37,
-            "tradetime": "09-30-24 00:00",
+            "tradetime": "10-01-24 00:00",
             "name": "Austrian ATX"
         },
         {
@@ -505,7 +505,7 @@
             "Year gain (%)": 15.67,
             "FxGain": 0.9,
             "Year gain USD-adj (%)": 16.71,
-            "tradetime": "09-30-24 00:00",
+            "tradetime": "10-01-24 00:00",
             "name": "Netherlands AEX "
         },
         {
@@ -517,7 +517,7 @@
             "Year gain (%)": 15.96,
             "FxGain": 0.9,
             "Year gain USD-adj (%)": 17.01,
-            "tradetime": "09-30-24 00:00",
+            "tradetime": "10-01-24 00:00",
             "name": "Belgium BEL20"
         }
     ]
