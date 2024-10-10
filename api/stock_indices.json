@@ -97,7 +97,7 @@
             "Year gain (%)": 24.04,
             "FxGain": 0.54,
             "Year gain USD-adj (%)": 24.72,
-            "tradetime": "10-08-24 00:00",
+            "tradetime": "10-09-24 00:00",
             "name": "China CSI 300"
         },
         {
@@ -109,7 +109,7 @@
             "Year gain (%)": 17.31,
             "FxGain": 0.54,
             "Year gain USD-adj (%)": 17.94,
-            "tradetime": "10-08-24 00:00",
+            "tradetime": "10-09-24 00:00",
             "name": "Shanghai Composite"
         },
         {
@@ -121,7 +121,7 @@
             "Year gain (%)": 14.2,
             "FxGain": 0.54,
             "Year gain USD-adj (%)": 14.82,
-            "tradetime": "10-08-24 00:00",
+            "tradetime": "10-09-24 00:00",
             "name": "Shenzhen Composite "
         },
         {
@@ -133,7 +133,7 @@
             "Year gain (%)": 8.27,
             "FxGain": -1.05,
             "Year gain USD-adj (%)": 7.13,
-            "tradetime": "10-08-24 00:00",
+            "tradetime": "10-09-24 00:00",
             "name": "Australia ASX200"
         },
         {
@@ -145,7 +145,7 @@
             "Year gain (%)": 16.36,
             "FxGain": -4.84,
             "Year gain USD-adj (%)": 10.72,
-            "tradetime": "10-08-24 00:00",
+            "tradetime": "10-09-24 00:00",
             "name": "Japan Nikkei 225"
         },
         {
@@ -301,7 +301,7 @@
             "Year gain (%)": 16.86,
             "FxGain": -2.54,
             "Year gain USD-adj (%)": 13.89,
-            "tradetime": "10-08-24 00:00",
+            "tradetime": "10-09-24 00:00",
             "name": "Philippine stock exchange index"
         },
         {
@@ -445,7 +445,7 @@
             "Year gain (%)": 7.14,
             "FxGain": -2.96,
             "Year gain USD-adj (%)": 3.98,
-            "tradetime": "10-08-24 00:00",
+            "tradetime": "10-09-24 00:00",
             "name": "New Zealand NZX 50"
         },
         {
@@ -457,7 +457,7 @@
             "Year gain (%)": 26.1,
             "FxGain": -4.61,
             "Year gain USD-adj (%)": 20.29,
-            "tradetime": "10-08-24 00:00",
+            "tradetime": "10-09-24 00:00",
             "name": "Taiwan TSEC weighted"
         },
         {
