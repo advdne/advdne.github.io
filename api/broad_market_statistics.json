@@ -38,13 +38,13 @@
     ],
     "items": [
         {
-            "PctAbv21MV": 41.5,
-            "PctAbv50MV": 45.28,
-            "PctAbv200MV": 43.2,
-            "NumNear52WkHigh": 81.0,
-            "NumNear52WkLow": 148.0,
+            "PctAbv21MV": 42.0,
+            "PctAbv50MV": 48.0,
+            "PctAbv200MV": 64.0,
+            "NumNear52WkHigh": 2.0,
+            "NumNear52WkLow": 1.0,
             "DateUpdated": "11-01-2024",
-            "name": "Nasdaq Composite"
+            "name": "Eurostoxx"
         },
         {
             "PctAbv21MV": 38.55,
@@ -333,6 +333,60 @@
             "NumNear52WkLow": 0.0,
             "DateUpdated": "10-31-2024",
             "name": "India Sensex"
+        },
+        {
+            "PctAbv21MV": 41.5,
+            "PctAbv50MV": 45.28,
+            "PctAbv200MV": 43.2,
+            "NumNear52WkHigh": 81.0,
+            "NumNear52WkLow": 148.0,
+            "DateUpdated": "11-01-2024",
+            "name": "Nasdaq Composite"
+        },
+        {
+            "PctAbv21MV": 35.0,
+            "PctAbv50MV": 37.5,
+            "PctAbv200MV": 55.0,
+            "NumNear52WkHigh": 0.0,
+            "NumNear52WkLow": 2.0,
+            "DateUpdated": "11-01-2024",
+            "name": "German DAX"
+        },
+        {
+            "PctAbv21MV": 26.34,
+            "PctAbv50MV": 50.83,
+            "PctAbv200MV": 71.85,
+            "NumNear52WkHigh": 47.0,
+            "NumNear52WkLow": 56.0,
+            "DateUpdated": "11-01-2024",
+            "name": "German Xetra"
+        },
+        {
+            "PctAbv21MV": 32.5,
+            "PctAbv50MV": 32.5,
+            "PctAbv200MV": 50.0,
+            "NumNear52WkHigh": 0.0,
+            "NumNear52WkLow": 0.0,
+            "DateUpdated": "11-01-2024",
+            "name": "French CAC"
+        },
+        {
+            "PctAbv21MV": 42.0,
+            "PctAbv50MV": 48.0,
+            "PctAbv200MV": 64.0,
+            "NumNear52WkHigh": 2.0,
+            "NumNear52WkLow": 1.0,
+            "DateUpdated": "11-01-2024",
+            "name": "FTSE100"
+        },
+        {
+            "PctAbv21MV": 29.19,
+            "PctAbv50MV": 44.13,
+            "PctAbv200MV": 59.66,
+            "NumNear52WkHigh": 168.0,
+            "NumNear52WkLow": 271.0,
+            "DateUpdated": "11-01-2024",
+            "name": "London Stock Exchange"
         }
     ]
 }
