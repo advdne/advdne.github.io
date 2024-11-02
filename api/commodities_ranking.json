@@ -43,7 +43,7 @@
     ],
     "items": [
         {
-            "21EMA*": 1.2,
+            "21EMA*": 0.99,
             "50EMA*": 4.05,
             "200EMA*": 1.2,
             "PctBelow52wkHi": 15.85,
@@ -107,7 +107,7 @@
             "50EMA*": -0.03,
             "200EMA*": 3.02,
             "PctBelow52wkHi": 12.84,
-            "PctAbove52wkLo": 22.26,
+            "PctAbove52wkLo": 21.83,
             "YtdGain": 13.3,
             "tradetime": "11-01-24 00:00",
             "name": "Copper (CPER)"
@@ -117,7 +117,7 @@
             "50EMA*": -12.38,
             "200EMA*": -27.5,
             "PctBelow52wkHi": 58.4,
-            "PctAbove52wkLo": -1.81,
+            "PctAbove52wkLo": 0.0,
             "YtdGain": -38.46,
             "tradetime": "11-01-24 00:00",
             "name": "Natural Gas (UNG)"
@@ -157,7 +157,7 @@
             "50EMA*": -18.34,
             "200EMA*": -28.55,
             "PctBelow52wkHi": 55.64,
-            "PctAbove52wkLo": 55.62,
+            "PctAbove52wkLo": 49.1,
             "YtdGain": -35.38,
             "tradetime": "11-01-24 00:00",
             "name": "Dry bulk shipping (BDRY)"
@@ -193,7 +193,7 @@
             "name": "Sugar (CANE)"
         },
         {
-            "21EMA*": -1.81,
+            "21EMA*": -1.5,
             "50EMA*": 2.8,
             "200EMA*": 7.54,
             "PctBelow52wkHi": 8.67,
@@ -203,7 +203,7 @@
             "name": "Uranium (URA)"
         },
         {
-            "21EMA*": -1.82,
+            "21EMA*": -1.51,
             "50EMA*": -0.24,
             "200EMA*": 1.93,
             "PctBelow52wkHi": 9.21,
