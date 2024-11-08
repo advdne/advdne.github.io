@@ -38,13 +38,13 @@
     ],
     "items": [
         {
-            "PctAbv21MV": 36.0,
-            "PctAbv50MV": 44.0,
-            "PctAbv200MV": 58.0,
-            "NumNear52WkHigh": 4.0,
-            "NumNear52WkLow": 0.0,
+            "PctAbv21MV": 61.39,
+            "PctAbv50MV": 62.54,
+            "PctAbv200MV": 73.16,
+            "NumNear52WkHigh": 479.0,
+            "NumNear52WkLow": 75.0,
             "DateUpdated": "11-07-2024",
-            "name": "Eurostoxx50"
+            "name": "Italy"
         },
         {
             "PctAbv21MV": 37.12,
@@ -387,6 +387,42 @@
             "NumNear52WkLow": 318.0,
             "DateUpdated": "11-07-2024",
             "name": "London Stock Exchange"
+        },
+        {
+            "PctAbv21MV": 36.0,
+            "PctAbv50MV": 44.0,
+            "PctAbv200MV": 58.0,
+            "NumNear52WkHigh": 4.0,
+            "NumNear52WkLow": 0.0,
+            "DateUpdated": "11-07-2024",
+            "name": "Eurostoxx50"
+        },
+        {
+            "PctAbv21MV": 45.0,
+            "PctAbv50MV": 45.0,
+            "PctAbv200MV": 55.0,
+            "NumNear52WkHigh": 3.0,
+            "NumNear52WkLow": 0.0,
+            "DateUpdated": "11-07-2024",
+            "name": "Swiss Market Index"
+        },
+        {
+            "PctAbv21MV": 60.1,
+            "PctAbv50MV": 63.83,
+            "PctAbv200MV": 73.71,
+            "NumNear52WkHigh": 266.0,
+            "NumNear52WkLow": 17.0,
+            "DateUpdated": "11-07-2024",
+            "name": "Switzerland"
+        },
+        {
+            "PctAbv21MV": 41.67,
+            "PctAbv50MV": 52.78,
+            "PctAbv200MV": 72.22,
+            "NumNear52WkHigh": 3.0,
+            "NumNear52WkLow": 2.0,
+            "DateUpdated": "11-07-2024",
+            "name": "Italy MIB Index"
         }
     ]
 }
