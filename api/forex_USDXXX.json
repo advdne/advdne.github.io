@@ -49,7 +49,7 @@
             "PctBelow52wkHi": 0.07,
             "PctAbove52wkLo": 2.06,
             "YtdGain": 0.14,
-            "tradetime": "12-13-24 00:00",
+            "tradetime": "12-17-24 00:00",
             "name": "Saudi Riyal USDSAR"
         },
         {
@@ -59,7 +59,7 @@
             "PctBelow52wkHi": 1.39,
             "PctAbove52wkLo": 5.11,
             "YtdGain": 2.05,
-            "tradetime": "12-13-24 00:00",
+            "tradetime": "12-17-24 00:00",
             "name": "Singapore dollar USDSGD"
         },
         {
@@ -69,7 +69,7 @@
             "PctBelow52wkHi": 0.8,
             "PctAbove52wkLo": 0.16,
             "YtdGain": -0.43,
-            "tradetime": "12-13-24 00:00",
+            "tradetime": "12-17-24 00:00",
             "name": "HK dollar USDHKD"
         },
         {
@@ -79,7 +79,7 @@
             "PctBelow52wkHi": 7.53,
             "PctAbove52wkLo": 7.67,
             "YtdGain": -3.27,
-            "tradetime": "12-13-24 00:00",
+            "tradetime": "12-17-24 00:00",
             "name": "Malaysian Ringgit USDMYR"
         },
         {
@@ -89,7 +89,7 @@
             "PctBelow52wkHi": 0.29,
             "PctAbove52wkLo": 6.84,
             "YtdGain": 5.4,
-            "tradetime": "12-13-24 00:00",
+            "tradetime": "12-17-24 00:00",
             "name": "Euro USDEUR"
         },
         {
@@ -99,7 +99,7 @@
             "PctBelow52wkHi": 2.58,
             "PctAbove52wkLo": 5.91,
             "YtdGain": 0.43,
-            "tradetime": "12-13-24 00:00",
+            "tradetime": "12-17-24 00:00",
             "name": "British pound USDGBP"
         },
         {
@@ -109,7 +109,7 @@
             "PctBelow52wkHi": 5.59,
             "PctAbove52wkLo": 8.4,
             "YtdGain": 8.22,
-            "tradetime": "12-13-24 00:00",
+            "tradetime": "12-17-24 00:00",
             "name": "Japanese Yen USDJPY"
         },
         {
@@ -119,7 +119,7 @@
             "PctBelow52wkHi": 0.22,
             "PctAbove52wkLo": 3.69,
             "YtdGain": 2.4,
-            "tradetime": "12-13-24 00:00",
+            "tradetime": "12-17-24 00:00",
             "name": "Renminbi (onshore) USDCNY"
         },
         {
@@ -129,7 +129,7 @@
             "PctBelow52wkHi": 0.71,
             "PctAbove52wkLo": 4.34,
             "YtdGain": 2.21,
-            "tradetime": "12-13-24 00:00",
+            "tradetime": "12-17-24 00:00",
             "name": "Renminbi (offshore) USDCNH"
         },
         {
@@ -139,7 +139,7 @@
             "PctBelow52wkHi": 0.0,
             "PctAbove52wkLo": 8.53,
             "YtdGain": 6.87,
-            "tradetime": "12-13-24 00:00",
+            "tradetime": "12-17-24 00:00",
             "name": "Aussie dollar USDAUD"
         },
         {
@@ -149,7 +149,7 @@
             "PctBelow52wkHi": 0.0,
             "PctAbove52wkLo": 6.26,
             "YtdGain": 7.34,
-            "tradetime": "12-13-24 00:00",
+            "tradetime": "12-17-24 00:00",
             "name": "Canadian Loonie USDCAD"
         },
         {
@@ -159,7 +159,7 @@
             "PctBelow52wkHi": 0.0,
             "PctAbove52wkLo": 10.08,
             "YtdGain": 9.54,
-            "tradetime": "12-13-24 00:00",
+            "tradetime": "12-17-24 00:00",
             "name": "New Zealand dollar USDNZL"
         },
         {
@@ -169,7 +169,7 @@
             "PctBelow52wkHi": 0.42,
             "PctAbove52wkLo": 9.14,
             "YtdGain": 10.31,
-            "tradetime": "12-13-24 00:00",
+            "tradetime": "12-17-24 00:00",
             "name": "Korean won USDKRW"
         },
         {
@@ -179,7 +179,7 @@
             "PctBelow52wkHi": 1.17,
             "PctAbove52wkLo": 5.09,
             "YtdGain": 5.82,
-            "tradetime": "12-13-24 00:00",
+            "tradetime": "12-17-24 00:00",
             "name": "New Taiwan dollar USDTWD"
         },
         {
@@ -189,7 +189,7 @@
             "PctBelow52wkHi": 2.99,
             "PctAbove52wkLo": 6.15,
             "YtdGain": 6.05,
-            "tradetime": "12-13-24 00:00",
+            "tradetime": "12-17-24 00:00",
             "name": "Swiss Franc USDCHF"
         },
         {
@@ -199,7 +199,7 @@
             "PctBelow52wkHi": 7.2,
             "PctAbove52wkLo": 25.75,
             "YtdGain": 17.51,
-            "tradetime": "12-13-24 00:00",
+            "tradetime": "12-17-24 00:00",
             "name": "Russian Ruble USDRUB"
         },
         {
@@ -209,7 +209,7 @@
             "PctBelow52wkHi": 0.0,
             "PctAbove52wkLo": 16.24,
             "YtdGain": 18.21,
-            "tradetime": "12-13-24 00:00",
+            "tradetime": "12-17-24 00:00",
             "name": "Turkish lira USDTRY"
         },
         {
@@ -219,7 +219,7 @@
             "PctBelow52wkHi": 3.18,
             "PctAbove52wkLo": 5.95,
             "YtdGain": 3.72,
-            "tradetime": "12-13-24 00:00",
+            "tradetime": "12-17-24 00:00",
             "name": "Indonesian Rupiah USDIDR"
         },
         {
@@ -229,7 +229,7 @@
             "PctBelow52wkHi": 8.76,
             "PctAbove52wkLo": 4.89,
             "YtdGain": -1.31,
-            "tradetime": "12-13-24 00:00",
+            "tradetime": "12-17-24 00:00",
             "name": "Thai Baht USDTHB"
         },
         {
@@ -239,7 +239,7 @@
             "PctBelow52wkHi": 1.2,
             "PctAbove52wkLo": 5.38,
             "YtdGain": 5.21,
-            "tradetime": "12-13-24 00:00",
+            "tradetime": "12-17-24 00:00",
             "name": "Philippine Peso USDPHP"
         },
         {
@@ -249,7 +249,7 @@
             "PctBelow52wkHi": 0.29,
             "PctAbove52wkLo": 4.37,
             "YtdGain": 4.67,
-            "tradetime": "12-13-24 00:00",
+            "tradetime": "12-17-24 00:00",
             "name": "Vietnamese Dong USDVND"
         },
         {
@@ -259,7 +259,7 @@
             "PctBelow52wkHi": 24.87,
             "PctAbove52wkLo": 1.2,
             "YtdGain": 0.0,
-            "tradetime": "12-13-24 00:00",
+            "tradetime": "12-17-24 00:00",
             "name": "Myanmar Kyat USDMMK"
         },
         {
@@ -269,7 +269,7 @@
             "PctBelow52wkHi": 0.04,
             "PctAbove52wkLo": 2.52,
             "YtdGain": 2.01,
-            "tradetime": "12-13-24 00:00",
+            "tradetime": "12-17-24 00:00",
             "name": "Indian Rupee USDINR"
         },
         {
@@ -279,7 +279,7 @@
             "PctBelow52wkHi": 1.51,
             "PctAbove52wkLo": 23.32,
             "YtdGain": 23.56,
-            "tradetime": "12-13-24 00:00",
+            "tradetime": "12-17-24 00:00",
             "name": "Brazil Real USDBRL"
         },
         {
@@ -289,7 +289,7 @@
             "PctBelow52wkHi": 0.47,
             "PctAbove52wkLo": 9.52,
             "YtdGain": 9.2,
-            "tradetime": "12-13-24 00:00",
+            "tradetime": "12-17-24 00:00",
             "name": "Swedish Krona USDSEK"
         },
         {
@@ -299,7 +299,7 @@
             "PctBelow52wkHi": 2.23,
             "PctAbove52wkLo": 23.76,
             "YtdGain": 19.08,
-            "tradetime": "12-13-24 00:00",
+            "tradetime": "12-17-24 00:00",
             "name": "Mexican Peso USDMXN"
         },
         {
@@ -309,7 +309,7 @@
             "PctBelow52wkHi": 0.0,
             "PctAbove52wkLo": 24.38,
             "YtdGain": 25.95,
-            "tradetime": "12-13-24 00:00",
+            "tradetime": "12-17-24 00:00",
             "name": "Argentina Peso USDARS"
         },
         {
@@ -319,7 +319,7 @@
             "PctBelow52wkHi": 1.03,
             "PctAbove52wkLo": 11.3,
             "YtdGain": 11.23,
-            "tradetime": "12-13-24 00:00",
+            "tradetime": "12-17-24 00:00",
             "name": "Chilean peso USDCLP"
         },
         {
@@ -329,7 +329,7 @@
             "PctBelow52wkHi": 5.96,
             "PctAbove52wkLo": 1.54,
             "YtdGain": -1.57,
-            "tradetime": "12-13-24 00:00",
+            "tradetime": "12-17-24 00:00",
             "name": "Peru peso USDPEN"
         },
         {
@@ -339,7 +339,7 @@
             "PctBelow52wkHi": 0.0,
             "PctAbove52wkLo": 65.52,
             "YtdGain": 64.36,
-            "tradetime": "12-13-24 00:00",
+            "tradetime": "12-17-24 00:00",
             "name": "Egyptian pound USDEGP"
         },
         {
@@ -349,7 +349,7 @@
             "PctBelow52wkHi": 6.86,
             "PctAbove52wkLo": 0.13,
             "YtdGain": -1.04,
-            "tradetime": "12-13-24 00:00",
+            "tradetime": "12-17-24 00:00",
             "name": "Israeli Sheqel USDILS"
         },
         {
@@ -359,7 +359,7 @@
             "PctBelow52wkHi": 1.87,
             "PctAbove52wkLo": 7.36,
             "YtdGain": 3.69,
-            "tradetime": "12-13-24 00:00",
+            "tradetime": "12-17-24 00:00",
             "name": "Polish zloty USDPLN"
         },
         {
@@ -369,7 +369,7 @@
             "PctBelow52wkHi": 7.98,
             "PctAbove52wkLo": 19.61,
             "YtdGain": -2.78,
-            "tradetime": "12-13-24 00:00",
+            "tradetime": "12-17-24 00:00",
             "name": "South African Rand USDZAR"
         },
         {
@@ -379,7 +379,7 @@
             "PctBelow52wkHi": 0.51,
             "PctAbove52wkLo": 6.94,
             "YtdGain": 4.97,
-            "tradetime": "12-13-24 00:00",
+            "tradetime": "12-17-24 00:00",
             "name": "Bulgarian Lev USDBGN"
         },
         {
@@ -389,7 +389,7 @@
             "PctBelow52wkHi": 1.57,
             "PctAbove52wkLo": 6.93,
             "YtdGain": 7.02,
-            "tradetime": "12-13-24 00:00",
+            "tradetime": "12-17-24 00:00",
             "name": "Czech koruna USDCZK"
         },
         {
@@ -399,7 +399,7 @@
             "PctBelow52wkHi": 0.31,
             "PctAbove52wkLo": 6.85,
             "YtdGain": 5.42,
-            "tradetime": "12-13-24 00:00",
+            "tradetime": "12-17-24 00:00",
             "name": "Danish krone USDDKK"
         },
         {
@@ -409,7 +409,7 @@
             "PctBelow52wkHi": 1.08,
             "PctAbove52wkLo": 13.35,
             "YtdGain": 12.62,
-            "tradetime": "12-13-24 00:00",
+            "tradetime": "12-17-24 00:00",
             "name": "Hungarian forint USDHUF"
         },
         {
@@ -419,7 +419,7 @@
             "PctBelow52wkHi": 0.23,
             "PctAbove52wkLo": 0.92,
             "YtdGain": -0.03,
-            "tradetime": "12-13-24 00:00",
+            "tradetime": "12-17-24 00:00",
             "name": "Kuwaiti dinar USDKWD"
         },
         {
@@ -429,7 +429,7 @@
             "PctBelow52wkHi": 0.97,
             "PctAbove52wkLo": 0.82,
             "YtdGain": -1.77,
-            "tradetime": "12-13-24 00:00",
+            "tradetime": "12-17-24 00:00",
             "name": "Pakistani rupee USDPKR"
         },
         {
@@ -439,7 +439,7 @@
             "PctBelow52wkHi": 3.86,
             "PctAbove52wkLo": 0.61,
             "YtdGain": -3.71,
-            "tradetime": "12-13-24 00:00",
+            "tradetime": "12-17-24 00:00",
             "name": "Qatari riyal USDQAR"
         },
         {
@@ -449,7 +449,7 @@
             "PctBelow52wkHi": 0.79,
             "PctAbove52wkLo": 6.77,
             "YtdGain": 5.77,
-            "tradetime": "12-13-24 00:00",
+            "tradetime": "12-17-24 00:00",
             "name": "Romanian leu USDRON"
         },
         {
@@ -459,7 +459,7 @@
             "PctBelow52wkHi": 0.02,
             "PctAbove52wkLo": 0.02,
             "YtdGain": -0.01,
-            "tradetime": "12-13-24 00:00",
+            "tradetime": "12-17-24 00:00",
             "name": "UAE dirham USDAED"
         },
         {
@@ -469,7 +469,7 @@
             "PctBelow52wkHi": 0.02,
             "PctAbove52wkLo": 8.38,
             "YtdGain": 9.68,
-            "tradetime": "12-13-24 00:00",
+            "tradetime": "12-17-24 00:00",
             "name": "Norwegian Kroner USDNOK"
         }
     ]
