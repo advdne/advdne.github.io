@@ -56,7 +56,7 @@
             "name": "Singapore "
         },
         {
-            "PctAbv21MV": 40.01,
+            "PctAbv21MV": 40.05,
             "PctAbv50MV": 39.4,
             "PctAbv200MV": 38.74,
             "NumNear52WkHigh": 60.0,
@@ -65,7 +65,7 @@
             "name": "Hong Kong "
         },
         {
-            "PctAbv21MV": 25.61,
+            "PctAbv21MV": 21.34,
             "PctAbv50MV": 49.04,
             "PctAbv200MV": 75.88,
             "NumNear52WkHigh": 89.0,
@@ -83,7 +83,7 @@
             "name": "Australia (ASX)"
         },
         {
-            "PctAbv21MV": 43.84,
+            "PctAbv21MV": 44.34,
             "PctAbv50MV": 43.74,
             "PctAbv200MV": 41.69,
             "NumNear52WkHigh": 51.0,
@@ -119,7 +119,7 @@
             "name": "Philippines"
         },
         {
-            "PctAbv21MV": 18.76,
+            "PctAbv21MV": 27.46,
             "PctAbv50MV": 15.62,
             "PctAbv200MV": 19.35,
             "NumNear52WkHigh": 6.0,
@@ -128,7 +128,7 @@
             "name": "Thailand"
         },
         {
-            "PctAbv21MV": 47.39,
+            "PctAbv21MV": 47.43,
             "PctAbv50MV": 38.15,
             "PctAbv200MV": 34.54,
             "NumNear52WkHigh": 48.0,
@@ -146,7 +146,7 @@
             "name": "New Zealand"
         },
         {
-            "PctAbv21MV": 32.55,
+            "PctAbv21MV": 38.86,
             "PctAbv50MV": 31.05,
             "PctAbv200MV": 37.41,
             "NumNear52WkHigh": 19.0,
@@ -227,7 +227,7 @@
             "name": "S&P 600 small-cap index"
         },
         {
-            "PctAbv21MV": 26.5,
+            "PctAbv21MV": 21.4,
             "PctAbv50MV": 50.43,
             "PctAbv200MV": 79.0,
             "NumNear52WkHigh": 61.0,
@@ -254,7 +254,7 @@
             "name": "Nasdaq 100 index"
         },
         {
-            "PctAbv21MV": 43.5,
+            "PctAbv21MV": 49.33,
             "PctAbv50MV": 44.39,
             "PctAbv200MV": 50.22,
             "NumNear52WkHigh": 3.0,
@@ -281,7 +281,7 @@
             "name": "Hang Seng Index"
         },
         {
-            "PctAbv21MV": 32.07,
+            "PctAbv21MV": 29.03,
             "PctAbv50MV": 55.85,
             "PctAbv200MV": 75.29,
             "NumNear52WkHigh": 51.0,
