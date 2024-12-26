@@ -88,7 +88,7 @@
             "200EMA*": -4.99,
             "PctBelow52wkHi": 22.43,
             "PctAbove52wkLo": 11.39,
-            "YtdGain": -14.29,
+            "YtdGain": -14.28,
             "tradetime": "12-24-24 00:00",
             "name": "Palladium (PALL)"
         },
@@ -134,8 +134,8 @@
         },
         {
             "21EMA*": 0.83,
-            "50EMA*": 1.2,
-            "200EMA*": 0.1,
+            "50EMA*": 1.19,
+            "200EMA*": 0.09,
             "PctBelow52wkHi": 16.24,
             "PctAbove52wkLo": 7.06,
             "YtdGain": -14.88,
@@ -184,9 +184,9 @@
         },
         {
             "21EMA*": -3.79,
-            "50EMA*": -6.49,
+            "50EMA*": -6.5,
             "200EMA*": -6.04,
-            "PctBelow52wkHi": 17.8,
+            "PctBelow52wkHi": 17.81,
             "PctAbove52wkLo": 5.39,
             "YtdGain": -6.9,
             "tradetime": "12-24-24 00:00",
