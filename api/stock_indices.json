@@ -97,7 +97,7 @@
             "Year gain (%)": 16.1,
             "FxGain": -2.7,
             "Year gain USD-adj (%)": 12.97,
-            "tradetime": "12-24-24 00:00",
+            "tradetime": "12-25-24 00:00",
             "name": "China CSI 300"
         },
         {
@@ -109,7 +109,7 @@
             "Year gain (%)": 14.07,
             "FxGain": -2.7,
             "Year gain USD-adj (%)": 10.99,
-            "tradetime": "12-24-24 00:00",
+            "tradetime": "12-25-24 00:00",
             "name": "Shanghai Composite"
         },
         {
@@ -121,7 +121,7 @@
             "Year gain (%)": 9.81,
             "FxGain": -2.7,
             "Year gain USD-adj (%)": 6.85,
-            "tradetime": "12-24-24 00:00",
+            "tradetime": "12-25-24 00:00",
             "name": "Shenzhen Composite "
         },
         {
@@ -145,7 +145,7 @@
             "Year gain (%)": 16.65,
             "FxGain": -10.24,
             "Year gain USD-adj (%)": 4.71,
-            "tradetime": "12-24-24 00:00",
+            "tradetime": "12-25-24 00:00",
             "name": "Japan Nikkei 225"
         },
         {
@@ -313,7 +313,7 @@
             "Year gain (%)": -1.5,
             "FxGain": 0.9,
             "Year gain USD-adj (%)": -0.61,
-            "tradetime": "12-24-24 00:00",
+            "tradetime": "12-25-24 00:00",
             "name": "Thailand SET"
         },
         {
@@ -457,7 +457,7 @@
             "Year gain (%)": 28.94,
             "FxGain": -5.97,
             "Year gain USD-adj (%)": 21.24,
-            "tradetime": "12-24-24 00:00",
+            "tradetime": "12-25-24 00:00",
             "name": "Taiwan TSEC weighted"
         },
         {
