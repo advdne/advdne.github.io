@@ -43,7 +43,7 @@
     ],
     "items": [
         {
-            "21EMA*": 0.04,
+            "21EMA*": 0.02,
             "50EMA*": 0.01,
             "200EMA*": -0.05,
             "PctBelow52wkHi": 0.26,
@@ -53,9 +53,9 @@
             "name": "Saudi Riyal USDSAR"
         },
         {
-            "21EMA*": 0.14,
+            "21EMA*": 0.08,
             "50EMA*": -0.36,
-            "200EMA*": 0.38,
+            "200EMA*": 0.37,
             "PctBelow52wkHi": 1.95,
             "PctAbove52wkLo": 4.98,
             "YtdGain": -1.09,
@@ -63,7 +63,7 @@
             "name": "Singapore dollar USDSGD"
         },
         {
-            "21EMA*": -0.03,
+            "21EMA*": -0.02,
             "50EMA*": -0.07,
             "200EMA*": -0.08,
             "PctBelow52wkHi": 0.79,
@@ -73,9 +73,9 @@
             "name": "HK dollar USDHKD"
         },
         {
-            "21EMA*": 0.55,
+            "21EMA*": 0.39,
             "50EMA*": 0.3,
-            "200EMA*": 0.67,
+            "200EMA*": 0.68,
             "PctBelow52wkHi": 6.94,
             "PctAbove52wkLo": 8.23,
             "YtdGain": -0.1,
@@ -83,9 +83,9 @@
             "name": "Malaysian Ringgit USDMYR"
         },
         {
-            "21EMA*": -0.48,
+            "21EMA*": -0.43,
             "50EMA*": -0.78,
-            "200EMA*": 1.0,
+            "200EMA*": 0.94,
             "PctBelow52wkHi": 2.37,
             "PctAbove52wkLo": 6.65,
             "YtdGain": -0.83,
@@ -93,9 +93,9 @@
             "name": "Euro USDEUR"
         },
         {
-            "21EMA*": -0.9,
+            "21EMA*": -0.73,
             "50EMA*": -1.49,
-            "200EMA*": -0.13,
+            "200EMA*": -0.15,
             "PctBelow52wkHi": 4.25,
             "PctAbove52wkLo": 5.69,
             "YtdGain": -1.22,
@@ -103,9 +103,9 @@
             "name": "British pound USDGBP"
         },
         {
-            "21EMA*": -1.28,
+            "21EMA*": -1.04,
             "50EMA*": -2.46,
-            "200EMA*": -2.41,
+            "200EMA*": -2.35,
             "PctBelow52wkHi": 7.93,
             "PctAbove52wkLo": 5.72,
             "YtdGain": -5.22,
@@ -113,9 +113,9 @@
             "name": "Japanese Yen USDJPY"
         },
         {
-            "21EMA*": 0.26,
+            "21EMA*": 0.18,
             "50EMA*": 0.17,
-            "200EMA*": 0.82,
+            "200EMA*": 0.81,
             "PctBelow52wkHi": 0.65,
             "PctAbove52wkLo": 3.93,
             "YtdGain": -0.19,
@@ -123,9 +123,9 @@
             "name": "Renminbi (onshore) USDCNY"
         },
         {
-            "21EMA*": 0.3,
+            "21EMA*": 0.23,
             "50EMA*": 0.09,
-            "200EMA*": 0.82,
+            "200EMA*": 0.79,
             "PctBelow52wkHi": 0.88,
             "PctAbove52wkLo": 4.61,
             "YtdGain": -0.22,
@@ -133,9 +133,9 @@
             "name": "Renminbi (offshore) USDCNH"
         },
         {
-            "21EMA*": 1.63,
+            "21EMA*": 1.23,
             "50EMA*": 0.94,
-            "200EMA*": 3.51,
+            "200EMA*": 3.38,
             "PctBelow52wkHi": 1.19,
             "PctAbove52wkLo": 11.27,
             "YtdGain": 0.03,
@@ -143,9 +143,9 @@
             "name": "Aussie dollar USDAUD"
         },
         {
-            "21EMA*": 1.46,
+            "21EMA*": 1.11,
             "50EMA*": 1.03,
-            "200EMA*": 2.82,
+            "200EMA*": 2.72,
             "PctBelow52wkHi": 1.56,
             "PctAbove52wkLo": 7.94,
             "YtdGain": 0.95,
@@ -153,9 +153,9 @@
             "name": "Canadian Loonie USDCAD"
         },
         {
-            "21EMA*": 1.38,
+            "21EMA*": 0.98,
             "50EMA*": 0.77,
-            "200EMA*": 3.77,
+            "200EMA*": 3.6,
             "PctBelow52wkHi": 1.0,
             "PctAbove52wkLo": 13.0,
             "YtdGain": 0.33,
@@ -163,9 +163,9 @@
             "name": "New Zealand dollar USDNZL"
         },
         {
-            "21EMA*": 1.26,
+            "21EMA*": 0.89,
             "50EMA*": 0.83,
-            "200EMA*": 3.28,
+            "200EMA*": 3.15,
             "PctBelow52wkHi": 1.09,
             "PctAbove52wkLo": 11.4,
             "YtdGain": -0.68,
@@ -173,9 +173,9 @@
             "name": "Korean won USDKRW"
         },
         {
-            "21EMA*": 0.46,
+            "21EMA*": 0.36,
             "50EMA*": 0.37,
-            "200EMA*": 1.28,
+            "200EMA*": 1.24,
             "PctBelow52wkHi": 0.53,
             "PctAbove52wkLo": 4.65,
             "YtdGain": 0.49,
@@ -183,9 +183,9 @@
             "name": "New Taiwan dollar USDTWD"
         },
         {
-            "21EMA*": -0.64,
+            "21EMA*": -0.57,
             "50EMA*": -0.98,
-            "200EMA*": 0.81,
+            "200EMA*": 0.77,
             "PctBelow52wkHi": 2.65,
             "PctAbove52wkLo": 6.52,
             "YtdGain": -0.9,
@@ -193,9 +193,9 @@
             "name": "Swiss Franc USDCHF"
         },
         {
-            "21EMA*": -0.85,
+            "21EMA*": -0.35,
             "50EMA*": -5.24,
-            "200EMA*": -7.85,
+            "200EMA*": -7.72,
             "PctBelow52wkHi": 21.34,
             "PctAbove52wkLo": 7.13,
             "YtdGain": -19.05,
@@ -203,29 +203,29 @@
             "name": "Russian Ruble USDRUB"
         },
         {
-            "21EMA*": 0.33,
+            "21EMA*": 0.16,
             "50EMA*": 0.95,
-            "200EMA*": 4.17,
+            "200EMA*": 3.99,
             "PctBelow52wkHi": 0.24,
-            "PctAbove52wkLo": 14.05,
+            "PctAbove52wkLo": 13.82,
             "YtdGain": 3.19,
             "tradetime": "03-03-25 00:00",
             "name": "Turkish lira USDTRY"
         },
         {
-            "21EMA*": 0.92,
+            "21EMA*": 0.67,
             "50EMA*": 1.02,
-            "200EMA*": 3.03,
-            "PctBelow52wkHi": 0.48,
+            "200EMA*": 2.96,
+            "PctBelow52wkHi": 0.6,
             "PctAbove52wkLo": 9.32,
             "YtdGain": 2.41,
             "tradetime": "03-03-25 00:00",
             "name": "Indonesian Rupiah USDIDR"
         },
         {
-            "21EMA*": 0.62,
+            "21EMA*": 0.29,
             "50EMA*": 0.08,
-            "200EMA*": -0.54,
+            "200EMA*": -0.51,
             "PctBelow52wkHi": 8.7,
             "PctAbove52wkLo": 4.95,
             "YtdGain": -0.58,
@@ -233,9 +233,9 @@
             "name": "Thai Baht USDTHB"
         },
         {
-            "21EMA*": -0.11,
+            "21EMA*": -0.1,
             "50EMA*": -0.34,
-            "200EMA*": -0.19,
+            "200EMA*": -0.18,
             "PctBelow52wkHi": 2.65,
             "PctAbove52wkLo": 4.24,
             "YtdGain": -0.4,
@@ -243,10 +243,10 @@
             "name": "Philippine Peso USDPHP"
         },
         {
-            "21EMA*": 0.42,
+            "21EMA*": 0.33,
             "50EMA*": 0.73,
-            "200EMA*": 1.24,
-            "PctBelow52wkHi": -0.1,
+            "200EMA*": 1.21,
+            "PctBelow52wkHi": 0.0,
             "PctAbove52wkLo": 4.26,
             "YtdGain": 0.39,
             "tradetime": "03-03-25 00:00",
@@ -263,9 +263,9 @@
             "name": "Myanmar Kyat USDMMK"
         },
         {
-            "21EMA*": 0.35,
+            "21EMA*": 0.26,
             "50EMA*": 0.51,
-            "200EMA*": 2.29,
+            "200EMA*": 2.22,
             "PctBelow52wkHi": 0.4,
             "PctAbove52wkLo": 5.04,
             "YtdGain": 1.69,
@@ -273,9 +273,9 @@
             "name": "Indian Rupee USDINR"
         },
         {
-            "21EMA*": 2.4,
+            "21EMA*": 1.94,
             "50EMA*": 0.89,
-            "200EMA*": 1.33,
+            "200EMA*": 1.28,
             "PctBelow52wkHi": 12.4,
             "PctAbove52wkLo": 17.77,
             "YtdGain": -4.54,
@@ -283,9 +283,9 @@
             "name": "Brazil Real USDBRL"
         },
         {
-            "21EMA*": -2.07,
-            "50EMA*": -3.33,
-            "200EMA*": -2.46,
+            "21EMA*": -1.72,
+            "50EMA*": -3.05,
+            "200EMA*": -2.44,
             "PctBelow52wkHi": 6.37,
             "PctAbove52wkLo": 4.24,
             "YtdGain": -4.69,
@@ -293,9 +293,9 @@
             "name": "Swedish Krona USDSEK"
         },
         {
-            "21EMA*": 1.57,
-            "50EMA*": 1.23,
-            "200EMA*": 3.29,
+            "21EMA*": 1.33,
+            "50EMA*": 1.15,
+            "200EMA*": 3.16,
             "PctBelow52wkHi": 2.0,
             "PctAbove52wkLo": 27.16,
             "YtdGain": 0.55,
@@ -303,19 +303,19 @@
             "name": "Mexican Peso USDMXN"
         },
         {
-            "21EMA*": 0.47,
-            "50EMA*": 1.02,
-            "200EMA*": 5.11,
+            "21EMA*": 0.37,
+            "50EMA*": 0.9,
+            "200EMA*": 4.95,
             "PctBelow52wkHi": 0.08,
-            "PctAbove52wkLo": 23.42,
+            "PctAbove52wkLo": 23.07,
             "YtdGain": 3.16,
             "tradetime": "03-03-25 00:00",
             "name": "Argentina Peso USDARS"
         },
         {
-            "21EMA*": 0.2,
-            "50EMA*": -1.71,
-            "200EMA*": -1.17,
+            "21EMA*": 0.19,
+            "50EMA*": -1.57,
+            "200EMA*": -1.16,
             "PctBelow52wkHi": 6.22,
             "PctAbove52wkLo": 7.09,
             "YtdGain": -4.36,
@@ -323,9 +323,9 @@
             "name": "Chilean peso USDCLP"
         },
         {
-            "21EMA*": 0.23,
+            "21EMA*": 0.22,
             "50EMA*": -0.2,
-            "200EMA*": -0.83,
+            "200EMA*": -0.81,
             "PctBelow52wkHi": 4.21,
             "PctAbove52wkLo": 2.44,
             "YtdGain": 0.44,
@@ -333,9 +333,9 @@
             "name": "Peru peso USDPEN"
         },
         {
-            "21EMA*": 0.15,
+            "21EMA*": 0.12,
             "50EMA*": 0.24,
-            "200EMA*": 1.67,
+            "200EMA*": 1.6,
             "PctBelow52wkHi": 0.88,
             "PctAbove52wkLo": 8.57,
             "YtdGain": -0.41,
@@ -343,9 +343,9 @@
             "name": "Egyptian pound USDEGP"
         },
         {
-            "21EMA*": 0.93,
-            "50EMA*": 0.52,
-            "200EMA*": -1.48,
+            "21EMA*": 0.66,
+            "50EMA*": 0.49,
+            "200EMA*": -1.42,
             "PctBelow52wkHi": 6.09,
             "PctAbove52wkLo": 1.89,
             "YtdGain": -1.54,
@@ -353,9 +353,9 @@
             "name": "Israeli Sheqel USDILS"
         },
         {
-            "21EMA*": -0.42,
-            "50EMA*": -1.52,
-            "200EMA*": -1.29,
+            "21EMA*": -0.4,
+            "50EMA*": -1.38,
+            "200EMA*": -1.26,
             "PctBelow52wkHi": 4.66,
             "PctAbove52wkLo": 4.45,
             "YtdGain": -3.4,
@@ -363,9 +363,9 @@
             "name": "Polish zloty USDPLN"
         },
         {
-            "21EMA*": 1.05,
-            "50EMA*": 0.79,
-            "200EMA*": 2.57,
+            "21EMA*": 0.76,
+            "50EMA*": 0.7,
+            "200EMA*": 2.47,
             "PctBelow52wkHi": 3.16,
             "PctAbove52wkLo": 25.24,
             "YtdGain": -0.82,
@@ -373,9 +373,9 @@
             "name": "South African Rand USDZAR"
         },
         {
-            "21EMA*": 0.54,
-            "50EMA*": 0.24,
-            "200EMA*": 2.22,
+            "21EMA*": 0.46,
+            "50EMA*": 0.22,
+            "200EMA*": 2.18,
             "PctBelow52wkHi": 1.58,
             "PctAbove52wkLo": 7.9,
             "YtdGain": 0.12,
@@ -384,8 +384,8 @@
         },
         {
             "21EMA*": -0.55,
-            "50EMA*": -1.12,
-            "200EMA*": 0.34,
+            "50EMA*": -1.07,
+            "200EMA*": 0.3,
             "PctBelow52wkHi": 3.02,
             "PctAbove52wkLo": 6.59,
             "YtdGain": -1.37,
@@ -393,9 +393,9 @@
             "name": "Czech koruna USDCZK"
         },
         {
-            "21EMA*": -0.48,
-            "50EMA*": -0.82,
-            "200EMA*": 1.0,
+            "21EMA*": -0.43,
+            "50EMA*": -0.78,
+            "200EMA*": 0.94,
             "PctBelow52wkHi": 2.38,
             "PctAbove52wkLo": 6.69,
             "YtdGain": -0.81,
@@ -403,9 +403,9 @@
             "name": "Danish krone USDDKK"
         },
         {
-            "21EMA*": -1.04,
-            "50EMA*": -2.24,
-            "200EMA*": -0.47,
+            "21EMA*": -0.88,
+            "50EMA*": -2.03,
+            "200EMA*": -0.49,
             "PctBelow52wkHi": 5.57,
             "PctAbove52wkLo": 8.39,
             "YtdGain": -3.6,
@@ -413,9 +413,9 @@
             "name": "Hungarian forint USDHUF"
         },
         {
-            "21EMA*": 0.1,
-            "50EMA*": 0.13,
-            "200EMA*": 0.47,
+            "21EMA*": 0.08,
+            "50EMA*": 0.11,
+            "200EMA*": 0.45,
             "PctBelow52wkHi": 0.13,
             "PctAbove52wkLo": 1.31,
             "YtdGain": 0.36,
@@ -423,9 +423,9 @@
             "name": "Kuwaiti dinar USDKWD"
         },
         {
-            "21EMA*": 0.21,
-            "50EMA*": 0.32,
-            "200EMA*": 0.61,
+            "21EMA*": 0.15,
+            "50EMA*": 0.29,
+            "200EMA*": 0.59,
             "PctBelow52wkHi": 0.81,
             "PctAbove52wkLo": 1.8,
             "YtdGain": 0.98,
@@ -433,9 +433,9 @@
             "name": "Pakistani rupee USDPKR"
         },
         {
-            "21EMA*": 0.72,
-            "50EMA*": 0.91,
-            "200EMA*": 1.26,
+            "21EMA*": 0.59,
+            "50EMA*": 0.79,
+            "200EMA*": 1.24,
             "PctBelow52wkHi": 0.16,
             "PctAbove52wkLo": 4.48,
             "YtdGain": 3.96,
@@ -443,9 +443,9 @@
             "name": "Qatari riyal USDQAR"
         },
         {
-            "21EMA*": -0.39,
-            "50EMA*": -0.71,
-            "200EMA*": 1.09,
+            "21EMA*": -0.38,
+            "50EMA*": -0.68,
+            "200EMA*": 1.03,
             "PctBelow52wkHi": 2.34,
             "PctAbove52wkLo": 6.75,
             "YtdGain": -0.72,
@@ -463,9 +463,9 @@
             "name": "UAE dirham USDAED"
         },
         {
-            "21EMA*": 0.26,
-            "50EMA*": -0.32,
-            "200EMA*": 1.19,
+            "21EMA*": 0.19,
+            "50EMA*": -0.28,
+            "200EMA*": 1.12,
             "PctBelow52wkHi": 2.26,
             "PctAbove52wkLo": 7.72,
             "YtdGain": -1.19,
