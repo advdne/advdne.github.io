@@ -73,7 +73,7 @@
             "Year gain (%)": 3.1,
             "FxGain": 0.08,
             "Year gain USD-adj (%)": 3.18,
-            "tradetime": "04-10-25 00:00",
+            "tradetime": "04-11-25 00:00",
             "name": "HongKong Hang Seng"
         },
         {
@@ -97,7 +97,7 @@
             "Year gain (%)": -5.08,
             "FxGain": -0.21,
             "Year gain USD-adj (%)": -5.28,
-            "tradetime": "04-10-25 00:00",
+            "tradetime": "04-11-25 00:00",
             "name": "China CSI 300"
         },
         {
@@ -109,7 +109,7 @@
             "Year gain (%)": -3.82,
             "FxGain": -0.21,
             "Year gain USD-adj (%)": -4.03,
-            "tradetime": "04-10-25 00:00",
+            "tradetime": "04-11-25 00:00",
             "name": "Shanghai Composite"
         },
         {
@@ -121,7 +121,7 @@
             "Year gain (%)": -4.55,
             "FxGain": -0.21,
             "Year gain USD-adj (%)": -4.75,
-            "tradetime": "04-10-25 00:00",
+            "tradetime": "04-11-25 00:00",
             "name": "Shenzhen Composite "
         },
         {
@@ -133,7 +133,7 @@
             "Year gain (%)": -5.51,
             "FxGain": 0.12,
             "Year gain USD-adj (%)": -5.4,
-            "tradetime": "04-10-25 00:00",
+            "tradetime": "04-11-25 00:00",
             "name": "Australia ASX200"
         },
         {
@@ -145,7 +145,7 @@
             "Year gain (%)": -13.25,
             "FxGain": 9.34,
             "Year gain USD-adj (%)": -5.14,
-            "tradetime": "04-10-25 00:00",
+            "tradetime": "04-11-25 00:00",
             "name": "Japan Nikkei 225"
         },
         {
@@ -265,7 +265,7 @@
             "Year gain (%)": -5.49,
             "FxGain": -0.44,
             "Year gain USD-adj (%)": -5.91,
-            "tradetime": "04-09-25 00:00",
+            "tradetime": "04-11-25 00:00",
             "name": "India BSE SENSEX"
         },
         {
@@ -301,7 +301,7 @@
             "Year gain (%)": -6.91,
             "FxGain": 1.29,
             "Year gain USD-adj (%)": -5.71,
-            "tradetime": "04-10-25 00:00",
+            "tradetime": "04-11-25 00:00",
             "name": "Philippine stock exchange index"
         },
         {
@@ -325,7 +325,7 @@
             "Year gain (%)": 2.28,
             "FxGain": 1.04,
             "Year gain USD-adj (%)": 3.35,
-            "tradetime": "04-10-25 00:00",
+            "tradetime": "04-11-25 00:00",
             "name": "Korea KOSPI 200"
         },
         {
@@ -337,7 +337,7 @@
             "Year gain (%)": -5.27,
             "FxGain": -0.44,
             "Year gain USD-adj (%)": -5.69,
-            "tradetime": "04-09-25 00:00",
+            "tradetime": "04-11-25 00:00",
             "name": "India Nifty 50"
         },
         {
@@ -445,7 +445,7 @@
             "Year gain (%)": -8.3,
             "FxGain": 2.06,
             "Year gain USD-adj (%)": -6.41,
-            "tradetime": "04-10-25 00:00",
+            "tradetime": "04-11-25 00:00",
             "name": "New Zealand NZX 50"
         },
         {
@@ -457,7 +457,7 @@
             "Year gain (%)": -17.52,
             "FxGain": 0.02,
             "Year gain USD-adj (%)": -17.5,
-            "tradetime": "04-10-25 00:00",
+            "tradetime": "04-11-25 00:00",
             "name": "Taiwan TSEC weighted"
         },
         {
