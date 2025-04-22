@@ -61,7 +61,7 @@
             "Year gain (%)": -2.16,
             "FxGain": 3.64,
             "Year gain USD-adj (%)": 1.4,
-            "tradetime": "04-17-25 00:00",
+            "tradetime": "04-21-25 00:00",
             "name": "Canada TSX Composite"
         },
         {
@@ -71,8 +71,8 @@
             "PctBelow52wkHi": 13.63,
             "PctAbove52wkLo": 31.87,
             "Year gain (%)": 6.66,
-            "FxGain": 0.02,
-            "Year gain USD-adj (%)": 6.68,
+            "FxGain": 0.06,
+            "Year gain USD-adj (%)": 6.72,
             "tradetime": "04-17-25 00:00",
             "name": "HongKong Hang Seng"
         },
@@ -83,9 +83,9 @@
             "PctBelow52wkHi": 6.56,
             "PctAbove52wkLo": 18.3,
             "Year gain (%)": -1.78,
-            "FxGain": 3.71,
-            "Year gain USD-adj (%)": 1.87,
-            "tradetime": "04-17-25 00:00",
+            "FxGain": 4.21,
+            "Year gain USD-adj (%)": 2.36,
+            "tradetime": "04-21-25 00:00",
             "name": "Singapore Straits Times"
         },
         {
@@ -95,9 +95,9 @@
             "PctBelow52wkHi": 11.36,
             "PctAbove52wkLo": 19.41,
             "Year gain (%)": -4.13,
-            "FxGain": -0.01,
-            "Year gain USD-adj (%)": -4.14,
-            "tradetime": "04-18-25 00:00",
+            "FxGain": 0.1,
+            "Year gain USD-adj (%)": -4.03,
+            "tradetime": "04-21-25 00:00",
             "name": "China CSI 300"
         },
         {
@@ -107,9 +107,9 @@
             "PctBelow52wkHi": 6.1,
             "PctAbove52wkLo": 21.18,
             "Year gain (%)": -2.24,
-            "FxGain": -0.01,
-            "Year gain USD-adj (%)": -2.25,
-            "tradetime": "04-18-25 00:00",
+            "FxGain": 0.1,
+            "Year gain USD-adj (%)": -2.14,
+            "tradetime": "04-21-25 00:00",
             "name": "Shanghai Composite"
         },
         {
@@ -119,9 +119,9 @@
             "PctBelow52wkHi": 11.84,
             "PctAbove52wkLo": 27.64,
             "Year gain (%)": -3.9,
-            "FxGain": -0.01,
-            "Year gain USD-adj (%)": -3.92,
-            "tradetime": "04-18-25 00:00",
+            "FxGain": 0.1,
+            "Year gain USD-adj (%)": -3.81,
+            "tradetime": "04-21-25 00:00",
             "name": "Shenzhen Composite "
         },
         {
@@ -133,7 +133,7 @@
             "Year gain (%)": -4.17,
             "FxGain": 2.54,
             "Year gain USD-adj (%)": -1.73,
-            "tradetime": "04-17-25 00:00",
+            "tradetime": "04-22-25 00:00",
             "name": "Australia ASX200"
         },
         {
@@ -143,9 +143,9 @@
             "PctBelow52wkHi": 17.75,
             "PctAbove52wkLo": 11.54,
             "Year gain (%)": -12.94,
-            "FxGain": 10.45,
-            "Year gain USD-adj (%)": -3.85,
-            "tradetime": "04-18-25 00:00",
+            "FxGain": 11.61,
+            "Year gain USD-adj (%)": -2.84,
+            "tradetime": "04-21-25 00:00",
             "name": "Japan Nikkei 225"
         },
         {
@@ -157,7 +157,7 @@
             "Year gain (%)": -13.11,
             "FxGain": 0.0,
             "Year gain USD-adj (%)": -13.11,
-            "tradetime": "04-17-25 00:00",
+            "tradetime": "04-21-25 00:00",
             "name": "Nasdaq 100"
         },
         {
@@ -169,7 +169,7 @@
             "Year gain (%)": -10.18,
             "FxGain": 0.0,
             "Year gain USD-adj (%)": -10.18,
-            "tradetime": "04-17-25 00:00",
+            "tradetime": "04-21-25 00:00",
             "name": "S&P 500"
         },
         {
@@ -181,7 +181,7 @@
             "Year gain (%)": -8.0,
             "FxGain": 0.0,
             "Year gain USD-adj (%)": -8.0,
-            "tradetime": "04-17-25 00:00",
+            "tradetime": "04-21-25 00:00",
             "name": "Dow Jones Industrial"
         },
         {
@@ -193,7 +193,7 @@
             "Year gain (%)": -12.07,
             "FxGain": 0.0,
             "Year gain USD-adj (%)": -12.07,
-            "tradetime": "04-17-25 00:00",
+            "tradetime": "04-21-25 00:00",
             "name": "S&P 400 mid-cap"
         },
         {
@@ -205,7 +205,7 @@
             "Year gain (%)": -16.57,
             "FxGain": 0.0,
             "Year gain USD-adj (%)": -16.57,
-            "tradetime": "04-17-25 00:00",
+            "tradetime": "04-21-25 00:00",
             "name": "S&P 600 small-cap"
         },
         {
@@ -215,9 +215,9 @@
             "PctBelow52wkHi": 9.45,
             "PctAbove52wkLo": 22.3,
             "Year gain (%)": 6.51,
-            "FxGain": 9.52,
-            "Year gain USD-adj (%)": 16.65,
-            "tradetime": "04-17-25 00:00",
+            "FxGain": 10.75,
+            "Year gain USD-adj (%)": 17.97,
+            "tradetime": "04-21-25 00:00",
             "name": "German DAX"
         },
         {
@@ -227,9 +227,9 @@
             "PctBelow52wkHi": 11.58,
             "PctAbove52wkLo": 6.16,
             "Year gain (%)": -1.29,
-            "FxGain": 9.52,
-            "Year gain USD-adj (%)": 8.11,
-            "tradetime": "04-17-25 00:00",
+            "FxGain": 10.75,
+            "Year gain USD-adj (%)": 9.33,
+            "tradetime": "04-21-25 00:00",
             "name": "Italy MIB index"
         },
         {
@@ -239,9 +239,9 @@
             "PctBelow52wkHi": 6.71,
             "PctAbove52wkLo": 7.76,
             "Year gain (%)": 1.26,
-            "FxGain": 5.96,
-            "Year gain USD-adj (%)": 7.29,
-            "tradetime": "04-17-25 00:00",
+            "FxGain": 6.67,
+            "Year gain USD-adj (%)": 8.01,
+            "tradetime": "04-21-25 00:00",
             "name": "UK FTSE 100"
         },
         {
@@ -251,9 +251,9 @@
             "PctBelow52wkHi": 10.93,
             "PctAbove52wkLo": 7.96,
             "Year gain (%)": 0.8,
-            "FxGain": 9.52,
-            "Year gain USD-adj (%)": 10.4,
-            "tradetime": "04-17-25 00:00",
+            "FxGain": 10.75,
+            "Year gain USD-adj (%)": 11.64,
+            "tradetime": "04-21-25 00:00",
             "name": "EURO STOXX 50"
         },
         {
@@ -265,7 +265,7 @@
             "Year gain (%)": 0.53,
             "FxGain": 0.44,
             "Year gain USD-adj (%)": 0.97,
-            "tradetime": "04-17-25 00:00",
+            "tradetime": "04-21-25 00:00",
             "name": "India BSE SENSEX"
         },
         {
@@ -275,9 +275,9 @@
             "PctBelow52wkHi": 10.69,
             "PctAbove52wkLo": 7.05,
             "Year gain (%)": -8.7,
-            "FxGain": 1.19,
-            "Year gain USD-adj (%)": -7.62,
-            "tradetime": "04-18-25 00:00",
+            "FxGain": 2.19,
+            "Year gain USD-adj (%)": -6.71,
+            "tradetime": "04-21-25 00:00",
             "name": "Malaysia KLSE Composite "
         },
         {
@@ -287,9 +287,9 @@
             "PctBelow52wkHi": 11.58,
             "PctAbove52wkLo": 6.16,
             "Year gain (%)": -1.29,
-            "FxGain": 9.52,
-            "Year gain USD-adj (%)": 8.11,
-            "tradetime": "04-17-25 00:00",
+            "FxGain": 10.75,
+            "Year gain USD-adj (%)": 9.33,
+            "tradetime": "04-21-25 00:00",
             "name": "French CAC 40"
         },
         {
@@ -301,7 +301,7 @@
             "Year gain (%)": -6.04,
             "FxGain": 2.33,
             "Year gain USD-adj (%)": -3.84,
-            "tradetime": "04-16-25 00:00",
+            "tradetime": "04-21-25 00:00",
             "name": "Philippine stock exchange index"
         },
         {
@@ -313,7 +313,7 @@
             "Year gain (%)": -17.8,
             "FxGain": 2.37,
             "Year gain USD-adj (%)": -15.86,
-            "tradetime": "04-18-25 00:00",
+            "tradetime": "04-21-25 00:00",
             "name": "Thailand SET"
         },
         {
@@ -325,7 +325,7 @@
             "Year gain (%)": 3.31,
             "FxGain": 3.08,
             "Year gain USD-adj (%)": 6.49,
-            "tradetime": "04-18-25 00:00",
+            "tradetime": "04-21-25 00:00",
             "name": "Korea KOSPI 200"
         },
         {
@@ -337,7 +337,7 @@
             "Year gain (%)": 0.87,
             "FxGain": 0.44,
             "Year gain USD-adj (%)": 1.32,
-            "tradetime": "04-17-25 00:00",
+            "tradetime": "04-21-25 00:00",
             "name": "India Nifty 50"
         },
         {
@@ -349,7 +349,7 @@
             "Year gain (%)": 0.22,
             "FxGain": 14.72,
             "Year gain USD-adj (%)": 14.97,
-            "tradetime": "04-17-25 00:00",
+            "tradetime": "04-21-25 00:00",
             "name": "EURONEXT 100"
         },
         {
@@ -359,9 +359,9 @@
             "PctBelow52wkHi": 4.2,
             "PctAbove52wkLo": 24.33,
             "Year gain (%)": 11.41,
-            "FxGain": 9.52,
-            "Year gain USD-adj (%)": 22.01,
-            "tradetime": "04-17-25 00:00",
+            "FxGain": 10.75,
+            "Year gain USD-adj (%)": 23.39,
+            "tradetime": "04-21-25 00:00",
             "name": "Spain IBEX 35"
         },
         {
@@ -373,7 +373,7 @@
             "Year gain (%)": 0.52,
             "FxGain": 10.74,
             "Year gain USD-adj (%)": 11.31,
-            "tradetime": "04-17-25 00:00",
+            "tradetime": "04-21-25 00:00",
             "name": "Swiss Market index"
         },
         {
@@ -385,7 +385,7 @@
             "Year gain (%)": -15.67,
             "FxGain": 0.0,
             "Year gain USD-adj (%)": -15.67,
-            "tradetime": "04-17-25 00:00",
+            "tradetime": "04-21-25 00:00",
             "name": "Russell 2000 small-cap"
         },
         {
@@ -397,7 +397,7 @@
             "Year gain (%)": -5.14,
             "FxGain": 14.72,
             "Year gain USD-adj (%)": 8.82,
-            "tradetime": "04-17-25 00:00",
+            "tradetime": "04-21-25 00:00",
             "name": "Sweden OMX 30"
         },
         {
@@ -409,7 +409,7 @@
             "Year gain (%)": -10.6,
             "FxGain": 0.0,
             "Year gain USD-adj (%)": -10.6,
-            "tradetime": "04-17-25 00:00",
+            "tradetime": "04-21-25 00:00",
             "name": "Russell 3000 (overall U.S market)"
         },
         {
@@ -433,7 +433,7 @@
             "Year gain (%)": 7.08,
             "FxGain": 5.03,
             "Year gain USD-adj (%)": 12.46,
-            "tradetime": "04-16-25 00:00",
+            "tradetime": "04-21-25 00:00",
             "name": "Mexico IPC "
         },
         {
@@ -457,7 +457,7 @@
             "Year gain (%)": -15.8,
             "FxGain": 0.59,
             "Year gain USD-adj (%)": -15.31,
-            "tradetime": "04-18-25 00:00",
+            "tradetime": "04-21-25 00:00",
             "name": "Taiwan TSEC weighted"
         },
         {
@@ -469,7 +469,7 @@
             "Year gain (%)": -9.06,
             "FxGain": -4.36,
             "Year gain USD-adj (%)": -13.03,
-            "tradetime": "04-17-25 00:00",
+            "tradetime": "04-21-25 00:00",
             "name": "Indonesia Jakarta composite"
         },
         {
@@ -481,7 +481,7 @@
             "Year gain (%)": -5.22,
             "FxGain": -7.52,
             "Year gain USD-adj (%)": -12.35,
-            "tradetime": "04-17-25 00:00",
+            "tradetime": "04-21-25 00:00",
             "name": "Turkey Borsa Istanbul 100"
         },
         {
@@ -491,9 +491,9 @@
             "PctBelow52wkHi": 9.99,
             "PctAbove52wkLo": 13.72,
             "Year gain (%)": 6.91,
-            "FxGain": 9.52,
-            "Year gain USD-adj (%)": 17.08,
-            "tradetime": "04-17-25 00:00",
+            "FxGain": 10.75,
+            "Year gain USD-adj (%)": 18.4,
+            "tradetime": "04-21-25 00:00",
             "name": "Austrian ATX"
         },
         {
@@ -503,9 +503,9 @@
             "PctBelow52wkHi": 10.16,
             "PctAbove52wkLo": 7.0,
             "Year gain (%)": -3.01,
-            "FxGain": 9.52,
-            "Year gain USD-adj (%)": 6.22,
-            "tradetime": "04-17-25 00:00",
+            "FxGain": 10.75,
+            "Year gain USD-adj (%)": 7.42,
+            "tradetime": "04-21-25 00:00",
             "name": "Netherlands AEX "
         },
         {
@@ -515,9 +515,9 @@
             "PctBelow52wkHi": 6.72,
             "PctAbove52wkLo": 9.52,
             "Year gain (%)": -1.57,
-            "FxGain": 9.52,
-            "Year gain USD-adj (%)": 7.8,
-            "tradetime": "04-17-25 00:00",
+            "FxGain": 10.75,
+            "Year gain USD-adj (%)": 9.02,
+            "tradetime": "04-21-25 00:00",
             "name": "Belgium BEL20"
         }
     ]
