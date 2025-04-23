@@ -87,7 +87,7 @@
             "50EMA*": -3.19,
             "200EMA*": -5.74,
             "PctBelow52wkHi": 10.02,
-            "PctAbove52wkLo": 1.22,
+            "PctAbove52wkLo": 1.12,
             "YtdGain": -8.61,
             "tradetime": "04-22-25 00:00",
             "name": "Euro USDEUR"
@@ -107,7 +107,7 @@
             "50EMA*": -2.73,
             "200EMA*": -5.2,
             "PctBelow52wkHi": 11.96,
-            "PctAbove52wkLo": 1.15,
+            "PctAbove52wkLo": 1.09,
             "YtdGain": -9.37,
             "tradetime": "04-22-25 00:00",
             "name": "Japanese Yen USDJPY"
@@ -187,7 +187,7 @@
             "50EMA*": -3.59,
             "200EMA*": -6.15,
             "PctBelow52wkHi": 10.2,
-            "PctAbove52wkLo": 1.88,
+            "PctAbove52wkLo": 1.76,
             "YtdGain": -8.85,
             "tradetime": "04-22-25 00:00",
             "name": "Swiss Franc USDCHF"
@@ -197,7 +197,7 @@
             "50EMA*": -3.08,
             "200EMA*": -11.73,
             "PctBelow52wkHi": 28.27,
-            "PctAbove52wkLo": 0.74,
+            "PctAbove52wkLo": 0.49,
             "YtdGain": -26.17,
             "tradetime": "04-22-25 00:00",
             "name": "Russian Ruble USDRUB"
@@ -206,7 +206,7 @@
             "21EMA*": 0.48,
             "50EMA*": 1.49,
             "200EMA*": 5.92,
-            "PctBelow52wkHi": -0.18,
+            "PctBelow52wkHi": 0.0,
             "PctAbove52wkLo": 18.95,
             "YtdGain": 8.42,
             "tradetime": "04-22-25 00:00",
@@ -257,7 +257,7 @@
             "50EMA*": -0.0,
             "200EMA*": -0.0,
             "PctBelow52wkHi": 24.87,
-            "PctAbove52wkLo": 0.68,
+            "PctAbove52wkLo": 0.03,
             "YtdGain": -0.0,
             "tradetime": "04-22-25 00:00",
             "name": "Myanmar Kyat USDMMK"
@@ -277,7 +277,7 @@
             "50EMA*": -1.35,
             "200EMA*": -1.79,
             "PctBelow52wkHi": 15.02,
-            "PctAbove52wkLo": 8.99,
+            "PctAbove52wkLo": 8.82,
             "YtdGain": -7.4,
             "tradetime": "04-22-25 00:00",
             "name": "Brazil Real USDBRL"
@@ -287,7 +287,7 @@
             "50EMA*": -3.64,
             "200EMA*": -8.3,
             "PctBelow52wkHi": 14.4,
-            "PctAbove52wkLo": 0.98,
+            "PctAbove52wkLo": 0.91,
             "YtdGain": -12.86,
             "tradetime": "04-22-25 00:00",
             "name": "Swedish Krona USDSEK"
@@ -297,7 +297,7 @@
             "50EMA*": -2.88,
             "200EMA*": -3.08,
             "PctBelow52wkHi": 7.38,
-            "PctAbove52wkLo": 17.68,
+            "PctAbove52wkLo": 16.84,
             "YtdGain": -4.96,
             "tradetime": "04-22-25 00:00",
             "name": "Mexican Peso USDMXN"
@@ -337,7 +337,7 @@
             "50EMA*": 0.3,
             "200EMA*": 1.43,
             "PctBelow52wkHi": 1.24,
-            "PctAbove52wkLo": 7.54,
+            "PctAbove52wkLo": 7.39,
             "YtdGain": 0.36,
             "tradetime": "04-22-25 00:00",
             "name": "Egyptian pound USDEGP"
@@ -357,7 +357,7 @@
             "50EMA*": -1.69,
             "200EMA*": -4.66,
             "PctBelow52wkHi": 9.54,
-            "PctAbove52wkLo": 1.65,
+            "PctAbove52wkLo": 1.53,
             "YtdGain": -8.35,
             "tradetime": "04-22-25 00:00",
             "name": "Polish zloty USDPLN"
@@ -377,7 +377,7 @@
             "50EMA*": -3.76,
             "200EMA*": -6.01,
             "PctBelow52wkHi": 10.53,
-            "PctAbove52wkLo": -0.09,
+            "PctAbove52wkLo": 0.0,
             "YtdGain": -8.98,
             "tradetime": "04-22-25 00:00",
             "name": "Bulgarian Lev USDBGN"
@@ -387,7 +387,7 @@
             "50EMA*": -2.79,
             "200EMA*": -5.79,
             "PctBelow52wkHi": 10.36,
-            "PctAbove52wkLo": 1.59,
+            "PctAbove52wkLo": 1.43,
             "YtdGain": -8.83,
             "tradetime": "04-22-25 00:00",
             "name": "Czech koruna USDCZK"
@@ -397,7 +397,7 @@
             "50EMA*": -3.1,
             "200EMA*": -5.62,
             "PctBelow52wkHi": 9.91,
-            "PctAbove52wkLo": 1.24,
+            "PctAbove52wkLo": 1.14,
             "YtdGain": -8.46,
             "tradetime": "04-22-25 00:00",
             "name": "Danish krone USDDKK"
@@ -447,7 +447,7 @@
             "50EMA*": -2.98,
             "200EMA*": -5.61,
             "PctBelow52wkHi": 9.98,
-            "PctAbove52wkLo": 1.38,
+            "PctAbove52wkLo": 1.16,
             "YtdGain": -8.49,
             "tradetime": "04-22-25 00:00",
             "name": "Romanian leu USDRON"
