@@ -47,7 +47,7 @@
             "name": "Italy"
         },
         {
-            "PctAbv21MV": 61.7,
+            "PctAbv21MV": 58.65,
             "PctAbv50MV": 43.27,
             "PctAbv200MV": 34.8,
             "NumNear52WkHigh": 13.0,
@@ -56,7 +56,7 @@
             "name": "Singapore "
         },
         {
-            "PctAbv21MV": 41.41,
+            "PctAbv21MV": 40.68,
             "PctAbv50MV": 36.35,
             "PctAbv200MV": 35.86,
             "NumNear52WkHigh": 70.0,
@@ -65,7 +65,7 @@
             "name": "Hong Kong "
         },
         {
-            "PctAbv21MV": 44.04,
+            "PctAbv21MV": 38.45,
             "PctAbv50MV": 34.69,
             "PctAbv200MV": 50.86,
             "NumNear52WkHigh": 56.0,
@@ -74,7 +74,7 @@
             "name": "China (Shenzhen+Shanghai)"
         },
         {
-            "PctAbv21MV": 54.81,
+            "PctAbv21MV": 51.83,
             "PctAbv50MV": 41.87,
             "PctAbv200MV": 35.5,
             "NumNear52WkHigh": 22.0,
@@ -83,7 +83,7 @@
             "name": "Australia (ASX)"
         },
         {
-            "PctAbv21MV": 67.01,
+            "PctAbv21MV": 66.35,
             "PctAbv50MV": 48.76,
             "PctAbv200MV": 42.57,
             "NumNear52WkHigh": 115.0,
@@ -92,7 +92,7 @@
             "name": "Japan (TSE)"
         },
         {
-            "PctAbv21MV": 84.68,
+            "PctAbv21MV": 84.1,
             "PctAbv50MV": 64.45,
             "PctAbv200MV": 37.79,
             "NumNear52WkHigh": 40.0,
@@ -101,7 +101,7 @@
             "name": "India (NSE)"
         },
         {
-            "PctAbv21MV": 46.53,
+            "PctAbv21MV": 50.37,
             "PctAbv50MV": 24.6,
             "PctAbv200MV": 15.93,
             "NumNear52WkHigh": 11.0,
@@ -110,7 +110,7 @@
             "name": "Malaysia"
         },
         {
-            "PctAbv21MV": 47.68,
+            "PctAbv21MV": 52.4,
             "PctAbv50MV": 42.19,
             "PctAbv200MV": 37.77,
             "NumNear52WkHigh": 4.0,
@@ -119,7 +119,7 @@
             "name": "Philippines"
         },
         {
-            "PctAbv21MV": 45.38,
+            "PctAbv21MV": 47.69,
             "PctAbv50MV": 25.95,
             "PctAbv200MV": 12.2,
             "NumNear52WkHigh": 5.0,
@@ -128,7 +128,7 @@
             "name": "Thailand"
         },
         {
-            "PctAbv21MV": 81.33,
+            "PctAbv21MV": 78.73,
             "PctAbv50MV": 62.22,
             "PctAbv200MV": 44.05,
             "NumNear52WkHigh": 61.0,
@@ -137,7 +137,7 @@
             "name": "Korea "
         },
         {
-            "PctAbv21MV": 34.25,
+            "PctAbv21MV": 41.26,
             "PctAbv50MV": 19.86,
             "PctAbv200MV": 28.77,
             "NumNear52WkHigh": 3.0,
