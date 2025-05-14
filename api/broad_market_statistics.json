@@ -38,8 +38,8 @@
     ],
     "items": [
         {
-            "PctAbv21MV": 79.31,
-            "PctAbv50MV": 71.6,
+            "PctAbv21MV": 77.68,
+            "PctAbv50MV": 70.37,
             "PctAbv200MV": 56.62,
             "NumNear52WkHigh": 108.0,
             "NumNear52WkLow": 45.0,
@@ -47,108 +47,108 @@
             "name": "Italy"
         },
         {
-            "PctAbv21MV": 75.0,
-            "PctAbv50MV": 65.0,
-            "PctAbv200MV": 45.0,
+            "PctAbv21MV": 61.05,
+            "PctAbv50MV": 52.21,
+            "PctAbv200MV": 42.27,
             "NumNear52WkHigh": 0.0,
             "NumNear52WkLow": 0.0,
             "DateUpdated": "05-12-2025",
             "name": "Singapore "
         },
         {
-            "PctAbv21MV": 59.26,
-            "PctAbv50MV": 51.61,
-            "PctAbv200MV": 43.71,
+            "PctAbv21MV": 57.4,
+            "PctAbv50MV": 50.65,
+            "PctAbv200MV": 43.23,
             "NumNear52WkHigh": 90.0,
             "NumNear52WkLow": 123.0,
             "DateUpdated": "05-12-2025",
             "name": "Hong Kong "
         },
         {
-            "PctAbv21MV": 78.87,
-            "PctAbv50MV": 63.68,
-            "PctAbv200MV": 66.11,
+            "PctAbv21MV": 77.52,
+            "PctAbv50MV": 61.98,
+            "PctAbv200MV": 65.2,
             "NumNear52WkHigh": 108.0,
             "NumNear52WkLow": 5.0,
             "DateUpdated": "05-12-2025",
             "name": "China (Shenzhen+Shanghai)"
         },
         {
-            "PctAbv21MV": 58.62,
-            "PctAbv50MV": 49.79,
-            "PctAbv200MV": 37.44,
+            "PctAbv21MV": 60.82,
+            "PctAbv50MV": 57.31,
+            "PctAbv200MV": 46.15,
             "NumNear52WkHigh": 47.0,
             "NumNear52WkLow": 71.0,
             "DateUpdated": "05-12-2025",
             "name": "Australia (ASX)"
         },
         {
-            "PctAbv21MV": 78.64,
-            "PctAbv50MV": 69.12,
-            "PctAbv200MV": 52.96,
+            "PctAbv21MV": 75.88,
+            "PctAbv50MV": 68.64,
+            "PctAbv200MV": 53.03,
             "NumNear52WkHigh": 176.0,
             "NumNear52WkLow": 6.0,
             "DateUpdated": "05-12-2025",
             "name": "Japan (TSE)"
         },
         {
-            "PctAbv21MV": 65.65,
-            "PctAbv50MV": 51.65,
-            "PctAbv200MV": 34.2,
+            "PctAbv21MV": 73.95,
+            "PctAbv50MV": 58.3,
+            "PctAbv200MV": 36.45,
             "NumNear52WkHigh": 40.0,
             "NumNear52WkLow": 21.0,
             "DateUpdated": "05-12-2025",
             "name": "India (NSE)"
         },
         {
-            "PctAbv21MV": 63.61,
-            "PctAbv50MV": 46.75,
-            "PctAbv200MV": 23.73,
+            "PctAbv21MV": 72.77,
+            "PctAbv50MV": 56.41,
+            "PctAbv200MV": 26.09,
             "NumNear52WkHigh": 11.0,
             "NumNear52WkLow": 39.0,
             "DateUpdated": "05-09-2025",
             "name": "Malaysia"
         },
         {
-            "PctAbv21MV": 55.74,
-            "PctAbv50MV": 54.04,
-            "PctAbv200MV": 42.31,
+            "PctAbv21MV": 55.31,
+            "PctAbv50MV": 51.77,
+            "PctAbv200MV": 42.86,
             "NumNear52WkHigh": 4.0,
             "NumNear52WkLow": 1.0,
             "DateUpdated": "05-09-2025",
             "name": "Philippines"
         },
         {
-            "PctAbv21MV": 51.46,
-            "PctAbv50MV": 38.48,
-            "PctAbv200MV": 14.04,
+            "PctAbv21MV": 56.17,
+            "PctAbv50MV": 42.42,
+            "PctAbv200MV": 15.39,
             "NumNear52WkHigh": 12.0,
             "NumNear52WkLow": 56.0,
             "DateUpdated": "05-09-2025",
             "name": "Thailand"
         },
         {
-            "PctAbv21MV": 75.84,
-            "PctAbv50MV": 74.34,
-            "PctAbv200MV": 55.08,
+            "PctAbv21MV": 74.23,
+            "PctAbv50MV": 73.95,
+            "PctAbv200MV": 56.23,
             "NumNear52WkHigh": 100.0,
             "NumNear52WkLow": 3.0,
             "DateUpdated": "05-12-2025",
             "name": "Korea "
         },
         {
-            "PctAbv21MV": 72.3,
-            "PctAbv50MV": 66.22,
-            "PctAbv200MV": 54.05,
+            "PctAbv21MV": 77.24,
+            "PctAbv50MV": 68.97,
+            "PctAbv200MV": 60.69,
             "NumNear52WkHigh": 7.0,
             "NumNear52WkLow": 3.0,
             "DateUpdated": "05-12-2025",
             "name": "New Zealand"
         },
         {
-            "PctAbv21MV": 77.99,
-            "PctAbv50MV": 42.01,
-            "PctAbv200MV": 24.18,
+            "PctAbv21MV": 79.58,
+            "PctAbv50MV": 46.97,
+            "PctAbv200MV": 24.71,
             "NumNear52WkHigh": 7.0,
             "NumNear52WkLow": 6.0,
             "DateUpdated": "05-12-2025",
@@ -164,44 +164,44 @@
             "name": "Indonesia"
         },
         {
-            "PctAbv21MV": 73.1,
-            "PctAbv50MV": 70.44,
-            "PctAbv200MV": 56.22,
+            "PctAbv21MV": 73.81,
+            "PctAbv50MV": 72.17,
+            "PctAbv200MV": 58.36,
             "NumNear52WkHigh": 18.0,
             "NumNear52WkLow": 12.0,
             "DateUpdated": "05-12-2025",
             "name": "Canada (TSX)"
         },
         {
-            "PctAbv21MV": 73.68,
-            "PctAbv50MV": 60.37,
-            "PctAbv200MV": 39.66,
+            "PctAbv21MV": 72.17,
+            "PctAbv50MV": 60.44,
+            "PctAbv200MV": 40.6,
             "NumNear52WkHigh": 101.0,
             "NumNear52WkLow": 60.0,
             "DateUpdated": "05-12-2025",
             "name": "United States (NYSE+Nasdaq+AMEX)"
         },
         {
-            "PctAbv21MV": 72.6,
-            "PctAbv50MV": 68.92,
-            "PctAbv200MV": 64.6,
+            "PctAbv21MV": 71.21,
+            "PctAbv50MV": 69.29,
+            "PctAbv200MV": 64.85,
             "NumNear52WkHigh": 45.0,
             "NumNear52WkLow": 6.0,
             "DateUpdated": "05-12-2025",
             "name": "Brazil"
         },
         {
-            "PctAbv21MV": 65.73,
-            "PctAbv50MV": 56.23,
-            "PctAbv200MV": 58.72,
+            "PctAbv21MV": 68.29,
+            "PctAbv50MV": 62.86,
+            "PctAbv200MV": 64.08,
             "NumNear52WkHigh": 21.0,
             "NumNear52WkLow": 19.0,
             "DateUpdated": "05-12-2025",
             "name": "Mexico"
         },
         {
-            "PctAbv21MV": 79.47,
-            "PctAbv50MV": 72.36,
+            "PctAbv21MV": 74.39,
+            "PctAbv50MV": 67.89,
             "PctAbv200MV": 58.33,
             "NumNear52WkHigh": 15.0,
             "NumNear52WkLow": 1.0,
@@ -209,8 +209,8 @@
             "name": "S&P 500 Index"
         },
         {
-            "PctAbv21MV": 84.74,
-            "PctAbv50MV": 75.0,
+            "PctAbv21MV": 81.27,
+            "PctAbv50MV": 73.61,
             "PctAbv200MV": 54.74,
             "NumNear52WkHigh": 8.0,
             "NumNear52WkLow": 0.0,
@@ -218,8 +218,8 @@
             "name": "S&P 400 mid-cap index"
         },
         {
-            "PctAbv21MV": 81.28,
-            "PctAbv50MV": 69.34,
+            "PctAbv21MV": 81.82,
+            "PctAbv50MV": 69.7,
             "PctAbv200MV": 40.29,
             "NumNear52WkHigh": 14.0,
             "NumNear52WkLow": 1.0,
@@ -227,8 +227,8 @@
             "name": "S&P 600 small-cap index"
         },
         {
-            "PctAbv21MV": 83.36,
-            "PctAbv50MV": 67.93,
+            "PctAbv21MV": 82.16,
+            "PctAbv50MV": 66.44,
             "PctAbv200MV": 69.73,
             "NumNear52WkHigh": 67.0,
             "NumNear52WkLow": 1.0,
@@ -237,7 +237,7 @@
         },
         {
             "PctAbv21MV": 73.33,
-            "PctAbv50MV": 73.33,
+            "PctAbv50MV": 66.67,
             "PctAbv200MV": 70.0,
             "NumNear52WkHigh": 1.0,
             "NumNear52WkLow": 1.0,
@@ -245,8 +245,8 @@
             "name": "Dow Jones Industrial Average"
         },
         {
-            "PctAbv21MV": 84.54,
-            "PctAbv50MV": 77.32,
+            "PctAbv21MV": 82.47,
+            "PctAbv50MV": 75.26,
             "PctAbv200MV": 59.79,
             "NumNear52WkHigh": 3.0,
             "NumNear52WkLow": 0.0,
@@ -254,8 +254,8 @@
             "name": "Nasdaq 100 index"
         },
         {
-            "PctAbv21MV": 86.22,
-            "PctAbv50MV": 70.67,
+            "PctAbv21MV": 84.89,
+            "PctAbv50MV": 77.78,
             "PctAbv200MV": 52.89,
             "NumNear52WkHigh": 5.0,
             "NumNear52WkLow": 0.0,
@@ -263,8 +263,8 @@
             "name": "Japan Nikkei 225 index"
         },
         {
-            "PctAbv21MV": 92.53,
-            "PctAbv50MV": 79.89,
+            "PctAbv21MV": 71.88,
+            "PctAbv50MV": 81.25,
             "PctAbv200MV": 59.2,
             "NumNear52WkHigh": 7.0,
             "NumNear52WkLow": 0.0,
@@ -272,8 +272,8 @@
             "name": "Australia ASX 200 index"
         },
         {
-            "PctAbv21MV": 87.65,
-            "PctAbv50MV": 83.95,
+            "PctAbv21MV": 82.72,
+            "PctAbv50MV": 79.01,
             "PctAbv200MV": 71.6,
             "NumNear52WkHigh": 3.0,
             "NumNear52WkLow": 0.0,
@@ -281,8 +281,8 @@
             "name": "Hang Seng Index"
         },
         {
-            "PctAbv21MV": 76.38,
-            "PctAbv50MV": 65.74,
+            "PctAbv21MV": 75.82,
+            "PctAbv50MV": 64.8,
             "PctAbv200MV": 68.06,
             "NumNear52WkHigh": 71.0,
             "NumNear52WkLow": 4.0,
@@ -290,8 +290,8 @@
             "name": "Shanghai Composite Index"
         },
         {
-            "PctAbv21MV": 75.0,
-            "PctAbv50MV": 57.14,
+            "PctAbv21MV": 92.86,
+            "PctAbv50MV": 82.14,
             "PctAbv200MV": 28.57,
             "NumNear52WkHigh": 0.0,
             "NumNear52WkLow": 0.0,
@@ -299,8 +299,8 @@
             "name": "Malaysia KLSE Composite"
         },
         {
-            "PctAbv21MV": 60.0,
-            "PctAbv50MV": 56.67,
+            "PctAbv21MV": 56.67,
+            "PctAbv50MV": 63.33,
             "PctAbv200MV": 53.33,
             "NumNear52WkHigh": 2.0,
             "NumNear52WkLow": 0.0,
@@ -308,8 +308,8 @@
             "name": "Straits Times Index"
         },
         {
-            "PctAbv21MV": 75.25,
-            "PctAbv50MV": 69.19,
+            "PctAbv21MV": 71.21,
+            "PctAbv50MV": 67.17,
             "PctAbv200MV": 46.46,
             "NumNear52WkHigh": 15.0,
             "NumNear52WkLow": 1.0,
@@ -317,8 +317,8 @@
             "name": "Korea Kospi 200"
         },
         {
-            "PctAbv21MV": 89.8,
-            "PctAbv50MV": 93.88,
+            "PctAbv21MV": 77.55,
+            "PctAbv50MV": 81.63,
             "PctAbv200MV": 71.43,
             "NumNear52WkHigh": 1.0,
             "NumNear52WkLow": 0.0,
@@ -326,8 +326,8 @@
             "name": "India Nifty 50"
         },
         {
-            "PctAbv21MV": 86.21,
-            "PctAbv50MV": 89.66,
+            "PctAbv21MV": 75.86,
+            "PctAbv50MV": 75.86,
             "PctAbv200MV": 68.97,
             "NumNear52WkHigh": 1.0,
             "NumNear52WkLow": 0.0,
@@ -335,8 +335,8 @@
             "name": "India Sensex"
         },
         {
-            "PctAbv21MV": 69.01,
-            "PctAbv50MV": 55.29,
+            "PctAbv21MV": 67.18,
+            "PctAbv50MV": 55.15,
             "PctAbv200MV": 34.53,
             "NumNear52WkHigh": 57.0,
             "NumNear52WkLow": 50.0,
@@ -344,8 +344,8 @@
             "name": "Nasdaq Composite"
         },
         {
-            "PctAbv21MV": 84.62,
-            "PctAbv50MV": 79.49,
+            "PctAbv21MV": 74.36,
+            "PctAbv50MV": 76.92,
             "PctAbv200MV": 66.67,
             "NumNear52WkHigh": 4.0,
             "NumNear52WkLow": 0.0,
@@ -353,8 +353,8 @@
             "name": "German DAX"
         },
         {
-            "PctAbv21MV": 76.66,
-            "PctAbv50MV": 72.54,
+            "PctAbv21MV": 75.15,
+            "PctAbv50MV": 73.8,
             "PctAbv200MV": 56.26,
             "NumNear52WkHigh": 62.0,
             "NumNear52WkLow": 7.0,
@@ -362,8 +362,8 @@
             "name": "Germany (Xetra)"
         },
         {
-            "PctAbv21MV": 80.0,
-            "PctAbv50MV": 72.5,
+            "PctAbv21MV": 79.49,
+            "PctAbv50MV": 74.36,
             "PctAbv200MV": 67.5,
             "NumNear52WkHigh": 1.0,
             "NumNear52WkLow": 0.0,
@@ -371,8 +371,8 @@
             "name": "French CAC"
         },
         {
-            "PctAbv21MV": 86.0,
-            "PctAbv50MV": 78.0,
+            "PctAbv21MV": 85.71,
+            "PctAbv50MV": 81.63,
             "PctAbv200MV": 74.0,
             "NumNear52WkHigh": 2.0,
             "NumNear52WkLow": 0.0,
@@ -380,8 +380,8 @@
             "name": "FTSE100"
         },
         {
-            "PctAbv21MV": 73.28,
-            "PctAbv50MV": 68.12,
+            "PctAbv21MV": 72.35,
+            "PctAbv50MV": 68.49,
             "PctAbv200MV": 57.89,
             "NumNear52WkHigh": 321.0,
             "NumNear52WkLow": 244.0,
@@ -390,7 +390,7 @@
         },
         {
             "PctAbv21MV": 86.0,
-            "PctAbv50MV": 78.0,
+            "PctAbv50MV": 82.0,
             "PctAbv200MV": 74.0,
             "NumNear52WkHigh": 2.0,
             "NumNear52WkLow": 0.0,
@@ -407,8 +407,8 @@
             "name": "Swiss Market Index"
         },
         {
-            "PctAbv21MV": 81.69,
-            "PctAbv50MV": 80.63,
+            "PctAbv21MV": 81.39,
+            "PctAbv50MV": 81.31,
             "PctAbv200MV": 74.14,
             "NumNear52WkHigh": 62.0,
             "NumNear52WkLow": 4.0,
@@ -416,7 +416,7 @@
             "name": "Switzerland"
         },
         {
-            "PctAbv21MV": 91.67,
+            "PctAbv21MV": 86.11,
             "PctAbv50MV": 91.67,
             "PctAbv200MV": 77.78,
             "NumNear52WkHigh": 5.0,
