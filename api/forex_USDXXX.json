@@ -197,7 +197,7 @@
             "50EMA*": -5.21,
             "200EMA*": -13.48,
             "PctBelow52wkHi": 32.49,
-            "PctAbove52wkLo": -2.11,
+            "PctAbove52wkLo": 0.0,
             "YtdGain": -30.52,
             "tradetime": "05-29-25 00:00",
             "name": "Russian Ruble USDRUB"
@@ -307,7 +307,7 @@
             "50EMA*": 3.47,
             "200EMA*": 9.09,
             "PctBelow52wkHi": 1.58,
-            "PctAbove52wkLo": 28.27,
+            "PctAbove52wkLo": 28.17,
             "YtdGain": 14.75,
             "tradetime": "05-29-25 00:00",
             "name": "Argentina Peso USDARS"
@@ -337,7 +337,7 @@
             "50EMA*": -1.28,
             "200EMA*": -1.31,
             "PctBelow52wkHi": 3.72,
-            "PctAbove52wkLo": 3.75,
+            "PctAbove52wkLo": 3.23,
             "YtdGain": -2.16,
             "tradetime": "05-29-25 00:00",
             "name": "Egyptian pound USDEGP"
@@ -347,7 +347,7 @@
             "50EMA*": -3.0,
             "200EMA*": -4.08,
             "PctBelow52wkHi": 9.08,
-            "PctAbove52wkLo": -1.28,
+            "PctAbove52wkLo": 0.0,
             "YtdGain": -4.67,
             "tradetime": "05-29-25 00:00",
             "name": "Israeli Sheqel USDILS"
