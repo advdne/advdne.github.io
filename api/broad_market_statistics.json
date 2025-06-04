@@ -47,7 +47,7 @@
             "name": "Italy"
         },
         {
-            "PctAbv21MV": 57.68,
+            "PctAbv21MV": 57.43,
             "PctAbv50MV": 51.88,
             "PctAbv200MV": 44.64,
             "NumNear52WkHigh": 19.0,
@@ -56,7 +56,7 @@
             "name": "Singapore "
         },
         {
-            "PctAbv21MV": 52.84,
+            "PctAbv21MV": 47.12,
             "PctAbv50MV": 51.19,
             "PctAbv200MV": 45.43,
             "NumNear52WkHigh": 82.0,
@@ -65,7 +65,7 @@
             "name": "Hong Kong "
         },
         {
-            "PctAbv21MV": 47.79,
+            "PctAbv21MV": 47.81,
             "PctAbv50MV": 51.05,
             "PctAbv200MV": 61.12,
             "NumNear52WkHigh": 97.0,
@@ -74,7 +74,7 @@
             "name": "China (Shenzhen+Shanghai)"
         },
         {
-            "PctAbv21MV": 51.82,
+            "PctAbv21MV": 52.88,
             "PctAbv50MV": 49.9,
             "PctAbv200MV": 38.28,
             "NumNear52WkHigh": 63.0,
@@ -83,7 +83,7 @@
             "name": "Australia (ASX)"
         },
         {
-            "PctAbv21MV": 70.78,
+            "PctAbv21MV": 67.57,
             "PctAbv50MV": 67.57,
             "PctAbv200MV": 56.5,
             "NumNear52WkHigh": 184.0,
@@ -92,7 +92,7 @@
             "name": "Japan (TSE)"
         },
         {
-            "PctAbv21MV": 69.54,
+            "PctAbv21MV": 68.0,
             "PctAbv50MV": 70.5,
             "PctAbv200MV": 50.0,
             "NumNear52WkHigh": 76.0,
@@ -110,7 +110,7 @@
             "name": "Malaysia"
         },
         {
-            "PctAbv21MV": 48.03,
+            "PctAbv21MV": 50.0,
             "PctAbv50MV": 45.41,
             "PctAbv200MV": 40.53,
             "NumNear52WkHigh": 7.0,
