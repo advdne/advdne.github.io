@@ -169,7 +169,7 @@
             "Year gain (%)": 2.11,
             "FxGain": 0.0,
             "Year gain USD-adj (%)": 2.11,
-            "tradetime": "06-09-25 00:00",
+            "tradetime": "06-10-25 00:00",
             "name": "S&P 500"
         },
         {
@@ -385,7 +385,7 @@
             "Year gain (%)": -3.84,
             "FxGain": 0.0,
             "Year gain USD-adj (%)": -3.84,
-            "tradetime": "06-09-25 00:00",
+            "tradetime": "06-10-25 00:00",
             "name": "Russell 2000 small-cap"
         },
         {
@@ -409,7 +409,7 @@
             "Year gain (%)": 1.83,
             "FxGain": 0.0,
             "Year gain USD-adj (%)": 1.83,
-            "tradetime": "06-09-25 00:00",
+            "tradetime": "06-10-25 00:00",
             "name": "Russell 3000 (overall U.S market)"
         },
         {
